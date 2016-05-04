@@ -1,0 +1,26 @@
+{
+	"index": {
+		"title": "",
+		"name":"Home"
+	},
+	"program": {
+		"title": "",
+		"name":"Program"
+	},
+	"grand-tasting": {
+		"title": "",
+		"name":"Grand Tasting"
+	},
+	"agenda": {
+		"title": "",
+		"name":"Agenda"
+	},
+	"hotel-info": {
+		"title": "",
+		"name":"Hotel Info"
+	},
+	"scholarship-foundation": {
+		"title": "",
+		"name":"Scholarship Foundation"
+	}
+}
