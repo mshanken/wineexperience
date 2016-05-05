@@ -1,1 +1,0 @@
-hotel info page

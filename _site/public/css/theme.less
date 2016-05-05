@@ -19,12 +19,12 @@
 body{ background: url('/images/NYWE16_background.jpg'); }
 .container{ background: #fff; }
 .header{ margin-top: 20px;}
-.footer{ margin-bottom: 20px;}
-.footer p { text-align: center;}
 .header div{ margin-top: 20px; }
+.footer{ margin-bottom: 20px;}
+.footer p { text-align: center; font-size: 16px; }
 .imgborder{border:solid 4px #d9c05b; }
 
-.menu div{ margin-top: 12px; }
+.menu div{ margin-top: 8px; margin-bottom: 20px; }
 .menu ul.nav{ background-color: #3d6385; border:solid 5px #d9c05b !important; }
 .nav-tabs > li > a, .nav-tabs > li > a:hover, .nav-tabs > li > a:focus,
 .nav-tabs.nav-justified > li > a,
@@ -32,7 +32,7 @@ body{ background: url('/images/NYWE16_background.jpg'); }
 ul.nav li.active, ul.nav li:hover,ul.nav li.active a, ul.nav li a:hover{ background: url('/images/NYWE16_background.jpg'); }
 .nav-tabs.nav-justified > li{ vertical-align: middle; border-left: 2px #e1c564 solid; }
 
-h1 {font: bold 40px Georgia, Times, serif; }
+h1 {font: bold 47px Georgia, Times, serif; }
 h2 {font: bold 25px Georgia, Times, serif; }
 h1, h2, hr{ color: #3e6386; border-color: #3e6386; }
 ul{ padding-left: 15px; }
@@ -50,3 +50,19 @@ p, li { font-size: 20px; }
 }
 .home-page-board h1{ font-size: 25px; }
 .home-page-board h1, .home-page-board li{ color: #fff; }
+.ordertickets, .ordertickets:hover{
+	display: block;
+	background: url("/images/NYWE16_arrow.gif") repeat-y 0 50%;
+	font-size: 20px;
+	padding-left: 40px;
+	color: #333;
+	text-decoration: none;
+}
+.ordertickets span{ color: #3e6386; text-decoration: underline; }
+.decoration{ text-decoration: underline; }
+
+@media print {
+  .menu {
+    display: none;
+  }
+}
