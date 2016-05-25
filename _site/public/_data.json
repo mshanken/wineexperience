@@ -1,26 +1,29 @@
 {
 	"index": {
-		"title": "",
+		"title": "Wine Spectator's New York Wine Experience",
 		"name":"Home"
 	},
 	"program": {
-		"title": "",
+		"title": "Wine Spectator's New York Wine Experience | Program",
 		"name":"Program"
 	},
 	"grand-tasting": {
-		"title": "",
+		"title": "Wine Spectator's New York Wine Experience | Grand Tasting",
 		"name":"Grand Tasting"
 	},
 	"agenda": {
-		"title": "",
+		"title": "Wine Spectator's New York Wine Experience | Agenda",
 		"name":"Agenda"
 	},
 	"hotel-info": {
-		"title": "",
+		"title": "Wine Spectator's New York Wine Experience | Hotel Info",
 		"name":"Hotel Info"
 	},
 	"scholarship-foundation": {
-		"title": "",
+		"title": "Wine Spectator's New York Wine Experience | Scholarship Foundation",
 		"name":"Scholarship Foundation"
+	},
+	"sitemap": {
+	    "layout": false
 	}
 }

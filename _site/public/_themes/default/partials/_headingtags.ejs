@@ -4,7 +4,7 @@
         <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
         <meta name="description" content="<%- description %>">
         <meta name="keywords" content="<%- keywords %>">
-        <meta name="subject" content="your website's subject">
+        <meta name="subject" content="<%- title %>">
         <meta name="copyright" content="<%- copyright %>">
         <meta name='robots' content='index,follow'>
 
@@ -20,31 +20,36 @@
 
         <meta name="application-name" content="<%- title %>" /><!-- For Windows 8 -->
         <meta name="msapplication-tooltip" content="<%- description %>">
-        <meta name="msapplication-TileColor" content=" #009900" />
+        <meta name="msapplication-TileColor" content=" #3e6386" />
+<% if (apple_icons) {%>
         <meta name="msapplication-square70x70logo" content="images/smalltile.png" />
         <meta name="msapplication-square150x150logo" content="images/mediumtile.png" />
         <meta name="msapplication-wide310x150logo" content="images/widetile.png" />
         <meta name="msapplication-square310x310logo" content="images/largetile.png" />
         <meta name="msapplication-notification" content="frequency=30; polling-uri=notifications/contoso1.xml;polling-uri2=notifications/contoso2.xml; polling-uri3=notifications/contoso3.xml" />
-
+<% } %>
         <meta property="og:title" content="<%- title %>"><!-- facebook openGraph -->
         <meta property="og:description" content="<%- description %>">
+<% if (facebook) {%>
         <meta property="og:image" content="">
-
+<% } %>
         <meta name="twitter:card" content="summary"><!-- twitter openGraph -->
-        <meta name="twitter:site" content="@site_account">
-        <meta name="twitter:creator" content="@individual_account">
-        <meta name="twitter:url" content="http://<%- url %>">
+        <meta name="twitter:url" content="http://<%- url %>/<%- current.path[0] %>">
         <meta name="twitter:title" content="<%- title %>">
         <meta name="twitter:description" content="<%- description %>">
+<% if (twitter) {%>
+        <meta name="twitter:site" content="@site_account">
+        <meta name="twitter:creator" content="@individual_account">
         <meta name="twitter:image" content="">
-
+<% } %>
+<% if (ms_icons) {%>
         <link href="apple-touch-icon.png" rel="apple-touch-icon">
         <link href="apple-touch-icon.png" rel="apple-touch-icon" type="image/png">
         <link href="touch-icon-ipad.png" rel="apple-touch-icon" sizes="72x72">
         <link href="touch-icon-iphone4.png" rel="apple-touch-icon" sizes="114x114">
         <link href="startup.png" rel="apple-touch-startup-image">
-        <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
-        
+<% } %>
+        <link rel="sitemap" type="application/html" title="Sitemap" href="/sitemap.html">
+      
         <title><%- title %></title>
         <!-- Place favicon.ico in the root directory -->
