@@ -5,7 +5,7 @@
 					<ul class="nav nav-tabs nav-justified">
 				<% for(var nav in public._data){ 
 					if (nav !== 'sitemap') { %>
-						<li class="<%- (current.path[0] == nav) ? 'active' : '' %>"><a href="/<%= nav %>"><%= public._data[nav].name %></a></li>
+						<li class="<%- (current.path[0] == nav) ? 'active' : '' %>"><a href="/<%= nav %>.html"><%= public._data[nav].name %></a></li>
 					<% }; %>
 				<% }; %>
 					</ul>
@@ -14,7 +14,7 @@
 					<ul class="nav nav-tabs nav-stacked">
 				<% for(var nav in public._data){ 
 					if (nav !== 'sitemap') { %>
-						<li class="<%- (current.path[0] == nav) ? 'active' : '' %>"><a href="/<%= nav %>"><%= public._data[nav].name %></a></li>
+						<li class="<%- (current.path[0] == nav) ? 'active' : '' %>"><a href="/<%= nav %>.html"><%= public._data[nav].name %></a></li>
 					<% }; %>
 				<% }; %>
 					</ul>
