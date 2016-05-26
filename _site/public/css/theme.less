@@ -18,13 +18,13 @@
 // --------------------------------------------------
 body{ background: url('/images/NYWE16_background.jpg'); }
 .container{ background: #fff; }
-.header{ margin-top: 20px;}
-.header div{ margin-top: 20px; }
-.footer{ margin-bottom: 20px;}
+.header{ margin-top: 8px;}
+.header div{ margin-top: 8px; }
+.footer{ margin-bottom: 8px;}
 .footer p { text-align: center; font-size: 16px; }
 .imgborder{border:solid 4px #d9c05b; }
 
-.menu div{ margin-top: 8px; margin-bottom: 20px; }
+.menu div{ margin-top: 8px; margin-bottom: 8px; }
 .menu ul.nav{ background-color: #3d6385; border:solid 5px #d9c05b !important; }
 .nav-tabs > li > a, .nav-tabs > li > a:hover, .nav-tabs > li > a:focus,
 .nav-tabs.nav-justified > li > a,
@@ -64,8 +64,23 @@ p, li, .col-xs-12, .col-md-6 { font-size: 20px; }
 .ordertickets strike { color:red; }
 .ordertickets strike span { color: #333; text-decoration: none;  }
 .ordertickets small { font-weight: normal; }
+.navbar-toggle{ margin-top: 0; margin-right: 0; border-color: #ddd; }
+.icon-bar {
+    display: block;
+    width: 22px;
+    height: 2px;
+    border-radius: 1px;
+    background-color: #888;
+    color: white;
+}
 @media print {
   .menu {
     display: none;
   }
+}
+@media (min-width: @screen-sm-min) {
+	.header{ margin-top: 20px;}
+	.header div{ margin-top: 20px; }
+	.footer{ margin-bottom: 20px; }
+	.menu div{ margin-bottom: 20px; }
 }
