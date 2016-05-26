@@ -3,6 +3,7 @@
 module.exports = {
   js: {
     src: [
+      '<%= config.prod.script %>/vendor/jquery-1.11.1.js',
       '<%= config.prod.script %>/vendor/*.js',
       '<%= config.prod.script %>/app.js',
       '!<%= config.prod.script %>/vendor/modernizr.js',
