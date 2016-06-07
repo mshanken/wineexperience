@@ -1,0 +1,31 @@
+		
+		<nav id="menu" class="container menu" role="main-menu">
+			<div class="row">
+				<div class="col-md-10 col-md-offset-1 hidden-xs">
+					<ul class="nav nav-tabs nav-justified">
+				<% for(var nav in public._data){ 
+					if (nav !== 'sitemap') { %>
+						<li class="<%- (current.path[0] == nav) ? 'active' : '' %>"><a href="/<%= nav %>.html"><%= public._data[nav].name %></a></li>
+					<% }; %>
+				<% }; %>
+					</ul>
+				</div>
+				<div class="col-xs-10 visible-xs">
+					<ul class="nav nav-tabs nav-stacked collapse" id="bs-example-navbar">
+				<% for(var nav in public._data){ 
+					if (nav !== 'sitemap') { %>
+						<li class="<%- (current.path[0] == nav) ? 'active' : '' %>"><a href="/<%= nav %>.html"><%= public._data[nav].name %></a></li>
+					<% }; %>
+				<% }; %>
+					</ul>
+				</div>
+				<div class="col-xs-2 visible-xs">
+					<button type="button" class="btn btn-defualt navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar">
+				        <span class="sr-only">Toggle navigation</span>
+				        <span class="icon-bar"></span>
+				        <span class="icon-bar"></span>
+				        <span class="icon-bar"></span>
+				    </button>
+				</div>
+			</div>
+		</nav>

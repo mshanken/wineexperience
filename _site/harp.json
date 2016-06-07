@@ -1,0 +1,20 @@
+{
+  "globals": {
+    "title": "Wine Spectator's New York Wine Experience",
+    "site_tagline":"October 20-22, 2016 | New York Marriott Marquis | New York City",
+    "url": "www.wswineexperience.com",
+    "description": "October 20-22, 2016 | New York Marriott Marquis | New York City",
+    "keywords": "wine experience, new york, wine, wine spectator, wine event, event, new york event, grand tasting, wine tasting, wine spectator scholarship, wine spectator foundation",
+    "copyright": "M. Shanken Communications, Inc.",
+    "name": "Wine Experience",
+    "email": "dev@mshanken.com",
+    "layout": "false",
+    "facebook": false,
+    "ms_icons": false,
+    "apple_icons": false,
+    "twitter": false,
+    "analytics": false,
+    "typekit": false,
+    "disqus": false
+  }
+}

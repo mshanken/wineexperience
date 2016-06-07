@@ -1,0 +1,44 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+	<head>
+		<%- partial("_themes/default/partials/_headingtags") %>
+		<%- partial("_themes/default/partials/_styles") %>
+	    <%- partial("_themes/default/partials/_ga") %>
+	
+		<!--[if lt IE 9]>
+	      <script src="js/vendor/html5shiv.js"></script>
+	      <script src="js/vendor/slectivizr.js"></script>
+	      <script src="js/vendor/respond.src.js"></script>
+	    <![endif]-->
+		<script src="js/vendor/modernizr.js"></script>
+		
+	</head>
+	
+	<body>
+		<!--[if (lt IE 8)]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        <!--[if (gt IEMobile 8)|(IEMobile)]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+		<%- partial("_themes/default/_header") %>
+		<%- partial("_themes/default/_navbar") %>
+
+		<main id="main" class="container main" role="main">
+			<div class="row">
+				<div class="col-md-10 col-md-offset-1">
+					<%- yield %>
+				</div>
+		  	</div>
+		</main>
+
+		<%- partial("_themes/default/_footer") %>
+		<%- partial("_themes/default/partials/_scripts") %>
+		
+	</body>
+</html>
+    	
