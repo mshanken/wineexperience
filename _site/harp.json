@@ -14,7 +14,7 @@
     "apple_icons": true,
     "twitter": false,
     "analytics": false,
-    "ui_js": false,
+    "ui_js": true,
     "typekit": false,
     "disqus": false
   }
