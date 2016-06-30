@@ -4,7 +4,7 @@
 				<div class="col-md-10 col-md-offset-1 hidden-xs">
 					<ul class="nav nav-tabs nav-justified">
 				<% for(var nav in public._data){ 
-					if (nav !== 'sitemap') { %>
+					if (nav !== 'sitemap' && nav !== 'wineries') { %>
 						<li class="<%- (current.path[0] == nav) ? 'active' : '' %>"><a href="/<%= nav %>.html"><%= public._data[nav].name %></a></li>
 					<% }; %>
 				<% }; %>
@@ -13,7 +13,7 @@
 				<div class="col-xs-10 visible-xs">
 					<ul class="nav nav-tabs nav-stacked collapse" id="bs-example-navbar">
 				<% for(var nav in public._data){ 
-					if (nav !== 'sitemap') { %>
+					if (nav !== 'sitemap' && nav !== 'wineries') { %>
 						<li class="<%- (current.path[0] == nav) ? 'active' : '' %>"><a href="/<%= nav %>.html"><%= public._data[nav].name %></a></li>
 					<% }; %>
 				<% }; %>

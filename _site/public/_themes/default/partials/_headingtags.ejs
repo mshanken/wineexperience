@@ -7,7 +7,8 @@
         <meta name="subject" content="<%- title %>">
         <meta name="copyright" content="<%- copyright %>">
         <meta name='robots' content='index,follow'>
-
+        
+        <link rel="canonical" href="http://<%- url %>/<%- current.path[0] %>.html" />
         <meta name="HandheldFriendly" content="True">
         <meta name="MobileOptimized" content="320">
         <meta name="apple-mobile-web-app-title" content="<%- title %>"><!-- New in iOS6 -->
@@ -18,14 +19,19 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="viewport" content="width=device-width; width=320; initial-scale=1.0; maximum-scale=1.0; user-scalable=yes; target-densitydpi=160dpi">
 
+        <link rel="icon" type="image/png" href="images/favicon-32x32.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="images/android-chrome-192x192.png" sizes="192x192">
+        <link rel="icon" type="image/png" href="images/favicon-96x96.png" sizes="96x96">
+        <link rel="icon" type="image/png" href="images/favicon-16x16.png" sizes="16x16">
+
         <meta name="application-name" content="<%- title %>" /><!-- For Windows 8 -->
         <meta name="msapplication-tooltip" content="<%- description %>">
         <meta name="msapplication-TileColor" content=" #3e6386" />
 <% if (apple_icons) {%>
-        <meta name="msapplication-square70x70logo" content="images/smalltile.png" />
-        <meta name="msapplication-square150x150logo" content="images/mediumtile.png" />
-        <meta name="msapplication-wide310x150logo" content="images/widetile.png" />
-        <meta name="msapplication-square310x310logo" content="images/largetile.png" />
+        <meta name="msapplication-square70x70logo" content="images/mstile-70x70.png" />
+        <meta name="msapplication-square150x150logo" content="images/mstile-150x150.png" />
+        <meta name="msapplication-wide310x150logo" content="images/mstile-310x150.png" />
+        <meta name="msapplication-square310x310logo" content="images/mstile-310x310.png" />
         <meta name="msapplication-notification" content="frequency=30; polling-uri=notifications/contoso1.xml;polling-uri2=notifications/contoso2.xml; polling-uri3=notifications/contoso3.xml" />
 <% } %>
         <meta property="og:title" content="<%- title %>"><!-- facebook openGraph -->
@@ -34,7 +40,7 @@
         <meta property="og:image" content="">
 <% } %>
         <meta name="twitter:card" content="summary"><!-- twitter openGraph -->
-        <meta name="twitter:url" content="http://<%- url %>/<%- current.path[0] %>">
+        <meta name="twitter:url" content="http://<%- url %>/<%- current.path[0] %>.html">
         <meta name="twitter:title" content="<%- title %>">
         <meta name="twitter:description" content="<%- description %>">
 <% if (twitter) {%>
@@ -43,11 +49,11 @@
         <meta name="twitter:image" content="">
 <% } %>
 <% if (ms_icons) {%>
-        <link href="apple-touch-icon.png" rel="apple-touch-icon">
-        <link href="apple-touch-icon.png" rel="apple-touch-icon" type="image/png">
-        <link href="touch-icon-ipad.png" rel="apple-touch-icon" sizes="72x72">
-        <link href="touch-icon-iphone4.png" rel="apple-touch-icon" sizes="114x114">
-        <link href="startup.png" rel="apple-touch-startup-image">
+        <link href="images/apple-touch-icon.png" rel="apple-touch-icon">
+        <link href="images/apple-touch-icon.png" rel="apple-touch-icon" type="image/png">
+        <link href="images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
+        <link href="images/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
+        <link href="images/apple-touch-icon.png" rel="apple-touch-startup-image">
 <% } %>
         <link rel="sitemap" type="application/html" title="Sitemap" href="/sitemap.html">
       

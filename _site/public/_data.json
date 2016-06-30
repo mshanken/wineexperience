@@ -23,6 +23,10 @@
 		"title": "Wine Spectator's New York Wine Experience | Scholarship Foundation",
 		"name":"Scholarship Foundation"
 	},
+	"wineries": {
+		"title": "Wine Spectator's New York Wine Experience | List of Participating Wineries",
+		"name": "List of Participating Wineries"
+	},
 	"sitemap": {
 	    "layout": false
 	}

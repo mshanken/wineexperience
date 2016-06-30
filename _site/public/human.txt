@@ -2,41 +2,36 @@
 /* TEAM */
 
                             
-Your title: Your name.
+Your title: Wine Spectator's New York Wine Experience.
 
                             
-Site: email, link to a contact form, etc.
+Site: events@mshanken.com.
 
                             
-Twitter: your Twitter username.
+Twitter: https://twitter.com/WineSpectator.
 
                             
-Location: City, Country.
+Location: New York, USA.
 
-                         
-                 
-                        [...]
 						
 
 							
 /* THANKS */
 
 							
-Name: name or url
+Name: http://www.nywineexperience.com/
 
 						
-                 
-                        [...]
                         
 
                             
 /* SITE */
 
                             
-Last update: YYYY/MM/DD 
+Last update: 2016/06/27 
 
                             
-Standards: HTML5, CSS3,..
+Standards: HTML5, CSS3
 
                             
 Components: Modernizr, jQuery, etc.
