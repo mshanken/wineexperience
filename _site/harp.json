@@ -13,7 +13,7 @@
     "ms_icons": true,
     "apple_icons": true,
     "twitter": false,
-    "analytics": false,
+    "analytics": true,
     "ui_js": true,
     "typekit": false,
     "disqus": false
