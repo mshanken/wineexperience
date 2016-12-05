@@ -6,6 +6,7 @@ module.exports = {
       '<%= config.prod.script %>/vendor/jquery-1.11.1.js',
       '<%= config.prod.script %>/vendor/*.js',
       '<%= config.prod.script %>/app.js',
+      '!<%= config.prod.script %>/vendor/scrollreveal.js',
       '!<%= config.prod.script %>/vendor/modernizr.js',
       '!<%= config.prod.script %>/vendor/html5shiv.js',
       '!<%= config.prod.script %>/vendor/respond.src.js'
