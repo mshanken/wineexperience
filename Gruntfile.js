@@ -5,15 +5,15 @@ module.exports = function(grunt) {
 
   var options = {
     config : {
-      // src: 'grunt-tasks/*.js',
+      src: 'grunt-tasks/*.js',
       pkg: grunt.file.readJSON('package.json'),
-      replacements: require('./config/replacements'), // Regex for refactor task.
+      replacements: require('./grunt-tasks/replacements'), // Regex for refactor task.
       dev: {
-        root:   '_site/public',
-        style:  '_site/public/css',
-        images: '_site/public/images',
-        script: '_site/public/js',
-        font:   '_site/public/fonts'
+        root:   './_site/public',
+        style:  './_site/public/css',
+        images: './_site/public/images',
+        script: './_site/public/js',
+        font:   './_site/public/fonts'
       },
       prod: {
         root:   'www',
@@ -41,12 +41,12 @@ module.exports = function(grunt) {
     'harp:staticserver'
   ]);
   grunt.registerTask('compile', [
-    'harp:dist',
+    // 'harp:dist',
     'concat',
     'uglify'
   ]);
   grunt.registerTask('gh-pages', [
-    'harp:dist',
+    // 'harp:dist',
     'concat',
     'uglify',
     'htmlmin',
@@ -56,7 +56,6 @@ module.exports = function(grunt) {
   grunt.registerTask('start', [
     'bower',
     'frep',
-    'harp:server'
   ]);
   grunt.registerTask('lint', [
     'jscs',

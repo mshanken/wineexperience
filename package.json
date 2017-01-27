@@ -1,6 +1,6 @@
 {
   "name": "mshankenstartkit",
-  "version": "0.0.5",
+  "version": "2.0.0",
   "description": "A project start kit",
   "author": "M. Shanken Communications, Inc. <dev@mshanken.com>",
   "contributors": [
@@ -22,10 +22,16 @@
     "url": "https://github.com/mshanken/mshankenstartkit/issues"
   },
   "scripts": {
-    "start": "npm install && bower install && mkdir _site/public/js/vendor && npm run jquery && npm run modernizr",
+    "start": "npm run jquery && npm run modernizr && grunt start && npm run server",
+    "browsersync":"browser-sync start --proxy 'localhost:9000' --files '_site/public/**/*.ejs, _site/public/_**/_*.ejs _site/public/**/*.md, _site/public/**/*.scss, _site/public/_data.json' --no-open",
     "modernizr": "node_modules/modernizr/bin/modernizr -c config-all.json && mv modernizr.js _site/public/js/vendor/modernizr.js",
-    "jquery": "jquery-builder > _site/public/js/vendor/jquery-1.11.1.js",
+    "jquery": "cp bower_components/jquery/dist/jquery.js _site/public/js/vendor/",
+    "jquery-1": "jquery-builder > _site/public/js/vendor/jquery-1.11.1.js",
     "jquery-2": "jquery-builder --version 2.1.1 > _site/public/js/vendor/jquery-2.1.1.js",
+    "server": "harp server _site",
+    "compile": "harp compile _site www && grunt compile",
+    "gh-pages": "harp compile _site && grunt copy",
+    "static": "grunt harp:staticserver",
     "test": ""
   },
   "private": true,
@@ -49,7 +55,6 @@
     "grunt-contrib-rename": "0.0.3",
     "grunt-contrib-uglify": "^0.11.0",
     "grunt-frep": "^0.1.2",
-    "grunt-harp": "^0.1.5",
     "grunt-jscs": "^2.6.0",
     "grunt-rev": "^0.1.0",
     "grunt-usemin": "^3.1.1",

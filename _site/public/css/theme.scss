@@ -1,0 +1,179 @@
+/*!
+ * Bootstrap v3.3.6 (http://getbootstrap.com)
+ * Copyright 2011-2015 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+
+//
+// Load core variables and mixins
+// --------------------------------------------------
+
+@import "custom";
+@import "_vendor/bootstrap";
+@import "bower_components/bootstrap/scss/mixins";
+
+//
+// Custom style starts here
+// --------------------------------------------------
+//
+// Add your style here
+// --------------------------------------------------
+body{ background: url('/images/NYWE16_background-2.jpg') 50% 0; }
+.container{ background: #fff; }
+.header{ margin-top: 14px;}
+.header div{ margin-top: 0; }
+.footer{ margin-bottom: 8px;}
+.footer p { text-align: center; font-size: 16px; }
+.imgborder{border:solid 4px #d9c05b; }
+#logo.row { margin-right: -30px; margin-left: -30px;}
+.menu div{ margin-top: 8px; margin-bottom: 8px; }
+.menu ul.nav{ background-color: #3d6385; border:solid 5px #d9c05b !important; }
+.menu .nav-tabs > li.active > a, .menu .nav-tabs > li.active > a:hover, .menu .nav-tabs > li.active > a:focus,
+.menu .nav-tabs > li > a, .menu .nav-tabs > li > a:hover, .menu .nav-tabs > li > a:focus,
+.menu .nav-tabs.nav-justified > li > a,
+.menu .nav-tabs.nav-justified > .active > a, .menu .nav-tabs.nav-justified > .active > a:hover, .menu .nav-tabs.nav-justified > .active > a:focus{ border:none; border-radius: 0; font-size: 16px; color: #fff; text-transform: uppercase; padding: 5px; }
+.menu ul.nav li.active, .menu ul.nav li:hover, .menu ul.nav li.active a, .menu ul.nav li a:hover{ background: url('/images/NYWE16_background.jpg'); }
+.menu .nav-tabs.nav-justified > li{ vertical-align: middle; border-left: 2px #e1c564 solid; }
+
+h1 {font: bold 24px Georgia, Times, serif; text-align: center; margin-bottom: 40px; margin-top: 40px; line-height: 45px; }
+h1 a, h1 a:hover, h1 a:visited { color: #3e6386; text-decoration: underline; }
+h2 {font: bold 39px Georgia, Times, serif; }
+h1, h2, hr{ color: #3e6386; border-color: #3e6386; }
+h2 span{ font-size: 20px; color:#333; font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; font-weight: normal; }
+ul{ padding-left: 15px; }
+p, li, .col-xs-12, .col-md-6 { font-size: 20px; }
+p.secFont { font: 22px Georgia, Times, serif; color: #3e6386;   }
+.special{ background: #406186; padding: 10px; color: #fff; font-size: 22px; text-align: center; margin: 30px auto; }
+.special a, .special a:hover, .special a:visited { color: #fff; text-decoration: underline; }
+.smalltext p{ font-size: 14px; font-style: italic; }
+.hp-col p{ width: 78%; }
+.home-page-board{
+	margin:0;
+	background-color:#52568d;
+	border:solid 4px #dbbf5b;
+	width: 100%;
+	border-radius: 1em;
+	padding: 1% 3%;
+	margin-top: 60px;
+}
+.home-page-board h1{ font-size: 25px; }
+.home-page-board h1, .home-page-board li{ color: #fff; }
+.ordertickets, .ordertickets:hover{
+	display: block;
+	background: url("/images/NYWE16_arrow.gif") repeat-y 0 50%;
+	font-size: 23px;
+	padding-left: 40px;
+	color: #333;
+	text-decoration: none;
+}
+.ordertickets span{ color: #3e6386; text-decoration: underline; }
+.decoration{ text-decoration: underline; }
+.ordertickets strike { color:red; }
+.ordertickets strike span { color: #333; text-decoration: none;  }
+.ordertickets small { font-weight: normal; }
+.navbar-toggle{ margin-top: 0; margin-right: 0; border-color: #ddd; }
+.icon-bar {
+    display: block;
+    width: 22px;
+    height: 2px;
+    border-radius: 1px;
+    background-color: #888;
+    color: white;
+}
+ul.styledlist li{ list-style-image: url("/images/NYWE16_ProgramV3-01.gif");}
+.secondaryfont { font-family: arial, serif }
+table{ margin-bottom: 27px; }
+table tr td { vertical-align: top; font-size: 19px; }
+table tr td img { margin-right: 10px; }
+table tr td em, p.chef em{ font-family: georgia, times, sans-serif;}
+table tr td em span, p.chef em span { color: #3e6386; font-weight: bold; }
+p.chef { text-align:center; }
+.agendaTextDecor li, .agendaTextDecor strong{ color: #3e6386; }
+.agendaTextDecor li span { color: #333; }
+.wineryListborderedbox dt, .wineryListborderedbox dd{ font-size: 14px;  margin-bottom: 3px; }
+.wineryListborderedbox h3 { text-align: center; font-weight: normal; }
+.wineryListborderedbox h3, .wineryListborderedbox dt{ color: #9e004f; }
+.dl-horizontal dt{
+	    float: left;
+	    width: auto;
+	    clear: left;
+	    text-align: right;
+	    overflow: hidden;
+	    text-overflow: ellipsis;
+	    white-space: nowrap;
+}
+.dl-horizontal dd{ margin-left: 20px; }
+.evenends {
+	background: red;
+	color: white;
+	padding: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+	z-index: 100;
+	position: absolute;
+	top: 15%;
+	left: 0.3%;
+	width: 96%;
+}
+.evenends blockquote footer {
+	color: #ddd;
+}
+.evenends p, .evenends blockquote footer{
+	text-shadow: 2px 2px 2px rgba(51, 51, 51, 0.75);
+}
+@media (min-width: 450px) {
+	.evenends{
+		top: 15%;
+		left: 0.5%;
+		width: 96%;
+	}
+}
+@include media-breakpoint-up(sm) {
+	.header{ margin-top: 20px;}
+	.header div{ margin-top: 20px; }
+	.footer{ margin-bottom: 20px; }
+	.menu div{ margin-bottom: 20px; }
+	#logo.row { margin-right: -15px; margin-left: -15px;}
+	.evenends{
+		top: 20%;
+		left: 9%;
+		width: 80%;
+	}
+}
+@media all and (orientation: landscape) {
+	.evenends{
+		top: 40%;
+	}
+}
+@include media-breakpoint-up(md) {
+	.wineryListborderedbox{
+        border: 3px solid #d9c05b;
+		h2{
+			position: absolute;
+			top:-40px;
+			background-color: #fff;
+			padding-right: 20px;
+			padding-left: 20px;
+		}
+		.row{
+			padding-top: 40px;
+		}
+	}
+	.evenends{
+		top: 20%;
+		left: 4%;
+		width: 90%;
+	}
+}
+@include media-breakpoint-up(lg) {
+	.evenends{
+		top: 25%;
+		left: 5%;
+		width: 90%;
+	}
+}
+@media print {
+  .menu {
+    display: none;
+  }
+}
