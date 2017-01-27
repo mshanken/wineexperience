@@ -19,11 +19,8 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": "~3.3.5",
     "html5shiv": "~3.7.3",
     "respond": "~1.4.2",
-    "selectivizr": "^1.0.2",
-    "requirejs": "^2.2.0",
-    "scrollreveal": "^3.3.2"
+    "bootstrap": "v4.0.0-alpha.6"
   }
 }
