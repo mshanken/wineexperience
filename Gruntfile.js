@@ -50,7 +50,7 @@ module.exports = function(grunt) {
     'concat',
     'uglify',
     'htmlmin',
-    'cssmin',
+    // 'cssmin',
     'copy:ghpages'
   ]);
   grunt.registerTask('start', [

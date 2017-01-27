@@ -4,9 +4,9 @@ module.exports = {
   dist: {
     files: [{
       expand: true,
-      cwd: 'www/',
+      cwd: '_site/public',
       src: '{,*/}*.{png,jpg,jpeg}',
-      dest: 'web/'
+      dest: 'www/'
     }]
   }
 };
