@@ -9,7 +9,25 @@
 // --------------------------------------------------
 
 @import "custom";
-@import "_vendor/bootstrap";
+// Core variables and mixins
+@import "bower_components/bootstrap/scss/variables";
+@import "bower_components/bootstrap/scss/mixins";
+@import "bower_components/bootstrap/scss/custom";
+
+// Reset and dependencies
+@import "bower_components/bootstrap/scss/normalize";
+@import "bower_components/bootstrap/scss/print";
+
+// Core CSS
+@import "bower_components/bootstrap/scss/reboot";
+@import "bower_components/bootstrap/scss/type";
+@import "bower_components/bootstrap/scss/images";
+@import "bower_components/bootstrap/scss/code";
+@import "bower_components/bootstrap/scss/grid";
+
+// Utility classes
+@import "bower_components/bootstrap/scss/utilities";
+
 @import "bower_components/bootstrap/scss/mixins";
 
 //

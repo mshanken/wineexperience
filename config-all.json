@@ -1,5 +1,5 @@
 {
-  "classPrefix": "ms-",
+  "classPrefix": "",
   "options": [
     "addTest",
     "atRule",

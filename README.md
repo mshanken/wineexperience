@@ -1,62 +1,33 @@
-#Harpjs Boilerplate
+# Wine Spectator Wine experience
 
-This is a starter-kit for building a static web site dinamically.
+An Promotional event site, please read below on how to update and generate static content for this project.
 
-Clone to create a new project. them run `npm start` and now you can start creating your own static site.
+# Harpjs Boilerplate Tool
 
-<strike>It comes with a bootstrap 3 theme though you can change that by creating a new theme, just follow the theme structure from the default theme. Them in the layout file change your new theme name from the default path.</strike>
+1. clone the repo locally ```git clone git@github.com:mshanken/winexperience.git```
 
-<strong>NEW:</strong> Harp-Boilerplate comes with theme-builder
+2. cd into the project.
 
-Check out harpjs for more [info](http://harpjs.com/docs/)
+3. Create a folder in the css folder and name it _vendor ```mkdir _site/public/css/_vendor```
 
-#How it works
-The following are required before you start a project
+4. Create a folder in the ja folder and name it vendor ```mkdir _site/public/js/vendor```
 
-1. Node
-2. NPM
-3. Grunt
-4. Bower
 
-To start a new project just clone the repo and run the following commands 
+## Avialable commands.
 
-1. ```npm start``` 
-2. ```grunt start```
-3. Check [http://localhost:9000](http://localhost:9000) in your browser.
+```docker-compose up -d``` builds the project in a docker container. Once that's done. Type this URL [http://localhost:9000](http://localhost:9000/) in your browser to check web site.
 
-This is a list of commads at your dispose to create a simple static web-site. Enjoy it!
+```docker-compose exec web npm run browsersync``` starts browser-sync [http://localhost:3000/](http://localhost:3000/) hit ```Ctrl + P and Ctrl + Q``` to detach.
 
-##```npm start```
-Will install project dependencies.
+```docker-compose exec web npm run compile``` compiles served site into static HTML in a folder "www"
 
-##```grunt start```
-To make (bower) installed assets available in your project.
+```docker-compose exec web npm run gh-pages```  what this command does is compiled (if not compiled) then drops compiled files into root folder<br>
+**Note:** this comand should be used in gh-pages branch only.
 
-##```grunt server```
-Runs harp server from your harpjs working directory ```_site/```, after you run this command open your browser with this location http://localhost:9000 to preview it. Type ```ctrl+c``` to turn off the server.
+Run ```docker-compose exec web /bin/bash``` to access docker machine from terminal an run other grunt/npm comands.
 
-##```grunt compile```
-Runs harp compile to generate the static HTML of your dinamic website.
+```docker-compose stop``` to turn off the docker container.
 
-##```grunt static```
-Like ```grunt server``` it runs another server but this one serves the generated HTML (compiled), this can help to review the generated HTML site. Open your browser with this url http://localhost:8800.
+```docker-compose down``` to remove this container, Always use this command after you are done with this repo.
 
-##```grunt gh-pages```
-**NOTE:** this command should run at the **_gh-pages_** branch only.
-
-This command will copy the generated HTML (compiled) version of your site at rooted level so it can be render at github gh-pages.
-
-#What's in here?
-One you have ran ```npm start``` check the _site/public folder (your working directory/folder) everyhing you need to create a website is there, you can add more assets trough bower if needs to.
-By deafult it comes with a bootstarp theme, jquery 1.11, modernizr and HTML5 shim, for IE6-8 support of HTML5 elements.
-You want to use jquery 2, instead of 1, just run ```npn run jquery-2``` and you should have it.
-
-#How to work with it?
-As mentioned it comens with bootstrap as a default theme, you can modify this theme by using the theme builder
-
-Need another JS/Jquery library? install it with bower, use ```bower install jslibraryname --save``` them ```grunt bower``` to place new uplaoaded library in the vandor folder fo your site
-
-By default, site comes with jquery 1.(latest) version installed, you can change to version 2 by just running ```npn run jquery-2```, you also need update the path to point to the update version in the template file.
-
-#What's next?
-TODO...
+Read more in [here](https://github.com/mshanken/harp-boilerplate/#readme)
