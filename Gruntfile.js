@@ -42,12 +42,12 @@ module.exports = function(grunt) {
   ]);
   grunt.registerTask('compile', [
     // 'harp:dist',
-    'concat',
+    // 'concat',
     'uglify'
   ]);
   grunt.registerTask('gh-pages', [
     // 'harp:dist',
-    'concat',
+    // 'concat',
     'uglify',
     'htmlmin',
     // 'cssmin',
@@ -64,7 +64,7 @@ module.exports = function(grunt) {
   ]);
   grunt.registerTask('min', [
     'useminPrepare',
-    'imagemin',
+    // 'imagemin',
     'htmlmin',
     'cssmin',
     'concat',

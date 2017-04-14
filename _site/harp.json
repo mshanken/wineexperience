@@ -1,10 +1,10 @@
 {
   "globals": {
     "title": "Wine Spectator's New York Wine Experience",
-    "site_tagline":"A unique opportunity to taste the world’s finest wines | October 20-22, 2016 | New York Marriott Marquis | New York City",
+    "site_tagline":"A unique opportunity to taste the world’s finest wines | October 19-21, 2017 | New York Marriott Marquis | New York City",
     "url": "www.nywineexperience.com",
     "description": "A unique opportunity to taste the world’s finest wines. The New York Wine Experience is a joyous three-day celebration of great wine. Only at a Wine Experience can you sit down and taste the world’s best wines guided by the estates’ owners and winemakers.",
-    "keywords": "wine experience 2016, new york, wine event, wine spectator event, new york wine event, grand tasting, wine tasting, wine spectator scholarship, wine spectator foundation, a new york event for the week of October 20-22. 2016, 2016 wine event in new york, new york wine experience",
+    "keywords": "wine experience 2017, new york, wine event, wine spectator event, new york wine event, grand tasting, wine tasting, wine spectator scholarship, wine spectator foundation, a new york event for the week of October 19-21. 2017, 2017 wine event in new york, new york wine experience",
     "copyright": "M. Shanken Communications, Inc.",
     "name": "Wine Experience",
     "email": "dev@mshanken.com",
@@ -14,7 +14,7 @@
     "apple_icons": true,
     "twitter": false,
     "analytics": true,
-    "ui_js": true,
+    "ui_js": false,
     "typekit": false,
     "disqus": false
   }
