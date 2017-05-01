@@ -6,24 +6,24 @@
 }
 .buttonfont1{
 	color: #ffffff;
-    font-family: Myriad Pro, sans-serif;
-    font-size: ;
-    font-weight: 200;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
     background-color: #542d83 !important;
     border: 1px solid #ffffff !important;
     width: 250px;
     border-radius: 0;
     margin-left: 250px;
+	letter-spacing: 0.1em;
 }
 .buttonfont2{
 	color: #ffffff;
-    font-family: Myriad Pro, sans-serif;
-    font-size: ;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 200;
     background-color: #542d83 !important;
     border: 1px solid #ffffff !important;
     width: 250px;
     border-radius: 0;
+    letter-spacing: 0.1em;
 }
 .section-title1{
 	color: #542d83;
