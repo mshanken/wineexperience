@@ -66,25 +66,37 @@
 .borderimg{
 	width: 170px !important;
 }
-.list-title{
+.list-title1{
 	color: #9e004f;
 	font-size: 29px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 600;
 	margin-top: 15px;
 	text-transform: uppercase;
+	text-align: center !important;
 }
-ul{
+.list-title2{
+	color: #9e004f;
+	font-size: 29px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	margin-top: 15px;
+	margin-bottom: 0px;
+	text-transform: uppercase;
+	text-align: center !important;
+}
+.event_details{
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 600;
 	font-size: 18px;
+	text-align: center !important;
 }
 .price{
 	color: #9e004f;
 	font-size: 18px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 600;
-	text-align: center;
+	text-align: center !important;
 }
 .registerbutton1{
 	color: #ffffff;
@@ -114,19 +126,32 @@ ul{
 	font-size: 18px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 600;
+	text-align: center !important;
 }
 .admission-time{
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 600;
 	font-size: 18px;
+	text-align: center !important;
 }
 .specail-message{
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 600;
 	font-size: 18px;
+	text-align: center !important;
 }
 #space{
 	margin-top: 25px;
+}
+.vip{
+	color: #50bdff;
+	font-size: 22px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	text-align: center !important;
+	margin-top: 0px !important;
+	margin-bottom: 0px;
+	text-transform: uppercase;
 }
 /* ----------- iPhone 4 and 4S ----------- */
 
