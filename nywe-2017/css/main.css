@@ -420,7 +420,7 @@
   and (orientation: landscape) 
   and (-webkit-min-device-pixel-ratio: 1) {
   	.tablet_screens{
-  		margin-left: 325px;
+  		margin-left: 325px !important;
 	}
 }
 
