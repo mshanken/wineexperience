@@ -455,7 +455,7 @@
 	margin-left: 0px;
 	}
 	.tablet_screens{
-		 margin-left: 219px;
+		 margin-left: 219px !important;
 	}
 	/* Landscape */
 @media only screen 
@@ -498,9 +498,9 @@
     letter-spacing: 0.1em;
 	margin-left: 0px;
 	}
-	
+
 	.tablet_screens{
-		margin-left: 219px;
+		margin-left: 219px !important;
 	}
 	/* Landscape */
 @media only screen 
