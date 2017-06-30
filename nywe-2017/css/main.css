@@ -150,8 +150,8 @@
 	text-transform: uppercase;
 }
 .btn-group .navie{
-	color: #ffffff;
-	background-color: #542d83;
+	color: #ffffff !important;
+	background-color: #542d83 !important;
 }
 /* ----------- iPhone 4 and 4S ----------- */
 
@@ -378,4 +378,31 @@
 		margin-top: 50px !important;
 		margin-bottom: 5px !important;
 	}
+}
+/* ----------- iPad mini ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+}
+
+/* ----------- iPad 1 and 2 ----------- */
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+}
+
+/* ----------- iPad 3 and 4 ----------- */
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 2) {
+
 }
