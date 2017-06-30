@@ -482,6 +482,17 @@
   	.tablet_screens{
   		margin-left: 325px !important;
 	}
+	.buttonfont1 {
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    background-color: #542d83 !important;
+    border: 1px solid #ffffff !important;
+    width: 250px;
+    border-radius: 0;
+    margin-left: 0px;
+    letter-spacing: 0.1em;
+	}
 
 }
 
@@ -529,5 +540,16 @@
   and (-webkit-min-device-pixel-ratio: 2) {
   	.tablet_screens{
   		margin-left: 325px !important;
+	}
+	.buttonfont1 {
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    background-color: #542d83 !important;
+    border: 1px solid #ffffff !important;
+    width: 250px;
+    border-radius: 0;
+    margin-left: 0px;
+    letter-spacing: 0.1em;
 	}
 }
