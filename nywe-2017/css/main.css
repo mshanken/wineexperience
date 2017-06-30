@@ -398,6 +398,18 @@
     letter-spacing: 0.1em;
     margin-left: 0px;
 	}
+	.buttonfont2{
+	color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    background-color: #542d83 !important;
+    border: 1px solid #ffffff !important;
+    width: 250px;
+    height: 50px;
+    border-radius: 0;
+    letter-spacing: 0.1em;
+	margin-left: 0px;
+	}
 	.tablet_screens{
 		margin-left: 219px;
 	}
@@ -421,6 +433,18 @@
     letter-spacing: 0.1em;
     margin-left: 0px;
 	}
+	.buttonfont2{
+	color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    background-color: #542d83 !important;
+    border: 1px solid #ffffff !important;
+    width: 250px;
+    height: 50px;
+    border-radius: 0;
+    letter-spacing: 0.1em;
+	margin-left: 0px;
+	}
 	.tablet_screens{
 		margin-left: 219px;
 	}
@@ -434,6 +458,18 @@
   and (-webkit-min-device-pixel-ratio: 2) {
   	.buttonfont1 {
     color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    background-color: #542d83 !important;
+    border: 1px solid #ffffff !important;
+    width: 250px;
+    height: 50px;
+    border-radius: 0;
+    letter-spacing: 0.1em;
+	margin-left: 0px;
+	}
+	.buttonfont2{
+	color: #ffffff;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     background-color: #542d83 !important;
