@@ -153,6 +153,11 @@
 	color: #ffffff !important;
 	background-color: #542d83 !important;
 }
+
+#border2{
+	border: solid 1px ;
+	margin-top: 40px;
+}
 /* ----------- iPhone 4 and 4S ----------- */
 
 /* Portrait and Landscape */
