@@ -22,6 +22,30 @@
     border-radius: 0;
     letter-spacing: 0.1em;
 }
+.buttonfont3{
+	color: #ffffff;
+    font-size: 28px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    background-color: #542d83 !important;
+    border: 1px solid #ffffff !important;
+    width: 543px;
+    border-radius: 0;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+}
+.buttonfont4{
+	color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    background-color: #542d83 !important;
+    border: 1px solid #ffffff !important;
+    width: 374px;
+    border-radius: 0;
+    letter-spacing: 0.1em;
+    margin-left: 75px;
+    font-size: 25px;
+}
 .section-title1{
 	color: #542d83;
 	font-family: 'Montserrat', sans-serif;
@@ -157,6 +181,35 @@
 #border2{
 	border: solid 1px ;
 	margin-top: 40px;
+}
+#full_list{
+	text-align: center;
+}
+.specialask{
+
+}
+#zeropadding{
+	padding: 0;
+}
+#zeropaddingright{
+	padding: 0;
+}
+#zeropaddingleft{
+	padding: 0;
+}
+.hotel_title{
+	color: #ffffff;
+	text-align: center;
+	font-size: 45px;
+	font-family: 'Montserrat', sans-serif;
+	padding-top: 30px;
+}
+.hotel_details{
+	color: #ffffff;
+	text-align: center;	
+	font-size: 17px;
+	font-family: 'Montserrat', sans-serif;
+	padding-bottom: 30px;
 }
 /* ----------- iPhone 4 and 4S ----------- */
 
