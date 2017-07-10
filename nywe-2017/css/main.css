@@ -26,7 +26,7 @@
 	color: #ffffff;
     font-size: 28px;
     font-family: 'Montserrat', sans-serif;
-    font-weight: bold;
+    font-weight: 400;
     background-color: #542d83 !important;
     border: 1px solid #ffffff !important;
     width: 543px;
@@ -37,7 +37,7 @@
 .buttonfont4{
 	color: #ffffff;
     font-family: 'Montserrat', sans-serif;
-    font-weight: 600;
+    font-weight: 400;
     background-color: #542d83 !important;
     border: 1px solid #ffffff !important;
     width: 374px;
@@ -184,6 +184,8 @@
 }
 #full_list{
 	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 20px;
 }
 .specialask{
 
