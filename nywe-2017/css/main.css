@@ -218,10 +218,11 @@
 }
 .headline_details{
 	text-align: center;
-    font-size: 20px;
+    font-size: 32px;
     color: #3b81c3;
     font-weight: 500;
     font-family: 'Montserrat', sans-serif;
+    margin-bottom: 0px;
 }
 .event_days{
 	color: #3b81c3;
@@ -288,7 +289,6 @@
     font-size: 20px;
     font-family: 'Montserrat', sans-serif;
     color: #542d83;
-    font-weight: 00;
     text-transform: uppercase;
     margin-top: 15px;
 }
@@ -300,6 +300,90 @@
 #fulllist_button{
 	margin: 0 auto;
 	width: 500px;
+}
+.two_dates{
+	font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    text-align: center;
+    margin-top: 0px;
+}
+.grandtatsting_regions{
+	font-size: 28px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.vip_1{
+	text-align: center;
+    font-size: 32px;
+    color: #3b81c3;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 0px;
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+.vip_time{
+	text-align: center;
+    font-size: 32px;
+    color: #9e004f;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 0px;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+.only_weekend{
+	font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.title_section_faq{
+	text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    margin-top: -32px;
+    width: 140px;
+    background-color: #ffffff;
+    margin-left: 490px;
+    font-weight: 600;
+    color: #542d83;
+}
+#faq_space{
+	border-top: solid 4px #542d83;
+    margin-top: 35px;
+}
+.question{
+	color: #3b81c3;
+    font-weight: 600;
+    font-size: 22px;
+    font-family: 'Montserrat', sans-serif;
+}
+.answer{
+	color: #542d83;
+    font-size: 17px;
+    font-family: 'Montserrat', sans-serif;
+}
+.border_2 {
+    border-top: solid 4px #ffffff;
+    width: 600px;
+    color: #ffffff;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.border_bottom_2{
+	border-top: solid 4px #ffffff;
+    width: 600px;
+    color: #ffffff;
+    margin: 0 auto;
+    padding-bottom: 50px;
 }
 /* ----------- iPhone 4 and 4S ----------- */
 
