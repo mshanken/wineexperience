@@ -251,6 +251,7 @@
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     margin-top: 0px;
+    text-transform: uppercase;
 }
 .wine{
 	text-align: center;
@@ -442,6 +443,26 @@
 	color: #3b81c3;
 	font-weight: 400;
 	text-transform: uppercase;
+}
+.sitdown_text{
+	font-family: 'Montserrat', sans-serif;
+	 text-align: center;
+    font-size: 55px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #9e004f;
+    font-weight: 600;
+}
+.days_text{
+	font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 42px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #3b81c3;
+    font-weight: 400;
+    margin-top: 0px;
+    margin-bottom: 40px;
 }
 /* ----------- iPhone 4 and 4S ----------- */
 
