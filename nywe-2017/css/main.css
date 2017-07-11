@@ -391,6 +391,58 @@
 #last_two{
 	margin: 0 auto;
 }
+.title_section_faq_2{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 35px;
+    margin-top: -25px;
+    width: 550px;
+    background-color: #ffffff;
+    margin-left: 280px;
+    font-weight: 600;
+    color: #542d83;
+    text-transform: uppercase;
+}
+#faq_space_2{
+	border-top: solid 4px #3b81c3;
+    margin-top: 35px;
+}
+.title_section_faq_3{
+	text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 35px;
+    margin-top: -28px;
+    width: 235px;
+    background-color: #ffffff;
+    margin-left: 420px;
+    font-weight: 600;
+    color: #542d83;
+    text-transform: uppercase;
+}
+.title_section_faq_4{
+	text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 35px;
+    margin-top: -28px;
+    width: 362px;
+    background-color: #ffffff;
+    margin-left: 370px;
+    font-weight: 600;
+    color: #542d83;
+    text-transform: uppercase;
+}
+.speakers_copy{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 17px;
+	font-weight: 500;
+	color: #542d85;
+	text-align: center;
+}
+.colorspan{
+	color: #3b81c3;
+	font-weight: 400;
+	text-transform: uppercase;
+}
 /* ----------- iPhone 4 and 4S ----------- */
 
 /* Portrait and Landscape */
