@@ -385,6 +385,9 @@
     margin: 0 auto;
     padding-bottom: 50px;
 }
+#extra_space{
+	margin-top: 30px;
+}
 /* ----------- iPhone 4 and 4S ----------- */
 
 /* Portrait and Landscape */
