@@ -251,6 +251,56 @@
     font-weight: 400;
     margin-top: 0px;
 }
+.wine{
+	text-align: center;
+    font-size: 17px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+.owner{
+	color: #3b81c3;
+	text-transform: uppercase;
+	text-align: center;
+    font-size: 17px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+.big_red{
+	text-align: center;
+    font-size: 30px;
+    margin-top: 100px;
+    font-family: 'Montserrat', sans-serif;
+    color: #9e004f;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+.big_blue{
+	margin-top: 0px;
+    text-align: center;
+    font-size: 27px;
+    font-family: 'Montserrat', sans-serif;
+    color: #3b81c3;
+    font-weight: 600;
+}
+.big_details{
+	text-align: center;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    color: #542d83;
+    font-weight: 00;
+    text-transform: uppercase;
+    margin-top: 15px;
+}
+.border{
+	border: solid 2px #9e004f;
+    width: 200px;
+    margin-left: 175px;
+}
+#fulllist_button{
+	margin: 0 auto;
+	width: 500px;
+}
 /* ----------- iPhone 4 and 4S ----------- */
 
 /* Portrait and Landscape */
