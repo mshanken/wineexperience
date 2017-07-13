@@ -521,6 +521,12 @@
 .center_bio_img{
 	margin: 0 auto;
 }
+#nav_button{
+	font-size: 22px;
+    padding: 20px 20px;
+    background-color: #542d85;
+    color: #ffffff;
+}
 /* ----------- iPhone 4 and 4S ----------- */
 
 /* Portrait and Landscape */
