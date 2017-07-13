@@ -54,6 +54,12 @@
 	margin-bottom: 5px !important;
 	text-transform: uppercase;
 }
+#nav{
+	background-color: #542d83 !important;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
 .section-title2{
 	color: #542d83;
 	font-family: 'Montserrat', sans-serif;
@@ -180,7 +186,8 @@
 
 #border2{
 	border: solid 1px ;
-	margin-top: 40px;
+	margin-top: 70px;
+	border-color: #789ad0 #a389c0;
 }
 #full_list{
 	text-align: center;
@@ -305,7 +312,7 @@
 .two_dates{
 	font-size: 25px;
     font-family: 'Montserrat', sans-serif;
-    font-weight: 300;
+    font-weight: 600;
     text-align: center;
     margin-top: 0px;
 }
@@ -366,6 +373,8 @@
     font-weight: 600;
     font-size: 22px;
     font-family: 'Montserrat', sans-serif;
+	margin-top: 15px;
+    margin-bottom: 0px;
 }
 .answer{
 	color: #542d83;
@@ -438,6 +447,7 @@
 	font-weight: 500;
 	color: #542d85;
 	text-align: center;
+	margin-bottom: 0px;
 }
 .colorspan{
 	color: #3b81c3;
@@ -463,6 +473,53 @@
     font-weight: 400;
     margin-top: 0px;
     margin-bottom: 40px;
+}
+#special_headline{
+	width: 800px;
+    margin-left: 160px;
+    margin-top: -35px;
+}
+#special_headline_2{
+	width: 600px;
+    margin-left: 265px;
+    margin-top: -35px;
+}
+.create_extra_space{
+	margin-top: 40px;
+}
+#bio_space{
+	padding-bottom: 40px;
+    padding-top: 40px;
+}
+.vintage{
+	text-align: center;
+    font-size: 17px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    margin-bottom: 0px;
+    color: #542d85;
+}
+.vintage_details{
+	text-align: center;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    margin-bottom: 0px;
+    color: #000000;
+}
+.sitdown_owners{
+	color: #3b81c3;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+#add_margin{
+	margin-bottom: 40px;
+}
+.center_bio_img{
+	margin: 0 auto;
 }
 /* ----------- iPhone 4 and 4S ----------- */
 
