@@ -1,3 +1,8 @@
+.main_background{
+	background-image: url("http://assets.mshanken.com/promo/images/NYWE_HeadImage.jpg");
+	width: 100%;
+	height: 100%;
+}
 .desktopbuttons{
 	margin-top: -100px;
 }
@@ -267,6 +272,12 @@
     font-weight: 600;
     margin-bottom: 0px;
 }
+#lewis{
+	margin-top: 8px;
+}
+#mike{
+	margin-top: 11px;
+}
 .owner{
 	color: #3b81c3;
 	text-transform: uppercase;
@@ -315,19 +326,20 @@
     font-weight: 600;
     text-align: center;
     margin-top: 0px;
+    margin-bottom: 0px;
 }
 .grandtatsting_regions{
 	font-size: 28px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 300;
     text-align: center;
-    margin-top: 30px;
+    margin-top: 5px;
     margin-left: 20px;
     margin-right: 20px;
 }
 .vip_1{
 	text-align: center;
-    font-size: 32px;
+    font-size: 30px;
     color: #3b81c3;
     font-weight: 600;
     font-family: 'Montserrat', sans-serif;
@@ -337,16 +349,15 @@
 }
 .vip_time{
 	text-align: center;
-    font-size: 32px;
+    font-size: 21px;
     color: #9e004f;
     font-weight: 600;
     font-family: 'Montserrat', sans-serif;
     margin-bottom: 0px;
-    text-transform: uppercase;
-    margin-top: 20px;
+    margin-top: 0px;
 }
 .only_weekend{
-	font-size: 15px;
+	font-size: 17px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
     text-align: center;
@@ -380,6 +391,7 @@
 	color: #542d83;
     font-size: 17px;
     font-family: 'Montserrat', sans-serif;
+	margin-bottom: 0px;
 }
 .border_2 {
     border-top: solid 4px #ffffff;
@@ -548,8 +560,19 @@
 .winename_shift{
 	margin-left: 30px;
 }
-
-
+.app{
+	color: #9e004f;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	font-size: 20px;
+	margin-top: 5px; 
+}
+.backgroud-test{
+	background-image: url("http://assets.mshanken.com/promo/images/NYWE17_LP_071417backgorund.jpg");
+}
+#boxinfo{
+	margin: 0 auto;
+}
 /* ----------- iPhone 4 and 4S ----------- */
 
 /* Portrait and Landscape */
@@ -828,6 +851,42 @@
 	}
 	#mobile_fit{
 		margin: 0 auto;
+	}
+	.title_section_faq_2 {
+	    text-align: center;
+	    font-family: 'Montserrat', sans-serif;
+	    font-size: 35px;
+	    margin-top: -25px;
+	    background-color: #ffffff;
+	    margin-left: 7px;
+	    font-weight: 600;
+	    color: #542d83;
+	    text-transform: uppercase;
+	    width: 96%;
+	}
+	.title_section_faq_3 {
+	    text-align: center;
+	    font-family: 'Montserrat', sans-serif;
+	    font-size: 35px;
+	    margin-top: -28px;
+	    background-color: #ffffff;
+	    margin-left: 0px;
+	    font-weight: 600;
+	    color: #542d83;
+	    text-transform: uppercase;
+	    margin-left: 70px;
+	}
+	.title_section_faq_4 {
+	    text-align: center;
+	    font-family: 'Montserrat', sans-serif;
+	    font-size: 35px;
+	    margin-top: -28px;
+	    background-color: #ffffff;
+	    margin-left: 0px;
+	    font-weight: 600;
+	    color: #542d83;
+	    text-transform: uppercase;
+	    margin-left: 11px;
 	}
 /* ----------- iPad mini ----------- */
 
