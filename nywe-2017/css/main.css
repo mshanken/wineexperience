@@ -523,10 +523,26 @@
 	margin: 0 auto;
 }
 #nav_button{
-	font-size: 19px;
+	font-size: 16px;
     padding: 20px 10px;
     background-color: #542d85;
     color: #ffffff;
+}
+.wineries_title{
+	text-align: center;
+    font-size: 50px;
+    color: #9e004f;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 0px;
+    text-transform: uppercase;
+    margin: 20px 10px
+}
+.wine_name{
+	list-style-type: none;
+    font-size: 25px;
+    font-weight: 600;
+    color: #542d85;
 }
 /* ----------- iPhone 4 and 4S ----------- */
 
