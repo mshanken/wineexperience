@@ -540,9 +540,13 @@
 }
 .wine_name{
 	list-style-type: none;
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 600;
-    color: #542d85;
+    color: #16224a;
+    font-family: 'Montserrat', sans-serif;
+}
+.winename_shift{
+	margin-left: 30px;
 }
 /* ----------- iPhone 4 and 4S ----------- */
 
@@ -769,7 +773,60 @@
 		margin-top: 50px !important;
 		margin-bottom: 5px !important;
 	}
+	#special_headline{
+	    margin-top: -16px;
+	    margin-left: 0px;
 }
+	#special_headline_2{
+    	margin-top: -35px;
+    	width: 100%;
+    	margin-left: 0px;
+	}
+	.event_days{
+		color: #3b81c3;
+	    text-align: center;
+	    font-size: 47px;
+	    font-family: 'Montserrat', sans-serif;
+	    text-transform: uppercase;
+	    margin-top: 20px;
+	    margin-bottom: 20px;
+	    margin-left: 0px;
+	    border-bottom: 5px solid #542d83;
+	    width: 100%;
+}
+	.title_section_faq {
+	    text-align: center;
+	    font-family: 'Montserrat', sans-serif;
+	    font-size: 40px;
+	    margin-top: -32px;
+	    width: 100%;
+	    background-color: #ffffff;
+	    margin-left: 0px;
+	    font-weight: 600;
+	    color: #542d83;
+	}
+	.border {
+    border: solid 2px #9e004f;
+    width: 200px;
+    margin: 0 auto;
+	}
+	.border_2 {
+	    border-top: solid 4px #ffffff;
+	    width: 100%;
+	    color: #ffffff;
+	    margin: 0 auto;
+	    margin-top: 50px;
+	}
+	.border_bottom_2 {
+	    border-top: solid 4px #ffffff;
+	     width: 100%; 
+	    color: #ffffff;
+	    margin: 0 auto;
+	    padding-bottom: 50px;
+	}
+	#mobile_fit{
+		margin: 0 auto;
+	}
 /* ----------- iPad mini ----------- */
 
 /* Portrait and Landscape */
