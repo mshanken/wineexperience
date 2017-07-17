@@ -756,7 +756,7 @@
 	.event_days{
 		color: #3b81c3;
 	    text-align: center;
-	    font-size: 47px;
+	    font-size: 26px;
 	    font-family: 'Montserrat', sans-serif;
 	    text-transform: uppercase;
 	    margin-top: 20px;
@@ -778,17 +778,18 @@
 	    font-family: 'Montserrat', sans-serif;
 	    font-size: 40px;
 	    margin-top: -32px;
-	    width: 100%;
 	    background-color: #ffffff;
 	    margin-left: 0px;
 	    font-weight: 600;
 	    color: #542d83;
+	    width: 120px;
+	    margin-left: 130px;
 	}
 	.border {
 	    border: solid 2px #9e004f;
 	    width: 200px;
 	    margin: 0 auto;
-	}
+		}
 	.border_2 {
 	    border-top: solid 4px #ffffff;
 	    width: 100%;
@@ -851,7 +852,33 @@
 	    font-weight: 600;
 	    margin-bottom: 0px;
 	}
-
+	.grandtatsting_regions {
+	    font-size: 20px;
+	    font-family: 'Montserrat', sans-serif;
+	    font-weight: 300;
+	    text-align: center;
+	    margin-top: 5px;
+	    margin-left: 20px;
+	    margin-right: 20px;
+	}
+	#extra_space {
+    	margin-top: 0px;
+	}
+	.hotel_title {
+	    color: #ffffff;
+	    text-align: center;
+	    font-size: 25px;
+	    font-family: 'Montserrat', sans-serif;
+	    padding-top: 30px;
+	}
+	#border2 {
+	    border: none !important;
+	    margin-top: 10px;
+	}
+	#special_headline {
+    	margin-top: 20px;
+    	margin-left: 0px;
+	}
 	/* wineries page */
 	.wineries_title {
 	    text-align: center;
@@ -896,6 +923,14 @@
 	    width: 100% !important;
 	    border-radius: 0 !important;
 	}
+	.headline_details {
+	    text-align: center;
+	    font-size: 20px;
+	    color: #3b81c3;
+	    font-weight: 500;
+	    font-family: 'Montserrat', sans-serif;
+	    margin-bottom: 0px;
+	}
 	#mobile-fullwidth{
 		padding-right: 0px !important;
     	padding-left: 0px !important;
@@ -923,7 +958,7 @@
 	#special_headline{
 	    margin-top: -16px;
 	    margin-left: 0px;
-}
+	}
 	#special_headline_2{
     	margin-top: -35px;
     	width: 100%;
@@ -962,9 +997,9 @@
 	    margin-left: 130px;
 	}
 	.border {
-    border: solid 2px #9e004f;
-    width: 200px;
-    margin: 0 auto;
+	    border: solid 2px #9e004f;
+	    width: 200px;
+	    margin: 0 auto;
 	}
 	.border_2 {
 	    border-top: solid 4px #ffffff;
