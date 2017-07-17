@@ -221,7 +221,7 @@
 .hotel_details{
 	color: #ffffff;
 	text-align: center;	
-	font-size: 17px;
+	font-size: 15px;
 	font-family: 'Montserrat', sans-serif;
 	padding-bottom: 30px;
 }
@@ -816,10 +816,11 @@
 	    font-size: 35px;
 	    margin-top: -28px;
 	    background-color: #ffffff;
+	    margin-left: 0px;
 	    font-weight: 600;
 	    color: #542d83;
 	    text-transform: uppercase;
-	    margin-left: 60px;
+	    margin-left: 70px;
 	}
 	.title_section_faq_4 {
 	    text-align: center;
@@ -827,10 +828,32 @@
 	    font-size: 35px;
 	    margin-top: -28px;
 	    background-color: #ffffff;
+	    margin-left: 0px;
 	    font-weight: 600;
 	    color: #542d83;
 	    text-transform: uppercase;
 	    margin-left: 11px;
+	}
+	.big_red {
+	    text-align: center;
+	    font-size: 30px;
+	    margin-top: 10px;
+	    font-family: 'Montserrat', sans-serif;
+	    color: #9e004f;
+	    font-weight: 600;
+	    margin-bottom: 0px;
+	}
+
+	/* wineries page */
+	.wineries_title {
+	    text-align: center;
+	    font-size: 25px;
+	    color: #9e004f;
+	    font-weight: 600;
+	    font-family: 'Montserrat', sans-serif;
+	    margin-bottom: 0px;
+	    text-transform: uppercase;
+	    margin: 20px 10px;
 	}
 }
 
