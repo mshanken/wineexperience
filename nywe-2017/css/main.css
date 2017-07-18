@@ -1296,11 +1296,11 @@
 
 }
 
-/* ----------- iPad 1 and 2 ----------- */
-/* Portrait and Landscape */
+/* Portrait */
 @media only screen 
   and (min-device-width: 768px) 
   and (max-device-width: 1024px) 
+  and (orientation: portrait) 
   and (-webkit-min-device-pixel-ratio: 1) {
   	#nav_button {
     font-size: 14px;
@@ -1327,7 +1327,137 @@
 	    border: 1px solid #ffffff !important;
 	    width: 100%;
 	    border-radius: 0;
+	    margin-left: 0px;
 	    letter-spacing: 0.1em;
+	}
+	#zeropadding_mobile{
+		padding:0;
+	}
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+  	#nav_button {
+    font-size: 14px;
+    padding: 20px 10px;
+    background-color: #542d85;
+    color: #ffffff;
+	}
+	.buttonfont1 {
+	    color: #ffffff;
+	    font-family: 'Montserrat', sans-serif;
+	    font-weight: 400;
+	    background-color: #542d83 !important;
+	    border: 1px solid #ffffff !important;
+	    width: 100%;
+	    border-radius: 0;
+	    margin-left: 0px;
+	    letter-spacing: 0.1em;
+	}
+	.buttonfont2{
+		color: #ffffff;
+	    font-family: 'Montserrat', sans-serif;
+	    font-weight: 200;
+	    background-color: #542d83 !important;
+	    border: 1px solid #ffffff !important;
+	    width: 100%;
+	    border-radius: 0;
+	    margin-left: 0px;
+	    letter-spacing: 0.1em;
+	}
+	#zeropadding_mobile{
+		padding:0;
+	}
+}
+
+/* ----------- iPad 1 and 2 ----------- */
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: portrait) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+  	#nav_button {
+    font-size: 14px;
+    padding: 20px 10px;
+    background-color: #542d85;
+    color: #ffffff;
+	}
+	.buttonfont1 {
+	    color: #ffffff;
+	    font-family: 'Montserrat', sans-serif;
+	    font-weight: 400;
+	    background-color: #542d83 !important;
+	    border: 1px solid #ffffff !important;
+	    width: 100%;
+	    border-radius: 0;
+	    margin-left: 0px;
+	    letter-spacing: 0.1em;
+	}
+	.buttonfont2{
+		color: #ffffff;
+	    font-family: 'Montserrat', sans-serif;
+	    font-weight: 200;
+	    background-color: #542d83 !important;
+	    border: 1px solid #ffffff !important;
+	    width: 100%;
+	    border-radius: 0;
+	    margin-left: 0px;
+	    letter-spacing: 0.1em;
+	}
+	#zeropadding_mobile{
+		padding:0;
+	}
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+  	#nav_button {
+    font-size: 14px;
+    padding: 20px 10px;
+    background-color: #542d85;
+    color: #ffffff;
+	}
+	.buttonfont1 {
+	    color: #ffffff;
+	    font-family: 'Montserrat', sans-serif;
+	    font-weight: 400;
+	    background-color: #542d83 !important;
+	    border: 1px solid #ffffff !important;
+	    width: 100%;
+	    border-radius: 0;
+	    margin-left: 0px;
+	    letter-spacing: 0.1em;
+	}
+	.buttonfont2{
+		color: #ffffff;
+	    font-family: 'Montserrat', sans-serif;
+	    font-weight: 200;
+	    background-color: #542d83 !important;
+	    border: 1px solid #ffffff !important;
+	    width: 100%;
+	    border-radius: 0;
+	    margin-left: 0px;
+	    letter-spacing: 0.1em;
+	}
+	#zeropadding_mobile{
+		padding:0;
 	}
 }
 
@@ -1336,6 +1466,15 @@
 @media only screen 
   and (min-device-width: 768px) 
   and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: portrait) 
   and (-webkit-min-device-pixel-ratio: 2) {
   	#nav_button {
     font-size: 14px;
@@ -1364,5 +1503,47 @@
 	    border-radius: 0;
 	    margin-left: 0px;
 	    letter-spacing: 0.1em;
+	}
+	#zeropadding_mobile{
+		padding:0;
+	}
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (orientation: landscape) 
+  and (-webkit-min-device-pixel-ratio: 2) {
+  	#nav_button {
+    font-size: 14px;
+    padding: 20px 10px;
+    background-color: #542d85;
+    color: #ffffff;
+	}
+	.buttonfont1 {
+	    color: #ffffff;
+	    font-family: 'Montserrat', sans-serif;
+	    font-weight: 400;
+	    background-color: #542d83 !important;
+	    border: 1px solid #ffffff !important;
+	    width: 100%;
+	    border-radius: 0;
+	    margin-left: 0px;
+	    letter-spacing: 0.1em;
+	}
+	.buttonfont2{
+		color: #ffffff;
+	    font-family: 'Montserrat', sans-serif;
+	    font-weight: 200;
+	    background-color: #542d83 !important;
+	    border: 1px solid #ffffff !important;
+	    width: 100%;
+	    border-radius: 0;
+	    margin-left: 0px;
+	    letter-spacing: 0.1em;
+	}
+	#zeropadding_mobile{
+		padding:0;
 	}
 }
