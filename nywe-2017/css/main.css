@@ -576,6 +576,9 @@
 #boxinfo{
 	margin: 0 auto;
 }
+#burgundy{
+	margin-top: 8px;
+}
 /* ----------- iPhone 4 and 4S ----------- */
 
 /* Portrait and Landscape */
@@ -664,61 +667,13 @@
 	    width: 100% !important;
 	    border-radius: 0 !important;
 	}
-	#mobile-fullwidth{
-		padding-right: 0px !important;
-    	padding-left: 0px !important;
-	}
-	.registerbutton1 {
-	    color: #ffffff;
+	.headline_details {
+	    text-align: center;
+	    font-size: 20px;
+	    color: #3b81c3;
+	    font-weight: 500;
 	    font-family: 'Montserrat', sans-serif;
-	    font-size: 18px;
-	    font-weight: 200;
-	    background-color: #542d83 !important;
-	    border: 1px solid #ffffff !important;
-	    width: 225px;
-	    border-radius: 0;
-	    text-transform: uppercase;
-	    margin-top: 10px;
-	}
-	.section-title2{
-		color: #542d83 !important;
-		font-family: 'Montserrat', sans-serif !important;
-		font-weight: 700 !important;
-		text-align: center !important;
-		margin-top: 50px !important;
-		margin-bottom: 5px !important;
-	}
-}
-/* ----------- iPhone 6 ----------- */
-
-/* Portrait and Landscape */
-@media only screen 
-  and (min-device-width: 375px) 
-  and (max-device-width: 667px) 
-  and (-webkit-min-device-pixel-ratio: 2) { 
-  	.desktopbuttons{
-		margin-top: 0px !important;
-	}
-	.buttonfont1{
-		color: #ffffff !important;
-	    font-family: Myriad Pro, sans-serif !important;
-	    font-size: ;
-	    font-weight: 200 !important;
-	    background-color: #542d83 !important;
-	    border: 1px solid #ffffff !important;
-	    width: 100% !important;
-	    border-radius: 0 !important;
-	    margin-left: 0px !important;
-	}
-	.buttonfont2{
-		color: #ffffff !important;
-	    font-family: Myriad Pro, sans-serif !important;
-	    font-size:  !important;
-	    font-weight: 200 !important;
-	    background-color: #542d83 !important;
-	    border: 1px solid #ffffff !important;
-	    width: 100% !important;
-	    border-radius: 0 !important;
+	    margin-bottom: 0px;
 	}
 	#mobile-fullwidth{
 		padding-right: 0px !important;
@@ -747,7 +702,7 @@
 	#special_headline{
 	    margin-top: -16px;
 	    margin-left: 0px;
-}
+	}
 	#special_headline_2{
     	margin-top: -35px;
     	width: 100%;
@@ -789,7 +744,7 @@
 	    border: solid 2px #9e004f;
 	    width: 200px;
 	    margin: 0 auto;
-		}
+	}
 	.border_2 {
 	    border-top: solid 4px #ffffff;
 	    width: 100%;
@@ -871,6 +826,13 @@
 	    font-family: 'Montserrat', sans-serif;
 	    padding-top: 30px;
 	}
+	.hotel_details {
+	    color: #ffffff;
+	    text-align: center;
+	    font-size: 12px;
+	    font-family: 'Montserrat', sans-serif;
+	    padding-bottom: 30px;
+	}
 	#border2 {
 	    border: none !important;
 	    margin-top: 10px;
@@ -878,6 +840,229 @@
 	#special_headline {
     	margin-top: 20px;
     	margin-left: 0px;
+	}
+	#zeropadding_mobile{
+		padding:0;
+	}
+	/* wineries page */
+	.wineries_title {
+	    text-align: center;
+	    font-size: 25px;
+	    color: #9e004f;
+	    font-weight: 600;
+	    font-family: 'Montserrat', sans-serif;
+	    margin-bottom: 0px;
+	    text-transform: uppercase;
+	    margin: 20px 10px;
+	}
+}
+/* ----------- iPhone 6 ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2) { 
+  	.desktopbuttons{
+		margin-top: 0px !important;
+	}
+	.buttonfont1{
+		color: #ffffff !important;
+	    font-family: Myriad Pro, sans-serif !important;
+	    font-size: ;
+	    font-weight: 200 !important;
+	    background-color: #542d83 !important;
+	    border: 1px solid #ffffff !important;
+	    width: 100% !important;
+	    border-radius: 0 !important;
+	    margin-left: 0px !important;
+	}
+	.buttonfont2{
+		color: #ffffff !important;
+	    font-family: Myriad Pro, sans-serif !important;
+	    font-size:  !important;
+	    font-weight: 200 !important;
+	    background-color: #542d83 !important;
+	    border: 1px solid #ffffff !important;
+	    width: 100% !important;
+	    border-radius: 0 !important;
+	}
+	.headline_details {
+	    text-align: center;
+	    font-size: 20px;
+	    color: #3b81c3;
+	    font-weight: 500;
+	    font-family: 'Montserrat', sans-serif;
+	    margin-bottom: 0px;
+	}
+	#mobile-fullwidth{
+		padding-right: 0px !important;
+    	padding-left: 0px !important;
+	}
+	.registerbutton1 {
+	    color: #ffffff;
+	    font-family: 'Montserrat', sans-serif;
+	    font-size: 18px;
+	    font-weight: 200;
+	    background-color: #542d83 !important;
+	    border: 1px solid #ffffff !important;
+	    width: 225px;
+	    border-radius: 0;
+	    text-transform: uppercase;
+	    margin-top: 10px;
+	}
+	.section-title2{
+		color: #542d83 !important;
+		font-family: 'Montserrat', sans-serif !important;
+		font-weight: 700 !important;
+		text-align: center !important;
+		margin-top: 50px !important;
+		margin-bottom: 5px !important;
+	}
+	#special_headline{
+	    margin-top: -16px;
+	    margin-left: 0px;
+	}
+	#special_headline_2{
+    	margin-top: -35px;
+    	width: 100%;
+    	margin-left: 0px;
+	}
+	.event_days{
+		color: #3b81c3;
+	    text-align: center;
+	    font-size: 26px;
+	    font-family: 'Montserrat', sans-serif;
+	    text-transform: uppercase;
+	    margin-top: 20px;
+	    margin-bottom: 20px;
+	    margin-left: 0px;
+	    border-bottom: 5px solid #542d83;
+	    width: 100%;
+	}
+	.top10_wines_headline{
+		text-align: center;
+	    color: #542d83;
+	    font-size: 27px;
+	    font-family: 'Montserrat', sans-serif;
+	    font-weight: 600;
+		margin-bottom: 0px;
+	}
+	.title_section_faq {
+	    text-align: center;
+	    font-family: 'Montserrat', sans-serif;
+	    font-size: 40px;
+	    margin-top: -32px;
+	    background-color: #ffffff;
+	    margin-left: 0px;
+	    font-weight: 600;
+	    color: #542d83;
+	    width: 120px;
+	    margin-left: 130px;
+	}
+	.border {
+	    border: solid 2px #9e004f;
+	    width: 200px;
+	    margin: 0 auto;
+	}
+	.border_2 {
+	    border-top: solid 4px #ffffff;
+	    width: 100%;
+	    color: #ffffff;
+	    margin: 0 auto;
+	    margin-top: 50px;
+	}
+	.border_bottom_2 {
+	    border-top: solid 4px #ffffff;
+	     width: 100%; 
+	    color: #ffffff;
+	    margin: 0 auto;
+	    padding-bottom: 50px;
+	}
+	#mobile_fit{
+		margin: 0 auto;
+	}
+	.title_section_faq_2 {
+	    text-align: center;
+	    font-family: 'Montserrat', sans-serif;
+	    font-size: 35px;
+	    margin-top: -25px;
+	    background-color: #ffffff;
+	    margin-left: 7px;
+	    font-weight: 600;
+	    color: #542d83;
+	    text-transform: uppercase;
+	    width: 96%;
+	}
+	.title_section_faq_3 {
+	    text-align: center;
+	    font-family: 'Montserrat', sans-serif;
+	    font-size: 35px;
+	    margin-top: -28px;
+	    background-color: #ffffff;
+	    margin-left: 0px;
+	    font-weight: 600;
+	    color: #542d83;
+	    text-transform: uppercase;
+	    margin-left: 70px;
+	}
+	.title_section_faq_4 {
+	    text-align: center;
+	    font-family: 'Montserrat', sans-serif;
+	    font-size: 35px;
+	    margin-top: -28px;
+	    background-color: #ffffff;
+	    margin-left: 0px;
+	    font-weight: 600;
+	    color: #542d83;
+	    text-transform: uppercase;
+	    margin-left: 11px;
+	}
+	.big_red {
+	    text-align: center;
+	    font-size: 30px;
+	    margin-top: 10px;
+	    font-family: 'Montserrat', sans-serif;
+	    color: #9e004f;
+	    font-weight: 600;
+	    margin-bottom: 0px;
+	}
+	.grandtatsting_regions {
+	    font-size: 20px;
+	    font-family: 'Montserrat', sans-serif;
+	    font-weight: 300;
+	    text-align: center;
+	    margin-top: 5px;
+	    margin-left: 20px;
+	    margin-right: 20px;
+	}
+	#extra_space {
+    	margin-top: 0px;
+	}
+	.hotel_title {
+	    color: #ffffff;
+	    text-align: center;
+	    font-size: 25px;
+	    font-family: 'Montserrat', sans-serif;
+	    padding-top: 30px;
+	}
+	.hotel_details {
+	    color: #ffffff;
+	    text-align: center;
+	    font-size: 12px;
+	    font-family: 'Montserrat', sans-serif;
+	    padding-bottom: 30px;
+	}
+	#border2 {
+	    border: none !important;
+	    margin-top: 10px;
+	}
+	#special_headline {
+    	margin-top: 20px;
+    	margin-left: 0px;
+	}
+	#zeropadding_mobile{
+		padding:0;
 	}
 	/* wineries page */
 	.wineries_title {
@@ -1117,7 +1302,12 @@
   and (min-device-width: 768px) 
   and (max-device-width: 1024px) 
   and (-webkit-min-device-pixel-ratio: 1) {
-
+  	#nav_button {
+    font-size: 14px;
+    padding: 20px 10px;
+    background-color: #542d85;
+    color: #ffffff;
+	}
 }
 
 /* ----------- iPad 3 and 4 ----------- */
@@ -1126,5 +1316,10 @@
   and (min-device-width: 768px) 
   and (max-device-width: 1024px) 
   and (-webkit-min-device-pixel-ratio: 2) {
-
+  	#nav_button {
+    font-size: 14px;
+    padding: 20px 10px;
+    background-color: #542d85;
+    color: #ffffff;
+	}
 }
