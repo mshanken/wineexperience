@@ -1460,7 +1460,7 @@
 	}
 	#special_headline_2 {
 	    width: 600px;
-	    margin-left: 68px;
+	    margin-left: 70px;
 	    margin-top: -50px;
 	    margin-bottom: 30px;
 	}
@@ -1597,6 +1597,11 @@
 	    margin-left: 400px;
 	    font-weight: 600;
 	    color: #542d83;
+	}
+	#special_headline_2 {
+	    width: 600px;
+	    margin-left: 172px;
+	    margin-top: -35px;
 	}
 }
 
