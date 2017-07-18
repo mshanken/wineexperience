@@ -1379,7 +1379,11 @@
   and (min-device-width: 768px) 
   and (max-device-width: 1024px) 
   and (-webkit-min-device-pixel-ratio: 1) {
-
+  	.border {
+	    border: solid 2px #9e004f;
+	    width: 200px;
+	    margin: 0 auto;
+	}
 }
 
 /* Portrait */
@@ -1452,11 +1456,6 @@
 	    font-weight: 600;
 	    margin-bottom: 0px;
 	}
-	.border {
-	    border: solid 2px #9e004f;
-	    width: 200px;
-	    margin: 0 auto;
-	}
 	#special_headline_2 {
 	    width: 600px;
 	    margin-left: 65px;
@@ -1520,7 +1519,11 @@
   and (min-device-width: 768px) 
   and (max-device-width: 1024px) 
   and (-webkit-min-device-pixel-ratio: 2) {
-
+  	.border {
+	    border: solid 2px #9e004f;
+	    width: 200px;
+	    margin: 0 auto;
+	}
 }
 
 /* Portrait */
