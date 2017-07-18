@@ -1286,6 +1286,7 @@
 	    text-transform: uppercase;
 	    margin: 20px 10px;
 	}
+}
 /* ----------- iPad mini ----------- */
 
 /* Portrait and Landscape */
@@ -1419,6 +1420,60 @@
 	}
 	#zeropadding_mobile{
 		padding:0;
+	}
+	.event_days {
+	    color: #3b81c3;
+	    text-align: center;
+	    font-size: 27px;
+	    font-family: 'Montserrat', sans-serif;
+	    text-transform: uppercase;
+	    margin-top: 20px;
+	    margin-bottom: 30px;
+	    border-bottom: 5px solid #542d83;
+	}
+	#special_headline {
+    	margin-top: -35px;
+	}
+	.headline_details {
+	    text-align: center;
+	    font-size: 27px;
+	    color: #3b81c3;
+	    font-weight: 500;
+	    font-family: 'Montserrat', sans-serif;
+	    margin-bottom: 0px;
+	}
+	.mobile_fit{
+		margin: 0 auto;
+	}
+	.big_red {
+	    text-align: center;
+	    font-size: 30px;
+	    margin-top: 20px;
+	    font-family: 'Montserrat', sans-serif;
+	    color: #9e004f;
+	    font-weight: 600;
+	    margin-bottom: 0px;
+	}
+	.border {
+	    border: solid 2px #9e004f;
+	    width: 200px;
+	    margin: 0 auto;
+	}
+	#special_headline_2 {
+	    width: 600px;
+	    margin-left: 65px;
+	    margin-top: -50px;
+	}
+	.title_section_faq {
+	    text-align: center;
+	    font-family: 'Montserrat', sans-serif;
+	    font-size: 40px;
+	    margin-top: -32px;
+	    width: 140px;
+	    background-color: #ffffff;
+	    margin-left: 300px;
+	    font-weight: 600;
+	    color: #542d83;
 	}
 }
 
