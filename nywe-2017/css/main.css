@@ -1435,7 +1435,7 @@
 	}
 	#special_headline {
     	margin-top: -35px;
-    	margin-left: 70px;
+    	margin-left: 0px;
     	width: 800px;
 	}
 	.headline_details {
@@ -1460,7 +1460,7 @@
 	}
 	#special_headline_2 {
 	    width: 600px;
-	    margin-left: 150px;
+	    margin-left: 68px;
 	    margin-top: -50px;
 	    margin-bottom: 30px;
 	}
@@ -1486,6 +1486,18 @@
 	}
 	#mobile_fit{
 		margin:0 auto;
+	}
+	.grandtatsting_regions {
+	    font-size: 23px;
+	    font-family: 'Montserrat', sans-serif;
+	    font-weight: 300;
+	    text-align: center;
+	    margin-top: 5px;
+	    margin-left: 20px;
+	    margin-right: 20px;
+	}
+	#extra_space {
+    	margin-top: 15px;
 	}
 }
 
