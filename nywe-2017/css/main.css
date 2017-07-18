@@ -963,7 +963,7 @@
 	    font-weight: 600;
 	    color: #542d83;
 	    width: 120px;
-	    margin-left: 130px;
+	    margin-left: 110px;
 	}
 	.border {
 	    border: solid 2px #9e004f;
@@ -1009,19 +1009,20 @@
 	    font-weight: 600;
 	    color: #542d83;
 	    text-transform: uppercase;
-	    margin-left: 70px;
+	    width: 100%;
 	}
 	.title_section_faq_4 {
 	    text-align: center;
 	    font-family: 'Montserrat', sans-serif;
-	    font-size: 35px;
+	    font-size: 31px;
 	    margin-top: -28px;
 	    background-color: #ffffff;
 	    margin-left: 0px;
 	    font-weight: 600;
 	    color: #542d83;
 	    text-transform: uppercase;
-	    margin-left: 11px;
+	    margin-left: 0px;
+	    width: 100%;
 	}
 	.big_red {
 	    text-align: center;
