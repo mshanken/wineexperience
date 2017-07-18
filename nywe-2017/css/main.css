@@ -637,6 +637,15 @@
 	#full_list {
     	margin-bottom: 50px;
 	}
+	.sitdown_text {
+	    font-family: 'Montserrat', sans-serif;
+	    text-align: center;
+	    font-size: 43px;
+	    text-transform: uppercase;
+	    letter-spacing: 0.1em;
+	    color: #9e004f;
+	    font-weight: 600;
+	}
 }
 /* ----------- iPhone 5 and 5S ----------- */
 
@@ -770,11 +779,11 @@
 	    font-size: 35px;
 	    margin-top: -25px;
 	    background-color: #ffffff;
-	    margin-left: 7px;
+	    margin-left: 0px;
 	    font-weight: 600;
 	    color: #542d83;
 	    text-transform: uppercase;
-	    width: 96%;
+	    width: 100%;
 	}
 	.title_section_faq_3 {
 	    text-align: center;
@@ -786,7 +795,7 @@
 	    font-weight: 600;
 	    color: #542d83;
 	    text-transform: uppercase;
-	    margin-left: 70px;
+	    width: 100%
 	}
 	.title_section_faq_4 {
 	    text-align: center;
@@ -798,7 +807,7 @@
 	    font-weight: 600;
 	    color: #542d83;
 	    text-transform: uppercase;
-	    margin-left: 11px;
+	    width: 100%
 	}
 	.big_red {
 	    text-align: center;
@@ -859,6 +868,15 @@
 	}
 	#full_list {
     	margin-bottom: 50px;
+	}
+	.sitdown_text {
+	    font-family: 'Montserrat', sans-serif;
+	    text-align: center;
+	    font-size: 43px;
+	    text-transform: uppercase;
+	    letter-spacing: 0.1em;
+	    color: #9e004f;
+	    font-weight: 600;
 	}
 }
 /* ----------- iPhone 6 ----------- */
@@ -1217,11 +1235,12 @@
 	    font-size: 35px;
 	    margin-top: -25px;
 	    background-color: #ffffff;
-	    margin-left: 7px;
+	    margin-left: 0px;
 	    font-weight: 600;
 	    color: #542d83;
 	    text-transform: uppercase;
-	    width: 96%;
+	    width: 100%;
+
 	}
 	.title_section_faq_3 {
 	    text-align: center;
@@ -1233,7 +1252,7 @@
 	    font-weight: 600;
 	    color: #542d83;
 	    text-transform: uppercase;
-	    margin-left: 70px;
+	    width: 100%;
 	}
 	.title_section_faq_4 {
 	    text-align: center;
@@ -1245,7 +1264,7 @@
 	    font-weight: 600;
 	    color: #542d83;
 	    text-transform: uppercase;
-	    margin-left: 11px;
+		width: 100%;
 	}
 	.big_red {
 	    text-align: center;
