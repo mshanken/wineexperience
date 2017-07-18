@@ -1308,6 +1308,27 @@
     background-color: #542d85;
     color: #ffffff;
 	}
+	.buttonfont1 {
+	    color: #ffffff;
+	    font-family: 'Montserrat', sans-serif;
+	    font-weight: 400;
+	    background-color: #542d83 !important;
+	    border: 1px solid #ffffff !important;
+	    width: 100%;
+	    border-radius: 0;
+	    margin-left: 0px;
+	    letter-spacing: 0.1em;
+	}
+	.buttonfont2{
+		color: #ffffff;
+	    font-family: 'Montserrat', sans-serif;
+	    font-weight: 200;
+	    background-color: #542d83 !important;
+	    border: 1px solid #ffffff !important;
+	    width: 100%;
+	    border-radius: 0;
+	    letter-spacing: 0.1em;
+	}
 }
 
 /* ----------- iPad 3 and 4 ----------- */
@@ -1321,5 +1342,27 @@
     padding: 20px 10px;
     background-color: #542d85;
     color: #ffffff;
+	}
+	.buttonfont1 {
+	    color: #ffffff;
+	    font-family: 'Montserrat', sans-serif;
+	    font-weight: 400;
+	    background-color: #542d83 !important;
+	    border: 1px solid #ffffff !important;
+	    width: 100%;
+	    border-radius: 0;
+	    margin-left: 0px;
+	    letter-spacing: 0.1em;
+	}
+	.buttonfont2{
+		color: #ffffff;
+	    font-family: 'Montserrat', sans-serif;
+	    font-weight: 200;
+	    background-color: #542d83 !important;
+	    border: 1px solid #ffffff !important;
+	    width: 100%;
+	    border-radius: 0;
+	    margin-left: 0px;
+	    letter-spacing: 0.1em;
 	}
 }
