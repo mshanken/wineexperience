@@ -634,6 +634,9 @@
 		margin-top: 50px !important;
 		margin-bottom: 5px !important;
 	}
+	#full_list {
+    	margin-bottom: 50px;
+	}
 }
 /* ----------- iPhone 5 and 5S ----------- */
 
@@ -853,6 +856,9 @@
 	    margin-bottom: 0px;
 	    text-transform: uppercase;
 	    margin: 20px 10px;
+	}
+	#full_list {
+    	margin-bottom: 50px;
 	}
 }
 /* ----------- iPhone 6 ----------- */
@@ -1074,6 +1080,9 @@
 	    text-transform: uppercase;
 	    margin: 20px 10px;
 	}
+	#full_list {
+    	margin-bottom: 50px;
+	}
 }
 /* ----------- iPhone 6+ ----------- */
 
@@ -1283,6 +1292,9 @@
 	    margin-bottom: 0px;
 	    text-transform: uppercase;
 	    margin: 20px 10px;
+	}
+	#full_list {
+    	margin-bottom: 50px;
 	}
 }
 /* ----------- iPad mini ----------- */
