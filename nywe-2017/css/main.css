@@ -1656,6 +1656,10 @@
 	    width: 200px;
 	    margin: 0 auto;
 	}
+	#faq_space_2 {
+     border-top: none; 
+     margin-top: 35px;
+	}
 }
 
 /* Portrait */
@@ -1700,36 +1704,31 @@
 	    font-family: 'Montserrat', sans-serif;
 	    font-size: 35px;
 	    margin-top: -25px;
-	    width: 510px;
 	    background-color: #ffffff;
-	    margin-left: 98px;
 	    font-weight: 600;
 	    color: #542d83;
 	    text-transform: uppercase;
+	    margin: 0 auto;
 	}
 	.title_section_faq_3 {
 	    text-align: center;
 	    font-family: 'Montserrat', sans-serif;
 	    font-size: 35px;
-	    margin-top: -28px;
-	    width: 235px;
 	    background-color: #ffffff;
-	    margin-left: 250px;
 	    font-weight: 600;
 	    color: #542d83;
 	    text-transform: uppercase;
+	    margin: 0 auto;
 	}
 	.title_section_faq_4 {
 	    text-align: center;
 	    font-family: 'Montserrat', sans-serif;
 	    font-size: 35px;
-	    margin-top: -28px;
-	    width: 362px;
 	    background-color: #ffffff;
-	    margin-left: 190px;
 	    font-weight: 600;
 	    color: #542d83;
 	    text-transform: uppercase;
+	    margin: 0 auto;
 	}
 	.vintage {
 	    text-align: center;
