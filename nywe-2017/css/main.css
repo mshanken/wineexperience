@@ -567,17 +567,25 @@
 	font-size: 20px;
 	margin-top: 5px; 
 }
-.backgroud-test{
-	/*background-image: url("http://assets.mshanken.com/promo/images/NYWE17_LP_071417-updateheadt.jpg");
-	background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;*/
-}
 #boxinfo{
 	margin: 0 auto;
 }
 #burgundy{
 	margin-top: 8px;
+}
+.click_here_copy{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	text-align: center;
+	color: ;
+	margin-top: 10px;
+}
+.click_here_link{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	text-align: center;
+	color: #000000;
+	margin-top: 10px;
 }
 /* ----------- iPhone 4 and 4S ----------- */
 
