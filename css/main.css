@@ -551,6 +551,7 @@
   and (-webkit-min-device-pixel-ratio: 1) {
   	.tablet_screens{
   		margin-left: 325px !important;
+  		margin-top: -122px !important;
 	}
 	.buttonfont1 {
     color: #ffffff;
@@ -610,7 +611,7 @@
   and (-webkit-min-device-pixel-ratio: 2) {
   	.tablet_screens{
   		margin-left: 325px !important;
-  		margin-top: -122px;
+  		margin-top: -122px !important;
 	}
 	.buttonfont1 {
     color: #ffffff;
