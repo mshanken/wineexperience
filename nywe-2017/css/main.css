@@ -153,6 +153,20 @@
 	color: #ffffff;
 	background-color: #542d83;
 }
+ .click_here_copy{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	text-align: center;
+	color: ;
+	margin-top: 10px;
+}
+.click_here_link{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	text-align: center;
+	color: #000000;
+	margin-top: 10px;
+}
 /* ----------- iPhone 4 and 4S ----------- */
 
 /* Portrait and Landscape */
@@ -207,6 +221,20 @@
 		text-align: center !important;
 		margin-top: 50px !important;
 		margin-bottom: 5px !important;
+	}
+	.click_here_copy{
+		font-family: 'Montserrat', sans-serif;
+		font-size: 15px;
+		text-align: center;
+		color: ;
+		margin-top: 10px;
+	}
+	.click_here_link{
+		font-family: 'Montserrat', sans-serif;
+		font-size: 15px;
+		text-align: center;
+		color: #000000;
+		margin-top: 10px;
 	}
 }
 
@@ -265,6 +293,20 @@
 		margin-top: 50px !important;
 		margin-bottom: 5px !important;
 	}
+	.click_here_copy{
+		font-family: 'Montserrat', sans-serif;
+		font-size: 15px;
+		text-align: center;
+		color: ;
+		margin-top: 10px;
+	}
+	.click_here_link{
+		font-family: 'Montserrat', sans-serif;
+		font-size: 15px;
+		text-align: center;
+		color: #000000;
+		margin-top: 10px;
+	}
 }
 /* ----------- iPhone 6 ----------- */
 
@@ -320,6 +362,20 @@
 		text-align: center !important;
 		margin-top: 50px !important;
 		margin-bottom: 5px !important;
+	}
+	.click_here_copy{
+		font-family: 'Montserrat', sans-serif;
+		font-size: 17px;
+		text-align: center;
+		color: ;
+		margin-top: 10px;
+	}
+	.click_here_link{
+		font-family: 'Montserrat', sans-serif;
+		font-size: 17px;
+		text-align: center;
+		color: #000000;
+		margin-top: 10px;
 	}
 }
 
@@ -377,6 +433,20 @@
 		text-align: center !important;
 		margin-top: 50px !important;
 		margin-bottom: 5px !important;
+	}
+	.click_here_copy{
+		font-family: 'Montserrat', sans-serif;
+		font-size: 17px;
+		text-align: center;
+		color: ;
+		margin-top: 10px;
+	}
+	.click_here_link{
+		font-family: 'Montserrat', sans-serif;
+		font-size: 17px;
+		text-align: center;
+		color: #000000;
+		margin-top: 10px;
 	}
 }
 /* ----------- iPad mini ----------- */
