@@ -149,10 +149,6 @@
 	margin-bottom: 0px;
 	text-transform: uppercase;
 }
-.btn-group .navie{
-	color: #ffffff;
-	background-color: #542d83;
-}
  .click_here_copy{
 	font-family: 'Montserrat', sans-serif;
 	font-size: 20px;
@@ -222,7 +218,7 @@
 		margin-top: 50px !important;
 		margin-bottom: 5px !important;
 	}
-	.click_here_copy{
+	 .click_here_copy{
 		font-family: 'Montserrat', sans-serif;
 		font-size: 15px;
 		text-align: center;
@@ -447,179 +443,5 @@
 		text-align: center;
 		color: #000000;
 		margin-top: 10px;
-	}
-}
-/* ----------- iPad mini ----------- */
-	/* Portrait */
-@media only screen 
-  and (min-device-width: 768px) 
-  and (max-device-width: 1024px) 
-  and (orientation: portrait) 
-  and (-webkit-min-device-pixel-ratio: 1) {
-  	.buttonfont1 {
-    color: #ffffff;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 400;
-    background-color: #542d83 !important;
-    border: 1px solid #ffffff !important;
-    width: 250px;
-    height: 50px;
-    border-radius: 0;
-    letter-spacing: 0.1em;
-    margin-left: 0px;
-	}
-	.buttonfont2{
-	color: #ffffff;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 400;
-    background-color: #542d83 !important;
-    border: 1px solid #ffffff !important;
-    width: 250px;
-    height: 50px;
-    border-radius: 0;
-    letter-spacing: 0.1em;
-	margin-left: 0px;
-	}
-	.tablet_screens{
-		margin-left: 219px !important;
-	}
-}
-
-/* Landscape */
-@media only screen 
-  and (min-device-width: 768px) 
-  and (max-device-width: 1024px) 
-  and (orientation: landscape) 
-  and (-webkit-min-device-pixel-ratio: 1) {
-  	.tablet_screens{
-  		margin-left: 325px !important;
-	}
-	.buttonfont1 {
-    color: #ffffff;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 400;
-    background-color: #542d83 !important;
-    border: 1px solid #ffffff !important;
-    width: 250px;
-    border-radius: 0;
-    margin-left: 0px;
-    letter-spacing: 0.1em;
-	}
-}
-
-/* ----------- iPad 1 and 2 ----------- */
-	/* Portrait */
-@media only screen 
-  and (min-device-width: 768px) 
-  and (max-device-width: 1024px) 
-  and (orientation: portrait) 
-  and (-webkit-min-device-pixel-ratio: 1) {
-  	.buttonfont1 {
-    color: #ffffff;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 400;
-    background-color: #542d83 !important;
-    border: 1px solid #ffffff !important;
-    width: 250px;
-    height: 50px;
-    border-radius: 0;
-    letter-spacing: 0.1em;
-    margin-left: 0px;
-	}
-	.buttonfont2{
-	color: #ffffff;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 400;
-    background-color: #542d83 !important;
-    border: 1px solid #ffffff !important;
-    width: 250px;
-    height: 50px;
-    border-radius: 0;
-    letter-spacing: 0.1em;
-	margin-left: 0px;
-	}
-	.tablet_screens{
-		 margin-left: 219px !important;
-	}
-}
-
-/* Landscape */
-@media only screen 
-  and (min-device-width: 768px) 
-  and (max-device-width: 1024px) 
-  and (orientation: landscape) 
-  and (-webkit-min-device-pixel-ratio: 1) {
-  	.tablet_screens{
-  		margin-left: 325px !important;
-	}
-	.buttonfont1 {
-    color: #ffffff;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 400;
-    background-color: #542d83 !important;
-    border: 1px solid #ffffff !important;
-    width: 250px;
-    border-radius: 0;
-    margin-left: 0px;
-    letter-spacing: 0.1em;
-	}
-
-}
-
-/* ----------- iPad 3 and 4 ----------- */
-	/* Portrait */
-@media only screen 
-  and (min-device-width: 768px) 
-  and (max-device-width: 1024px) 
-  and (orientation: portrait) 
-  and (-webkit-min-device-pixel-ratio: 2) {
-  	.buttonfont1 {
-    color: #ffffff;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 400;
-    background-color: #542d83 !important;
-    border: 1px solid #ffffff !important;
-    width: 250px;
-    height: 50px;
-    border-radius: 0;
-    letter-spacing: 0.1em;
-	margin-left: 0px;
-	}
-	.buttonfont2{
-	color: #ffffff;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 400;
-    background-color: #542d83 !important;
-    border: 1px solid #ffffff !important;
-    width: 250px;
-    height: 50px;
-    border-radius: 0;
-    letter-spacing: 0.1em;
-	margin-left: 0px;
-	}
-	.tablet_screens{
-		margin-left: 219px !important;
-	}
-}
-
-/* Landscape */
-@media only screen 
-  and (min-device-width: 768px) 
-  and (max-device-width: 1024px) 
-  and (orientation: landscape) 
-  and (-webkit-min-device-pixel-ratio: 2) {
-  	.tablet_screens{
-  		margin-left: 325px !important;
-	}
-	.buttonfont1 {
-    color: #ffffff;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 400;
-    background-color: #542d83 !important;
-    border: 1px solid #ffffff !important;
-    width: 250px;
-    border-radius: 0;
-    margin-left: 0px;
-    letter-spacing: 0.1em;
 	}
 }
