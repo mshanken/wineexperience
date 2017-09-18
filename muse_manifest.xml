@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nywe17.com" resolutions="1x" timestamp="1505507924676">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nywe17.com" resolutions="1x" timestamp="1505766589746">
   <folder name="css">
     <file name="site_global.css" crc="3780046994"/>
-    <file name="master_home-new.css" crc="530557470" ref="hotel-faq:wines-option-a:weekend-package:grand-tastings:seminars:wines:weekend-package--old:index:agenda:wineries"/>
-    <file name="nomq_preview_master_home-new.css" crc="193603377" ref="hotel-faq:wines-option-a:weekend-package:grand-tastings:seminars:wines:weekend-package--old:index:agenda:wineries"/>
+    <file name="master_home-new.css" crc="79925892" ref="hotel-faq:wines-option-a:weekend-package:grand-tastings:seminars:wines:weekend-package--old:index:agenda:wineries"/>
+    <file name="nomq_preview_master_home-new.css" crc="485335430" ref="hotel-faq:wines-option-a:weekend-package:grand-tastings:seminars:wines:weekend-package--old:index:agenda:wineries"/>
     <file name="hotel-faq.css" crc="4271741098" ref="hotel-faq"/>
     <file name="nomq_hotel-faq.css" crc="182282641" ref="hotel-faq"/>
     <file name="wines-option-a.css" crc="4232040981" ref="wines-option-a"/>
@@ -21,8 +21,8 @@
     <file name="nomq_index.css" crc="3760852073" ref="index"/>
     <file name="agenda.css" crc="4086207516" ref="agenda"/>
     <file name="nomq_agenda.css" crc="321828566" ref="agenda"/>
-    <file name="wineries.css" crc="406441588" ref="wineries"/>
-    <file name="nomq_wineries.css" crc="256969357" ref="wineries"/>
+    <file name="wineries.css" crc="4263881511" ref="wineries"/>
+    <file name="nomq_wineries.css" crc="160432736" ref="wineries"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:seminars:agenda:weekend-package:grand-tastings:wineries:hotel-faq:weekend-package--old:wines:wines-option-a"/>
@@ -161,7 +161,7 @@
   <file name="agenda.html" crc="4180722812" seo="true" mt="1503669026461" redirect="true"/>
   <file name="weekend-package.html" crc="107010263" seo="true" mt="1503409921252" redirect="true"/>
   <file name="grand-tastings.html" crc="3864374640" seo="true" mt="1505245028315" redirect="true"/>
-  <file name="wineries.html" crc="299214055" seo="true" mt="1505505264799" redirect="true"/>
+  <file name="wineries.html" crc="189865993" seo="true" mt="1505766556338" redirect="true"/>
   <file name="hotel-faq.html" crc="207011958" seo="true" mt="1503409921252" redirect="true"/>
   <file name="weekend-package--old.html" crc="4109754429" seo="true" mt="1503409921252" redirect="true"/>
   <file name="wines.html" crc="4277704312" seo="true" mt="1505507841133" redirect="true"/>
