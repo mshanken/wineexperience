@@ -1,15 +1,15 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nywe17.com" resolutions="1x" timestamp="1505766589746">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nywe17.com" resolutions="1x" timestamp="1506093302474">
   <folder name="css">
-    <file name="site_global.css" crc="3780046994"/>
-    <file name="master_home-new.css" crc="79925892" ref="hotel-faq:wines-option-a:weekend-package:grand-tastings:seminars:wines:weekend-package--old:index:agenda:wineries"/>
-    <file name="nomq_preview_master_home-new.css" crc="485335430" ref="hotel-faq:wines-option-a:weekend-package:grand-tastings:seminars:wines:weekend-package--old:index:agenda:wineries"/>
+    <file name="site_global.css" crc="4176847209"/>
+    <file name="master_home-new.css" crc="3795136412" ref="hotel-faq:wines-option-a:weekend-package:grand-tastings:seminars:wines:weekend-package--old:index:agenda:wineries"/>
+    <file name="nomq_preview_master_home-new.css" crc="193603377" ref="hotel-faq:wines-option-a:weekend-package:grand-tastings:seminars:wines:weekend-package--old:index:agenda:wineries"/>
     <file name="hotel-faq.css" crc="4271741098" ref="hotel-faq"/>
     <file name="nomq_hotel-faq.css" crc="182282641" ref="hotel-faq"/>
     <file name="wines-option-a.css" crc="4232040981" ref="wines-option-a"/>
     <file name="nomq_wines-option-a.css" crc="189419849" ref="wines-option-a"/>
     <file name="weekend-package.css" crc="3819913989" ref="weekend-package"/>
     <file name="nomq_weekend-package.css" crc="4227290141" ref="weekend-package"/>
-    <file name="grand-tastings.css" crc="134832181" ref="grand-tastings"/>
+    <file name="grand-tastings.css" crc="270153557" ref="grand-tastings"/>
     <file name="nomq_grand-tastings.css" crc="315595055" ref="grand-tastings"/>
     <file name="seminars.css" crc="4102485067" ref="seminars"/>
     <file name="nomq_seminars.css" crc="120476896" ref="seminars"/>
@@ -17,8 +17,8 @@
     <file name="nomq_wines.css" crc="473632243" ref="wines"/>
     <file name="weekend-package--old.css" crc="375960740" ref="weekend-package--old"/>
     <file name="nomq_weekend-package--old.css" crc="4081872152" ref="weekend-package--old"/>
-    <file name="index.css" crc="3854495013" ref="index"/>
-    <file name="nomq_index.css" crc="3760852073" ref="index"/>
+    <file name="index.css" crc="147251538" ref="index"/>
+    <file name="nomq_index.css" crc="3802084495" ref="index"/>
     <file name="agenda.css" crc="4086207516" ref="agenda"/>
     <file name="nomq_agenda.css" crc="321828566" ref="agenda"/>
     <file name="wineries.css" crc="4263881511" ref="wineries"/>
@@ -42,7 +42,6 @@
     <file name="wine-glass3.jpg" crc="4055160315" seo="true" ref="index:seminars:agenda:weekend-package:grand-tastings:wineries:hotel-faq:weekend-package--old:wines:wines-option-a"/>
     <file name="pics-bar.jpg" crc="231473107" seo="true" ref="index:seminars:agenda:weekend-package:grand-tastings:wineries:hotel-faq:weekend-package--old:wines:wines-option-a"/>
     <file name="package-button.jpg" crc="4148836757" seo="true" ref="index"/>
-    <file name="vip-button.jpg" crc="4158315646" seo="true" ref="index"/>
     <file name="ga-button.jpg" crc="516026647" seo="true" ref="index"/>
     <file name="wine-glass1768x340.jpg" crc="4140696665" seo="true" ref="index:wineries:wines"/>
     <file name="wine-glass1-736.jpg" crc="4132695786" seo="true" ref="index:seminars:agenda:weekend-package:grand-tastings:wineries:hotel-faq:weekend-package--old:wines:wines-option-a"/>
@@ -142,7 +141,6 @@
     <file name="lunch-bk320x188.jpg" crc="495488630" seo="true" ref="weekend-package"/>
     <file name="banquet-bk320x188.jpg" crc="3986502632" seo="true" ref="weekend-package"/>
     <file name="ego-bk320x188.jpg" crc="4268544855" seo="true" ref="weekend-package"/>
-    <file name="vip-lg.jpg" crc="44412027" seo="true" ref="grand-tastings"/>
     <file name="ga-lg.jpg" crc="372146344" seo="true" ref="grand-tastings"/>
     <file name="pic-bar-gt.jpg" crc="439294894" seo="true" ref="grand-tastings"/>
     <file name="wineries.jpg" crc="465951740" seo="true" ref="grand-tastings"/>
@@ -155,12 +153,14 @@
     <file name="pic-bar-gt375x124.jpg" crc="44425064" seo="true" ref="grand-tastings"/>
     <file name="pic-bar-gt320x106.jpg" crc="534745106" seo="true" ref="grand-tastings"/>
     <file name="rule-white.jpg" crc="439707387" seo="true" ref="hotel-faq"/>
+    <file name="vip-button-so.jpg" crc="10044028" seo="true" ref="index"/>
+    <file name="vip-lg-so.jpg" crc="4057515148" seo="true" ref="grand-tastings"/>
   </folder>
-  <file name="index.html" crc="3916604604" seo="true" mt="1505500716621" redirect="true"/>
+  <file name="index.html" crc="4057198455" seo="true" mt="1506093266206" redirect="true"/>
   <file name="seminars.html" crc="274571571" seo="true" mt="1503409921252" redirect="true"/>
   <file name="agenda.html" crc="4180722812" seo="true" mt="1503669026461" redirect="true"/>
   <file name="weekend-package.html" crc="107010263" seo="true" mt="1503409921252" redirect="true"/>
-  <file name="grand-tastings.html" crc="3864374640" seo="true" mt="1505245028315" redirect="true"/>
+  <file name="grand-tastings.html" crc="185311830" seo="true" mt="1506093115607" redirect="true"/>
   <file name="wineries.html" crc="189865993" seo="true" mt="1505766556338" redirect="true"/>
   <file name="hotel-faq.html" crc="207011958" seo="true" mt="1503409921252" redirect="true"/>
   <file name="weekend-package--old.html" crc="4109754429" seo="true" mt="1503409921252" redirect="true"/>
