@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nywe17.com" resolutions="1x" timestamp="1506523177714">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nywe17.com" resolutions="1x" timestamp="1506525720073">
   <folder name="assets">
     <file name="nywe17_floorplanltr.pdf" crc="4117868194" seo="true" mt="1506364080000"/>
   </folder>
@@ -20,8 +20,8 @@
     <file name="nomq_wines.css" crc="3865713921" ref="wines"/>
     <file name="weekend-package--old.css" crc="375960740" ref="weekend-package--old"/>
     <file name="nomq_weekend-package--old.css" crc="4081872152" ref="weekend-package--old"/>
-    <file name="index.css" crc="442611026" ref="index"/>
-    <file name="nomq_index.css" crc="3806311924" ref="index"/>
+    <file name="index.css" crc="168305123" ref="index"/>
+    <file name="nomq_index.css" crc="292066955" ref="index"/>
     <file name="agenda.css" crc="4086207516" ref="agenda"/>
     <file name="nomq_agenda.css" crc="321828566" ref="agenda"/>
     <file name="wineries.css" crc="4264238536" ref="wineries"/>
@@ -161,7 +161,7 @@
     <file name="view-map.png" crc="116771916" seo="true" ref="weekend-package"/>
     <file name="map4.jpg" crc="4224688479" seo="true" ref="grand-tastings"/>
   </folder>
-  <file name="index.html" crc="3769830732" seo="true" mt="1506521991443" redirect="true"/>
+  <file name="index.html" crc="119150510" seo="true" mt="1506525684759" redirect="true"/>
   <file name="seminars.html" crc="274571571" seo="true" mt="1503409921252" redirect="true"/>
   <file name="agenda.html" crc="4180722812" seo="true" mt="1503669026461" redirect="true"/>
   <file name="weekend-package.html" crc="3949532032" seo="true" mt="1506523149593" redirect="true"/>
