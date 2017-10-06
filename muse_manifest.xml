@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nywe17.com" resolutions="1x" timestamp="1507052795727">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nywe17.com" resolutions="1x" timestamp="1507299411837">
   <folder name="assets">
     <file name="nywe17_floorplanltr.pdf" crc="4117868194" seo="true" mt="1506364080000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3780046994"/>
-    <file name="master_home-new.css" crc="383420142" ref="hotel-faq:wines-option-a:weekend-package:grand-tastings:seminars:wines:weekend-package--old:index:agenda:wineries"/>
+    <file name="master_home-new.css" crc="4110145252" ref="hotel-faq:wines-option-a:weekend-package:grand-tastings:seminars:wines:weekend-package--old:index:agenda:wineries"/>
     <file name="nomq_preview_master_home-new.css" crc="193603377" ref="hotel-faq:wines-option-a:weekend-package:grand-tastings:seminars:wines:weekend-package--old:index:agenda:wineries"/>
     <file name="hotel-faq.css" crc="463243114" ref="hotel-faq"/>
     <file name="nomq_hotel-faq.css" crc="223524749" ref="hotel-faq"/>
@@ -24,7 +24,7 @@
     <file name="nomq_index.css" crc="292066955" ref="index"/>
     <file name="agenda.css" crc="4086207516" ref="agenda"/>
     <file name="nomq_agenda.css" crc="321828566" ref="agenda"/>
-    <file name="wineries.css" crc="3885779925" ref="wineries"/>
+    <file name="wineries.css" crc="3918181915" ref="wineries"/>
     <file name="nomq_wineries.css" crc="3831894158" ref="wineries"/>
   </folder>
   <folder name="scripts">
@@ -166,7 +166,7 @@
   <file name="agenda.html" crc="4180722812" seo="true" mt="1503669026461" redirect="true"/>
   <file name="weekend-package.html" crc="3949532032" seo="true" mt="1506523149593" redirect="true"/>
   <file name="grand-tastings.html" crc="4049785915" seo="true" mt="1506480572319" redirect="true"/>
-  <file name="wineries.html" crc="4102737898" seo="true" mt="1507052629863" redirect="true"/>
+  <file name="wineries.html" crc="232184465" seo="true" mt="1507299335257" redirect="true"/>
   <file name="hotel-faq.html" crc="3817562165" seo="true" mt="1506522173260" redirect="true"/>
   <file name="weekend-package--old.html" crc="4109754429" seo="true" mt="1503409921252" redirect="true"/>
   <file name="wines.html" crc="3921671918" seo="true" mt="1507052701374" redirect="true"/>
