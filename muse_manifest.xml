@@ -1,13 +1,13 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nywe17.com" resolutions="1x" timestamp="1518022437717">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nywe17.com" resolutions="1x" timestamp="1518023800566">
   <folder name="css">
     <file name="site_global.css" crc="3780046994"/>
-    <file name="master_home-new.css" crc="426842317" ref="weekend-package--old:grand-tastings:wines:wineries:agenda:wines-option-a:seminars:hotel-faq:weekend-package:index"/>
+    <file name="master_home-new.css" crc="106161564" ref="weekend-package--old:grand-tastings:wines:wineries:agenda:wines-option-a:seminars:hotel-faq:weekend-package:index"/>
     <file name="nomq_preview_master_home-new.css" crc="72838871" ref="weekend-package--old:grand-tastings:wines:wineries:agenda:wines-option-a:seminars:hotel-faq:weekend-package:index"/>
     <file name="weekend-package--old.css" crc="3946710058" ref="weekend-package--old"/>
     <file name="nomq_weekend-package--old.css" crc="65139694" ref="weekend-package--old"/>
     <file name="grand-tastings.css" crc="4290978288" ref="grand-tastings"/>
     <file name="nomq_grand-tastings.css" crc="4249215873" ref="grand-tastings"/>
-    <file name="index.css" crc="277755490" ref="index"/>
+    <file name="index.css" crc="525671846" ref="index"/>
     <file name="nomq_index.css" crc="4090155425" ref="index"/>
     <file name="wines.css" crc="286552743" ref="wines"/>
     <file name="nomq_wines.css" crc="432585664" ref="wines"/>
@@ -174,7 +174,7 @@
     <file name="pic-floor2mb.jpg" crc="3897997840" seo="true" ref="index:seminars:agenda:weekend-package:grand-tastings:wineries:hotel-faq:weekend-package--old:wines:wines-option-a"/>
     <file name="pic-2glassmb.jpg" crc="4234516677" seo="true" ref="index:seminars:agenda:weekend-package:grand-tastings:wineries:hotel-faq:weekend-package--old:wines:wines-option-a"/>
   </folder>
-  <file name="index.html" crc="38323504" seo="true" mt="1518022407468" redirect="true"/>
+  <file name="index.html" crc="389250107" seo="true" mt="1518023768869" redirect="true"/>
   <file name="seminars.html" crc="18548507" seo="true" mt="1518014394753" redirect="true"/>
   <file name="agenda.html" crc="4252239293" seo="true" mt="1518014394753" redirect="true"/>
   <file name="weekend-package.html" crc="3772329903" seo="true" mt="1518014394753" redirect="true"/>
