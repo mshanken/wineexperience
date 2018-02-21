@@ -1,14 +1,14 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nywe17.com" resolutions="1x" timestamp="1518023800566">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nywe17.com" resolutions="1x" timestamp="1519232426304">
   <folder name="css">
     <file name="site_global.css" crc="3780046994"/>
-    <file name="master_home-new.css" crc="106161564" ref="weekend-package--old:grand-tastings:wines:wineries:agenda:wines-option-a:seminars:hotel-faq:weekend-package:index"/>
+    <file name="master_home-new.css" crc="426842317" ref="weekend-package--old:grand-tastings:wines:wineries:agenda:wines-option-a:seminars:hotel-faq:weekend-package:index"/>
     <file name="nomq_preview_master_home-new.css" crc="72838871" ref="weekend-package--old:grand-tastings:wines:wineries:agenda:wines-option-a:seminars:hotel-faq:weekend-package:index"/>
     <file name="weekend-package--old.css" crc="3946710058" ref="weekend-package--old"/>
     <file name="nomq_weekend-package--old.css" crc="65139694" ref="weekend-package--old"/>
     <file name="grand-tastings.css" crc="4290978288" ref="grand-tastings"/>
     <file name="nomq_grand-tastings.css" crc="4249215873" ref="grand-tastings"/>
-    <file name="index.css" crc="525671846" ref="index"/>
-    <file name="nomq_index.css" crc="4090155425" ref="index"/>
+    <file name="index.css" crc="484715544" ref="index"/>
+    <file name="nomq_index.css" crc="4044474418" ref="index"/>
     <file name="wines.css" crc="286552743" ref="wines"/>
     <file name="nomq_wines.css" crc="432585664" ref="wines"/>
     <file name="wineries.css" crc="435904398" ref="wineries"/>
@@ -173,8 +173,41 @@
     <file name="pic-couplesmb.jpg" crc="348015420" seo="true" ref="index:seminars:agenda:weekend-package:grand-tastings:wineries:hotel-faq:weekend-package--old:wines:wines-option-a"/>
     <file name="pic-floor2mb.jpg" crc="3897997840" seo="true" ref="index:seminars:agenda:weekend-package:grand-tastings:wineries:hotel-faq:weekend-package--old:wines:wines-option-a"/>
     <file name="pic-2glassmb.jpg" crc="4234516677" seo="true" ref="index:seminars:agenda:weekend-package:grand-tastings:wineries:hotel-faq:weekend-package--old:wines:wines-option-a"/>
+    <file name="hotel-bk.jpg" crc="3786186434" seo="true" ref="index"/>
+    <file name="marriott401x353.jpg" crc="447386700" seo="true" ref="index"/>
+    <file name="hotel-info385x352.jpg" crc="3961012103" seo="true" ref="index"/>
+    <file name="marriott380x334.jpg" crc="3830823903" seo="true" ref="index"/>
+    <file name="hotel-info365x334.jpg" crc="4066550527" seo="true" ref="index"/>
+    <file name="marriott367x322.jpg" crc="4184052032" seo="true" ref="index"/>
+    <file name="hotel-info352x322.jpg" crc="289437679" seo="true" ref="index"/>
+    <file name="marriott342x301.jpg" crc="310206941" seo="true" ref="index"/>
+    <file name="hotel-info329x301.jpg" crc="3974148979" seo="true" ref="index"/>
+    <file name="marriott317x278.jpg" crc="4174044119" seo="true" ref="index"/>
+    <file name="hotel-info304x278.jpg" crc="4023135997" seo="true" ref="index"/>
+    <file name="hotel-bk873x347.jpg" crc="4125648127" seo="true" ref="index"/>
+    <file name="marriott292x257.jpg" crc="3966865725" seo="true" ref="index"/>
+    <file name="hotel-info280x257.jpg" crc="3815982952" seo="true" ref="index"/>
+    <file name="hotel-bk768x305.jpg" crc="3905401091" seo="true" ref="index"/>
+    <file name="marriott257x226.jpg" crc="4047150752" seo="true" ref="index"/>
+    <file name="hotel-info247x226.jpg" crc="179392406" seo="true" ref="index"/>
+    <file name="hotel-bk736x292.jpg" crc="507942100" seo="true" ref="index"/>
+    <file name="marriott246x216.jpg" crc="4021834341" seo="true" ref="index"/>
+    <file name="hotel-info236x216.jpg" crc="3799129483" seo="true" ref="index"/>
+    <file name="hotel-bkmobile.jpg" crc="4027261512" seo="true" ref="index"/>
+    <file name="marriott.jpg" crc="3826886815" seo="true" ref="index"/>
+    <file name="hotel-info.jpg" crc="47294111" seo="true" ref="index"/>
+    <file name="hotel-bkmobile480x917.jpg" crc="219275019" seo="true" ref="index"/>
+    <file name="hotel-bkmobile414x791.jpg" crc="4035748672" seo="true" ref="index"/>
+    <file name="marriott375x330.jpg" crc="480515775" seo="true" ref="index"/>
+    <file name="hotel-info374x342.jpg" crc="3924345051" seo="true" ref="index"/>
+    <file name="hotel-bkmobile375x717.jpg" crc="94647215" seo="true" ref="index"/>
+    <file name="marriott337x296.jpg" crc="106426931" seo="true" ref="index"/>
+    <file name="hotel-info337x308.jpg" crc="12795568" seo="true" ref="index"/>
+    <file name="hotel-bkmobile320x612.jpg" crc="3850187096" seo="true" ref="index"/>
+    <file name="marriott289x254.jpg" crc="166987285" seo="true" ref="index"/>
+    <file name="hotel-info287x262.jpg" crc="439928321" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="389250107" seo="true" mt="1518023768869" redirect="true"/>
+  <file name="index.html" crc="380963084" seo="true" mt="1519232386725" redirect="true"/>
   <file name="seminars.html" crc="18548507" seo="true" mt="1518014394753" redirect="true"/>
   <file name="agenda.html" crc="4252239293" seo="true" mt="1518014394753" redirect="true"/>
   <file name="weekend-package.html" crc="3772329903" seo="true" mt="1518014394753" redirect="true"/>
