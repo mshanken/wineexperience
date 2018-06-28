@@ -1,27 +1,27 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nywe17.com" resolutions="1x" timestamp="1525467417456">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nywe17.com" resolutions="1x" timestamp="1530194223533">
   <folder name="css">
     <file name="site_global.css" crc="4176847209"/>
-    <file name="master_home-new.css" crc="4117185236" ref="weekend-package--old:grand-tastings:wines:wineries:agenda:wines-option-a:seminars:hotel-faq:weekend-package:index"/>
+    <file name="master_home-new.css" crc="4169492227" ref="weekend-package--old:grand-tastings:wines:wineries:agenda:wines-option-a:seminars:hotel-faq:weekend-package:index"/>
     <file name="nomq_preview_master_home-new.css" crc="72838871" ref="weekend-package--old:grand-tastings:wines:wineries:agenda:wines-option-a:seminars:hotel-faq:weekend-package:index"/>
-    <file name="weekend-package--old.css" crc="37923220" ref="weekend-package--old"/>
+    <file name="weekend-package--old.css" crc="343299576" ref="weekend-package--old"/>
     <file name="nomq_weekend-package--old.css" crc="527480630" ref="weekend-package--old"/>
-    <file name="grand-tastings.css" crc="3896165491" ref="grand-tastings"/>
+    <file name="grand-tastings.css" crc="4063754941" ref="grand-tastings"/>
     <file name="nomq_grand-tastings.css" crc="3934850943" ref="grand-tastings"/>
-    <file name="index.css" crc="3883223441" ref="index"/>
-    <file name="nomq_index.css" crc="115046420" ref="index"/>
-    <file name="wines.css" crc="343284313" ref="wines"/>
+    <file name="index.css" crc="4041562293" ref="index"/>
+    <file name="nomq_index.css" crc="55342091" ref="index"/>
+    <file name="wines.css" crc="212893521" ref="wines"/>
     <file name="nomq_wines.css" crc="133364649" ref="wines"/>
-    <file name="wineries.css" crc="4227485248" ref="wineries"/>
+    <file name="wineries.css" crc="4186888087" ref="wineries"/>
     <file name="nomq_wineries.css" crc="81922595" ref="wineries"/>
-    <file name="agenda.css" crc="3905421065" ref="agenda"/>
+    <file name="agenda.css" crc="3895252111" ref="agenda"/>
     <file name="nomq_agenda.css" crc="402188282" ref="agenda"/>
-    <file name="wines-option-a.css" crc="318778249" ref="wines-option-a"/>
+    <file name="wines-option-a.css" crc="4102304444" ref="wines-option-a"/>
     <file name="nomq_wines-option-a.css" crc="4276768091" ref="wines-option-a"/>
-    <file name="seminars.css" crc="374527491" ref="seminars"/>
+    <file name="seminars.css" crc="462378984" ref="seminars"/>
     <file name="nomq_seminars.css" crc="121578785" ref="seminars"/>
-    <file name="hotel-faq.css" crc="4122013166" ref="hotel-faq"/>
+    <file name="hotel-faq.css" crc="355124234" ref="hotel-faq"/>
     <file name="nomq_hotel-faq.css" crc="4075306227" ref="hotel-faq"/>
-    <file name="weekend-package.css" crc="224609914" ref="weekend-package"/>
+    <file name="weekend-package.css" crc="3777891578" ref="weekend-package"/>
     <file name="nomq_weekend-package.css" crc="334717722" ref="weekend-package"/>
   </folder>
   <folder name="assets">
@@ -198,15 +198,48 @@
     <file name="hotel-info287x262.jpg" crc="439928321" seo="true" ref="index"/>
     <file name="2018-wine-glass-bot-newb.jpg" crc="3878160641" seo="true" ref="index:seminars:agenda:weekend-package:grand-tastings:wineries:hotel-faq:weekend-package--old:wines:wines-option-a"/>
     <file name="2018-wine-glass-bot-newa.jpg" crc="3808116090" seo="true" ref="index:seminars:agenda:weekend-package:grand-tastings:wineries:hotel-faq:weekend-package--old:wines:wines-option-a"/>
+    <file name="seminar300x200.jpg" crc="518769957" seo="true" ref="index"/>
+    <file name="2guys300x200.jpg" crc="66123662" seo="true" ref="index"/>
+    <file name="food300x200.jpg" crc="106396688" seo="true" ref="index"/>
+    <file name="seminar285x190.jpg" crc="374733920" seo="true" ref="index"/>
+    <file name="2guys285x190.jpg" crc="486523275" seo="true" ref="index"/>
+    <file name="food285x190.jpg" crc="4090976453" seo="true" ref="index"/>
+    <file name="seminar280x187.jpg" crc="3765236043" seo="true" ref="index"/>
+    <file name="2guys280x187.jpg" crc="356981905" seo="true" ref="index"/>
+    <file name="food280x187.jpg" crc="311744097" seo="true" ref="index"/>
+    <file name="seminar245x164.jpg" crc="3960485700" seo="true" ref="index"/>
+    <file name="2guys245x164.jpg" crc="3986443631" seo="true" ref="index"/>
+    <file name="food245x164.jpg" crc="335263414" seo="true" ref="index"/>
+    <file name="seminar230x154.jpg" crc="100155561" seo="true" ref="index"/>
+    <file name="2guys230x154.jpg" crc="4164379624" seo="true" ref="index"/>
+    <file name="food230x154.jpg" crc="4081336854" seo="true" ref="index"/>
+    <file name="seminar210x140.jpg" crc="377670686" seo="true" ref="index"/>
+    <file name="2guys210x140.jpg" crc="3804381368" seo="true" ref="index"/>
+    <file name="food210x140.jpg" crc="3854749840" seo="true" ref="index"/>
+    <file name="seminar180x120.jpg" crc="3921303982" seo="true" ref="index"/>
+    <file name="2guys180x120.jpg" crc="3800768170" seo="true" ref="index"/>
+    <file name="food180x120.jpg" crc="156257777" seo="true" ref="index"/>
+    <file name="seminar.jpg" crc="4256554976" seo="true" ref="index"/>
+    <file name="2guys.jpg" crc="67003064" seo="true" ref="index"/>
+    <file name="food.jpg" crc="416308163" seo="true" ref="index"/>
+    <file name="seminar260x174.jpg" crc="287066013" seo="true" ref="index"/>
+    <file name="2guys260x174.jpg" crc="227645858" seo="true" ref="index"/>
+    <file name="food260x174.jpg" crc="325200184" seo="true" ref="index"/>
+    <file name="seminar240x160.jpg" crc="396513881" seo="true" ref="index"/>
+    <file name="2guys240x160.jpg" crc="4081033549" seo="true" ref="index"/>
+    <file name="food240x160.jpg" crc="354700670" seo="true" ref="index"/>
+    <file name="seminar220x147.jpg" crc="3912801877" seo="true" ref="index"/>
+    <file name="2guys220x147.jpg" crc="4224329020" seo="true" ref="index"/>
+    <file name="food220x147.jpg" crc="64611058" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4251168570" seo="true" mt="1525467364638" redirect="true"/>
-  <file name="seminars.html" crc="3788195971" seo="true" mt="1525464633586" redirect="true"/>
-  <file name="agenda.html" crc="148575486" seo="true" mt="1525464633586" redirect="true"/>
-  <file name="weekend-package.html" crc="248440446" seo="true" mt="1525464633586" redirect="true"/>
-  <file name="grand-tastings.html" crc="3848929608" seo="true" mt="1525464633586" redirect="true"/>
-  <file name="wineries.html" crc="362585830" seo="true" mt="1525464633586" redirect="true"/>
-  <file name="hotel-faq.html" crc="4042205941" seo="true" mt="1525464633586" redirect="true"/>
-  <file name="weekend-package--old.html" crc="215014788" seo="true" mt="1525464633586" redirect="true"/>
-  <file name="wines.html" crc="401531161" seo="true" mt="1525464633586" redirect="true"/>
-  <file name="wines-option-a.html" crc="4192288066" seo="true" mt="1525464633586" redirect="true"/>
+  <file name="index.html" crc="4137338312" seo="true" mt="1530194134589" redirect="true"/>
+  <file name="seminars.html" crc="124327735" seo="true" mt="1530191807511" redirect="true"/>
+  <file name="agenda.html" crc="354006256" seo="true" mt="1530019479703" redirect="true"/>
+  <file name="weekend-package.html" crc="248515527" seo="true" mt="1530019479703" redirect="true"/>
+  <file name="grand-tastings.html" crc="287868819" seo="true" mt="1530019479703" redirect="true"/>
+  <file name="wineries.html" crc="3817822538" seo="true" mt="1530019479703" redirect="true"/>
+  <file name="hotel-faq.html" crc="286308039" seo="true" mt="1530019479703" redirect="true"/>
+  <file name="weekend-package--old.html" crc="34518485" seo="true" mt="1530019479703" redirect="true"/>
+  <file name="wines.html" crc="426771912" seo="true" mt="1530019479703" redirect="true"/>
+  <file name="wines-option-a.html" crc="4070007092" seo="true" mt="1530019479703" redirect="true"/>
 </manifest>
