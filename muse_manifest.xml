@@ -1,14 +1,14 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nywe17.com" resolutions="1x" timestamp="1530545569242">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nywe17.com" resolutions="1x" timestamp="1532717170341">
   <folder name="css">
     <file name="site_global.css" crc="3780046994"/>
-    <file name="master_home-new.css" crc="4169492227" ref="weekend-package--old:grand-tastings:wines:wineries:agenda:wines-option-a:seminars:hotel-faq:weekend-package:index"/>
+    <file name="master_home-new.css" crc="275288443" ref="weekend-package--old:grand-tastings:wines:wineries:agenda:wines-option-a:seminars:hotel-faq:weekend-package:index"/>
     <file name="nomq_preview_master_home-new.css" crc="72838871" ref="weekend-package--old:grand-tastings:wines:wineries:agenda:wines-option-a:seminars:hotel-faq:weekend-package:index"/>
     <file name="weekend-package--old.css" crc="243367561" ref="weekend-package--old"/>
     <file name="nomq_weekend-package--old.css" crc="527480630" ref="weekend-package--old"/>
     <file name="grand-tastings.css" crc="3840936125" ref="grand-tastings"/>
     <file name="nomq_grand-tastings.css" crc="3934850943" ref="grand-tastings"/>
-    <file name="index.css" crc="4015478785" ref="index"/>
-    <file name="nomq_index.css" crc="55342091" ref="index"/>
+    <file name="index.css" crc="21691773" ref="index"/>
+    <file name="nomq_index.css" crc="4227190490" ref="index"/>
     <file name="wines.css" crc="342669708" ref="wines"/>
     <file name="nomq_wines.css" crc="133364649" ref="wines"/>
     <file name="wineries.css" crc="3801341869" ref="wineries"/>
@@ -232,7 +232,7 @@
     <file name="2guys220x147.jpg" crc="4224329020" seo="true" ref="index"/>
     <file name="food220x147.jpg" crc="64611058" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4260448515" seo="true" mt="1530545410389" redirect="true"/>
+  <file name="index.html" crc="399821244" seo="true" mt="1532717138854" redirect="true"/>
   <file name="seminars.html" crc="3902798276" seo="true" mt="1530545410389" redirect="true"/>
   <file name="agenda.html" crc="4149829452" seo="true" mt="1530545410389" redirect="true"/>
   <file name="weekend-package.html" crc="3824790153" seo="true" mt="1530545410389" redirect="true"/>
