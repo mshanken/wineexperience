@@ -7,19 +7,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nywineexperience.com/about.html</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/seminars-old.html</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://nywineexperience.com/faq.html</loc>
+    <lastmod>2018-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://nywineexperience.com/about.html</loc>
     <lastmod>2018-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -43,19 +37,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nywineexperience.com/tickets.html</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://nywineexperience.com/seminars.html</loc>
     <lastmod>2018-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nywineexperience.com/images/seminar2312x313.jpg</loc>
+    <loc>http://nywineexperience.com/tickets.html</loc>
+    <lastmod>2018-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://nywineexperience.com/images/logo-header1024x507_2x.jpg</loc>
+    <lastmod>2018-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://nywineexperience.com/images/spacer1024x22.jpg</loc>
     <lastmod>2018-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1165,54 +1165,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nywineexperience.com/images/seminar1.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar1_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar2.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar2_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar3.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar3_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar4.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar4_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://nywineexperience.com/images/1-2.jpg</loc>
     <lastmod>2018-08-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -1279,91 +1231,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nywineexperience.com/images/chefs1_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://nywineexperience.com/images/chefs2.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/chefs2_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars1.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars1_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars2.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars2_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar1434x435.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar1434x435_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar2434x435.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar2434x435_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar3434x435.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar3434x435_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar4434x435.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar4434x435_2x.jpg</loc>
     <lastmod>2018-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1435,91 +1303,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nywineexperience.com/images/chefs1439x379_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://nywineexperience.com/images/chefs2439x379.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/chefs2439x379_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars1438x418.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars1438x418_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars2438x418.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars2438x418_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar1326x326.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar1326x326_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar2326x326.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar2326x326_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar3326x326.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar3326x326_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar4326x326.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar4326x326_2x.jpg</loc>
     <lastmod>2018-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1591,91 +1375,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nywineexperience.com/images/chefs1329x284_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://nywineexperience.com/images/chefs2329x284.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/chefs2329x284_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars1329x314.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars1329x314_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars2329x314.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars2329x314_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar1312x313.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/logo-header1024x507_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/spacer1024x22.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar2312x313_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar3312x313.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar3312x313_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar4312x313.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar4312x313_2x.jpg</loc>
     <lastmod>2018-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1747,307 +1447,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nywineexperience.com/images/chefs1316x272_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://nywineexperience.com/images/chefs2316x272.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/chefs2316x272_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars1315x301.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars1315x301_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars2315x301.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars2315x301_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar1283x283.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar1283x283_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar2283x283.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar2283x283_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar3283x283.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar3283x283_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar4283x283.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar4283x283_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/1-2229x193.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/3-4229x193.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/5113x193.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/5113x193_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/6-7229x193.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/6-7229x193_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/8-9229x193.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/8-9229x193_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/10113x193.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/10113x193_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/chefs1286x247.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/chefs1286x247_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/chefs2286x247.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/chefs2286x247_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars1285x272.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars1285x272_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars2285x272.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars2285x272_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar1241x241.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar1241x241_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar2241x241.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar2241x241_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar3241x241.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar3241x241_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar4241x241.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar4241x241_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar1410x411.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar1410x411_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/1-2410x346.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/chefs1410x354.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/chefs1410x354_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars1410x392.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars1410x392_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar1354x354.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar1354x354_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/1-2354x299.jpg</loc>
     <lastmod>2018-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2059,151 +1459,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nywineexperience.com/images/chefs1354x305_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars1354x338.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars1354x338_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar1321x321.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar1321x321_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/1-2321x271.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/3-4321x271.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/5-6321x271.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/7-8321x271.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/9-10321x271.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://nywineexperience.com/images/chefs2321x277.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/chefs2321x277_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars1321x306.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars1321x306_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar1274x274.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar1274x274_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/1-2274x231.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/3-4274x231.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/5-6274x231.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/7-8274x231.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/9-10274x231.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/chefs1274x236.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/chefs1274x236_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars1274x261.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars1274x261_2x.jpg</loc>
     <lastmod>2018-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2473,54 +1729,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nywineexperience.com/images/seminar1454x454.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar1454x454_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar2454x454.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar2454x454_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar3454x454.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar3454x454_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar4454x454.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar4454x454_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://nywineexperience.com/images/1-2367x310.jpg</loc>
     <lastmod>2018-08-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -2587,91 +1795,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nywineexperience.com/images/chefs1459x396_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://nywineexperience.com/images/chefs2459x396.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/chefs2459x396_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars1458x437.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars1458x437_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars2458x437.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars2458x437_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar1381x382.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar1381x382_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar2381x382.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar2381x382_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar3381x382.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar3381x382_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar4381x382.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar4381x382_2x.jpg</loc>
     <lastmod>2018-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2743,397 +1867,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nywineexperience.com/images/chefs1386x332_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://nywineexperience.com/images/chefs2386x332.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/chefs2386x332_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars1385x367.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars1385x367_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars2385x367.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars2385x367_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/1-2412x347.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/3-4412x347.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/9-10487x411.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/chefs1485x419.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/chefs1485x419_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/chefs2487x419.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/chefs2487x419_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars1485x463.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars1485x463_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars2485x463.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars2485x463_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar2409x410.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar2409x410_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar3408x409.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar3408x409_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar4409x410.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar4409x410_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/3-4411x347.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/5-6411x347.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/7-8411x347.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/9-10411x347.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/chefs2411x355.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/chefs2411x355_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars2410x391.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars2410x391_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar2353x354.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar2353x354_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar3352x353.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar3352x353_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar4353x354.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar4353x354_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/3-4355x299.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/5-6355x299.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/7-8355x299.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/9-10355x299.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/chefs2355x306.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/chefs2355x306_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars2354x337.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars2354x337_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar2320x320.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar2320x320_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar3319x320.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar3319x320_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar4320x320.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar4320x320_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/chefs1321x276.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/chefs1321x276_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars2320x306.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars2320x306_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar2273x273.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar2273x273_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar3272x273.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar3272x273_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar4273x273.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/seminar4273x273_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/chefs2274x237.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/chefs2274x237_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars2273x261.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/stars2273x261_2x.jpg</loc>
     <lastmod>2018-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3235,13 +1969,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nywineexperience.com/images/seminar1312x313_2x.jpg</loc>
+    <loc>http://nywineexperience.com/images/schedule-pics1_2x.jpg</loc>
     <lastmod>2018-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nywineexperience.com/images/logo-header1024x507.jpg</loc>
+    <loc>http://nywineexperience.com/images/schedule-pics2.jpg</loc>
     <lastmod>2018-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3512,18 +2246,6 @@
   </url>
   <url>
     <loc>http://nywineexperience.com/images/schedule-pics2274x90_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/1-2412x347_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/3-4412x347_2x.jpg</loc>
     <lastmod>2018-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3865,13 +2587,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nywineexperience.com/images/stars3287x341_2x.jpg</loc>
+    <loc>http://nywineexperience.com/images/schedule-home401x403.jpg</loc>
     <lastmod>2018-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nywineexperience.com/images/stars1-2583x341.jpg</loc>
+    <loc>http://nywineexperience.com/images/logo-header1024x507.jpg</loc>
     <lastmod>2018-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4280,18 +3002,6 @@
   </url>
   <url>
     <loc>http://nywineexperience.com/images/stars6207x245_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/1-2412x348.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/1-2412x348_2x.jpg</loc>
     <lastmod>2018-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6421,25 +5131,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nywineexperience.com/images/5-6486x410.jpg</loc>
+    <loc>http://nywineexperience.com/images/1-2_2x.jpg</loc>
     <lastmod>2018-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nywineexperience.com/images/7-8487x411.jpg</loc>
+    <loc>http://nywineexperience.com/images/3-4_2x.jpg</loc>
     <lastmod>2018-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://nywineexperience.com/images/logo-header_2x.jpg</loc>
-    <lastmod>2018-08-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nywineexperience.com/images/schedule-home401x403.jpg</loc>
     <lastmod>2018-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6469,7 +5173,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nywineexperience.com/images/schedule-pics1_2x.jpg</loc>
+    <loc>http://nywineexperience.com/images/stars3287x341_2x.jpg</loc>
     <lastmod>2018-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6481,7 +5185,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nywineexperience.com/images/schedule-pics2.jpg</loc>
+    <loc>http://nywineexperience.com/images/stars1-2583x341.jpg</loc>
     <lastmod>2018-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
