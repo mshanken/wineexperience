@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nywineexperience.com" resolutions="1x,2x" timestamp="1538425823283">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nywineexperience.com" resolutions="1x,2x" timestamp="1538662414540">
   <folder name="assets">
     <file name="nywe18-floorplan.pdf" crc="37617516" seo="true" mt="1537299229000"/>
   </folder>
@@ -10,8 +10,8 @@
     <file name="nomq_preview_master_a-master-new.css" crc="4198135932" ref="index"/>
     <file name="seminars.css" crc="3825329273" ref="seminars"/>
     <file name="nomq_seminars.css" crc="191790205" ref="seminars"/>
-    <file name="tickets.css" crc="3862456684" ref="tickets"/>
-    <file name="nomq_tickets.css" crc="495143926" ref="tickets"/>
+    <file name="tickets.css" crc="180176967" ref="tickets"/>
+    <file name="nomq_tickets.css" crc="3831566904" ref="tickets"/>
     <file name="schedule.css" crc="3964861022" ref="schedule"/>
     <file name="nomq_schedule.css" crc="82229639" ref="schedule"/>
     <file name="travel.css" crc="15159766" ref="travel"/>
@@ -26,7 +26,7 @@
     <file name="nomq_preview_master_seminar-master-new2.css" crc="113509050" ref="seminars"/>
     <file name="wineries.css" crc="263616156" ref="wineries"/>
     <file name="nomq_wineries.css" crc="535104198" ref="wineries"/>
-    <file name="master_page-master-new2.css" crc="536554726" ref="tickets:travel:wines:wineries:about:schedule:faq"/>
+    <file name="master_page-master-new2.css" crc="191204906" ref="tickets:travel:wines:wineries:about:schedule:faq"/>
     <file name="nomq_preview_master_page-master-new2.css" crc="4016621560" ref="tickets:travel:wines:wineries:about:schedule:faq"/>
   </folder>
   <folder name="fonts">
@@ -901,64 +901,40 @@
     <file name="weekend-tix.jpg" crc="177930363" seo="true" ref="tickets"/>
     <file name="weekend-tix_2x.jpg" crc="376806729" seo="true" ref="tickets"/>
     <file name="hotspot.png" crc="4102569179" seo="true" ref="tickets"/>
-    <file name="gt-tix.jpg" crc="3964527422" seo="true" ref="tickets"/>
-    <file name="gt-tix_2x.jpg" crc="3817723391" seo="true" ref="tickets"/>
     <file name="logo-header-pages929x173.png" crc="4185977933" seo="true" ref="tickets"/>
     <file name="weekend-tix450x623.jpg" crc="3952892345" seo="true" ref="tickets"/>
     <file name="weekend-tix450x623_2x.jpg" crc="376806729" seo="true" ref="tickets"/>
-    <file name="gt-tix452x623.jpg" crc="3851299091" seo="true" ref="tickets"/>
-    <file name="gt-tix452x623_2x.jpg" crc="3817723391" seo="true" ref="tickets"/>
     <file name="weekend-tix431x596.jpg" crc="4104419157" seo="true" ref="tickets"/>
     <file name="weekend-tix431x596_2x.jpg" crc="376806729" seo="true" ref="tickets"/>
-    <file name="gt-tix433x596.jpg" crc="3878360398" seo="true" ref="tickets"/>
-    <file name="gt-tix433x596_2x.jpg" crc="3817723391" seo="true" ref="tickets"/>
     <file name="logo-header-pages792x147.png" crc="4185977933" seo="true" ref="tickets"/>
     <file name="weekend-tix378x523.jpg" crc="3804854521" seo="true" ref="tickets"/>
     <file name="weekend-tix378x523_2x.jpg" crc="376806729" seo="true" ref="tickets"/>
-    <file name="gt-tix380x523.jpg" crc="112204696" seo="true" ref="tickets"/>
-    <file name="gt-tix380x523_2x.jpg" crc="3817723391" seo="true" ref="tickets"/>
     <file name="logo-header-pages657x122.png" crc="4185977933" seo="true" ref="tickets"/>
     <file name="weekend-tix323x447.jpg" crc="4103306805" seo="true" ref="tickets"/>
     <file name="weekend-tix323x447_2x.jpg" crc="4110280748" seo="true" ref="tickets"/>
     <file name="hotspot180x72.png" crc="4102569179" seo="true" ref="tickets"/>
-    <file name="gt-tix325x447.jpg" crc="244466184" seo="true" ref="tickets"/>
-    <file name="gt-tix325x447_2x.jpg" crc="4251149488" seo="true" ref="tickets"/>
     <file name="weekend-tix310x429.jpg" crc="473493015" seo="true" ref="tickets"/>
     <file name="weekend-tix310x429_2x.jpg" crc="4178753113" seo="true" ref="tickets"/>
     <file name="hotspot172x69.png" crc="4102569179" seo="true" ref="tickets"/>
-    <file name="gt-tix311x429.jpg" crc="4167592552" seo="true" ref="tickets"/>
-    <file name="gt-tix311x429_2x.jpg" crc="33929578" seo="true" ref="tickets"/>
     <file name="weekend-tix281x388.jpg" crc="4213904980" seo="true" ref="tickets"/>
     <file name="weekend-tix281x388_2x.jpg" crc="28570546" seo="true" ref="tickets"/>
     <file name="hotspot156x63.png" crc="4102569179" seo="true" ref="tickets"/>
-    <file name="gt-tix282x388.jpg" crc="4115136662" seo="true" ref="tickets"/>
-    <file name="gt-tix282x388_2x.jpg" crc="4017868289" seo="true" ref="tickets"/>
     <file name="weekend-tix239x331.jpg" crc="511465803" seo="true" ref="tickets"/>
     <file name="weekend-tix239x331_2x.jpg" crc="4083292773" seo="true" ref="tickets"/>
     <file name="hotspot133x54.png" crc="4102569179" seo="true" ref="tickets"/>
-    <file name="gt-tix240x331.jpg" crc="187990635" seo="true" ref="tickets"/>
-    <file name="gt-tix240x331_2x.jpg" crc="422689358" seo="true" ref="tickets"/>
     <file name="weekend-tix407x562.jpg" crc="3945505429" seo="true" ref="tickets"/>
     <file name="weekend-tix407x562_2x.jpg" crc="376806729" seo="true" ref="tickets"/>
-    <file name="gt-tix407x560.jpg" crc="3869739792" seo="true" ref="tickets"/>
-    <file name="gt-tix407x560_2x.jpg" crc="3817723391" seo="true" ref="tickets"/>
     <file name="weekend-tix351x485.jpg" crc="4018882374" seo="true" ref="tickets"/>
     <file name="weekend-tix351x485_2x.jpg" crc="376806729" seo="true" ref="tickets"/>
     <file name="hotspot195x78.png" crc="4102569179" seo="true" ref="tickets"/>
-    <file name="gt-tix351x483.jpg" crc="177367537" seo="true" ref="tickets"/>
-    <file name="gt-tix351x483_2x.jpg" crc="3817723391" seo="true" ref="tickets"/>
     <file name="hotspot194x78.png" crc="4102569179" seo="true" ref="tickets"/>
     <file name="weekend-tix318x440.jpg" crc="4041235981" seo="true" ref="tickets"/>
     <file name="weekend-tix318x440_2x.jpg" crc="50685260" seo="true" ref="tickets"/>
-    <file name="hotspot177x71.png" crc="4102569179" seo="true" ref="index"/>
-    <file name="gt-tix318x438.jpg" crc="128554514" seo="true" ref="tickets"/>
-    <file name="gt-tix318x438_2x.jpg" crc="461487601" seo="true" ref="tickets"/>
+    <file name="hotspot177x71.png" crc="4102569179" seo="true" ref="index:tickets"/>
     <file name="hotspot176x71.png" crc="4102569179" seo="true" ref="tickets"/>
     <file name="weekend-tix271x375.jpg" crc="4084448401" seo="true" ref="tickets"/>
     <file name="weekend-tix271x375_2x.jpg" crc="3839710634" seo="true" ref="tickets"/>
     <file name="hotspot151x61.png" crc="4102569179" seo="true" ref="tickets"/>
-    <file name="gt-tix271x374.jpg" crc="4256065990" seo="true" ref="tickets"/>
-    <file name="gt-tix271x374_2x.jpg" crc="3870567037" seo="true" ref="tickets"/>
     <file name="hotspot150x60.png" crc="4102569179" seo="true" ref="tickets"/>
     <file name="logo-header-pages631x117.png" crc="4185977933" seo="true" ref="travel"/>
     <file name="hotel423x298.jpg" crc="425238704" seo="true" ref="travel"/>
@@ -1009,24 +985,24 @@
     <file name="twitter-wht21x21_2x.png" crc="328742887" seo="true" ref="index"/>
     <file name="facebook-wht21x21.png" crc="4100752668" seo="true" ref="index"/>
     <file name="facebook-wht21x21_2x.png" crc="220814579" seo="true" ref="index"/>
-    <file name="instagram-wht18x18.png" crc="4043215232" seo="true" ref="index"/>
-    <file name="instagram-wht18x18_2x.png" crc="4002512373" seo="true" ref="index"/>
-    <file name="twitter-wht18x18.png" crc="351177544" seo="true" ref="index"/>
-    <file name="twitter-wht18x18_2x.png" crc="3884080118" seo="true" ref="index"/>
-    <file name="facebook-wht18x18.png" crc="3813413972" seo="true" ref="index"/>
-    <file name="facebook-wht18x18_2x.png" crc="4219629385" seo="true" ref="index"/>
+    <file name="instagram-wht18x18.png" crc="4043215232" seo="true" ref="index:tickets"/>
+    <file name="instagram-wht18x18_2x.png" crc="4002512373" seo="true" ref="index:tickets"/>
+    <file name="twitter-wht18x18.png" crc="351177544" seo="true" ref="index:tickets"/>
+    <file name="twitter-wht18x18_2x.png" crc="3884080118" seo="true" ref="index:tickets"/>
+    <file name="facebook-wht18x18.png" crc="3813413972" seo="true" ref="index:tickets"/>
+    <file name="facebook-wht18x18_2x.png" crc="4219629385" seo="true" ref="index:tickets"/>
     <file name="instagram-wht17x17.png" crc="205762274" seo="true" ref="index"/>
     <file name="instagram-wht17x17_2x.png" crc="475199155" seo="true" ref="index"/>
     <file name="twitter-wht17x17.png" crc="236262404" seo="true" ref="index"/>
     <file name="twitter-wht17x17_2x.png" crc="3831945260" seo="true" ref="index"/>
     <file name="facebook-wht17x17.png" crc="4043702634" seo="true" ref="index"/>
     <file name="facebook-wht17x17_2x.png" crc="220814579" seo="true" ref="index"/>
-    <file name="instagram-wht16x16.png" crc="287962534" seo="true" ref="index"/>
-    <file name="instagram-wht16x16_2x.png" crc="3966057840" seo="true" ref="index"/>
-    <file name="twitter-wht16x16.png" crc="3899255195" seo="true" ref="index"/>
-    <file name="twitter-wht16x16_2x.png" crc="3929564413" seo="true" ref="index"/>
-    <file name="facebook-wht16x16.png" crc="4096236417" seo="true" ref="index"/>
-    <file name="facebook-wht16x16_2x.png" crc="3852260337" seo="true" ref="index"/>
+    <file name="instagram-wht16x16.png" crc="287962534" seo="true" ref="index:tickets"/>
+    <file name="instagram-wht16x16_2x.png" crc="3966057840" seo="true" ref="index:tickets"/>
+    <file name="twitter-wht16x16.png" crc="3899255195" seo="true" ref="index:tickets"/>
+    <file name="twitter-wht16x16_2x.png" crc="3929564413" seo="true" ref="index:tickets"/>
+    <file name="facebook-wht16x16.png" crc="4096236417" seo="true" ref="index:tickets"/>
+    <file name="facebook-wht16x16_2x.png" crc="3852260337" seo="true" ref="index:tickets"/>
     <file name="instagram-wht14x14.png" crc="320837602" seo="true" ref="index"/>
     <file name="instagram-wht14x14_2x.png" crc="3878197106" seo="true" ref="index"/>
     <file name="twitter-wht14x14.png" crc="338670913" seo="true" ref="index"/>
@@ -1081,18 +1057,18 @@
     <file name="twitter14x14_2x.png" crc="4271290202" seo="true" ref="tickets"/>
     <file name="facebook14x14.png" crc="4078478422" seo="true" ref="tickets"/>
     <file name="facebook14x14_2x.png" crc="4012376423" seo="true" ref="tickets"/>
-    <file name="instagram-wht15x15.png" crc="438619867" seo="true" ref="index"/>
-    <file name="instagram-wht15x15_2x.png" crc="356054555" seo="true" ref="index"/>
-    <file name="twitter-wht15x15.png" crc="3882618320" seo="true" ref="index"/>
-    <file name="twitter-wht15x15_2x.png" crc="4226775327" seo="true" ref="index"/>
-    <file name="facebook-wht15x15.png" crc="4100392" seo="true" ref="index"/>
-    <file name="facebook-wht15x15_2x.png" crc="143772979" seo="true" ref="index"/>
-    <file name="instagram-wht13x13.png" crc="320837602" seo="true" ref="index"/>
-    <file name="instagram-wht13x13_2x.png" crc="455115275" seo="true" ref="index"/>
-    <file name="twitter-wht13x13.png" crc="338670913" seo="true" ref="index"/>
-    <file name="twitter-wht13x13_2x.png" crc="4071786796" seo="true" ref="index"/>
-    <file name="facebook-wht13x13.png" crc="310224475" seo="true" ref="index"/>
-    <file name="facebook-wht13x13_2x.png" crc="3924118735" seo="true" ref="index"/>
+    <file name="instagram-wht15x15.png" crc="438619867" seo="true" ref="index:tickets"/>
+    <file name="instagram-wht15x15_2x.png" crc="356054555" seo="true" ref="index:tickets"/>
+    <file name="twitter-wht15x15.png" crc="3882618320" seo="true" ref="index:tickets"/>
+    <file name="twitter-wht15x15_2x.png" crc="4226775327" seo="true" ref="index:tickets"/>
+    <file name="facebook-wht15x15.png" crc="4100392" seo="true" ref="index:tickets"/>
+    <file name="facebook-wht15x15_2x.png" crc="143772979" seo="true" ref="index:tickets"/>
+    <file name="instagram-wht13x13.png" crc="320837602" seo="true" ref="index:tickets"/>
+    <file name="instagram-wht13x13_2x.png" crc="3878197106" seo="true" ref="index:tickets"/>
+    <file name="twitter-wht13x13.png" crc="338670913" seo="true" ref="index:tickets"/>
+    <file name="twitter-wht13x13_2x.png" crc="3803053731" seo="true" ref="index:tickets"/>
+    <file name="facebook-wht13x13.png" crc="310224475" seo="true" ref="index:tickets"/>
+    <file name="facebook-wht13x13_2x.png" crc="124066802" seo="true" ref="index:tickets"/>
     <file name="logo-header18001124x556.jpg" crc="315166140" seo="true" ref="index"/>
     <file name="instagram-wht26x26.png" crc="3878197106" seo="true" ref="index"/>
     <file name="instagram-wht26x26_2x.png" crc="4110369272" seo="true" ref="index"/>
@@ -1178,24 +1154,48 @@
     <file name="facebook-wht14x15.png" crc="4100392" seo="true" ref="index"/>
     <file name="facebook-wht14x15_2x.png" crc="4042973922" seo="true" ref="index"/>
     <file name="seminar-master-new2-favicon.ico" crc="4220636928" ref="seminars"/>
-    <file name="wsevents50x50.png" crc="4210644695" seo="true" ref="index"/>
-    <file name="wsevents47x47.png" crc="423054544" seo="true" ref="index"/>
-    <file name="wsevents45x45.png" crc="431778850" seo="true" ref="index"/>
-    <file name="wsevents43x43.png" crc="503542315" seo="true" ref="index"/>
-    <file name="wsevents42x42.png" crc="132459312" seo="true" ref="index"/>
+    <file name="wsevents50x50.png" crc="4210644695" seo="true" ref="index:tickets"/>
+    <file name="wsevents47x47.png" crc="423054544" seo="true" ref="index:tickets"/>
+    <file name="wsevents45x45.png" crc="431778850" seo="true" ref="index:tickets"/>
+    <file name="wsevents43x43.png" crc="503542315" seo="true" ref="index:tickets"/>
+    <file name="wsevents42x42.png" crc="132459312" seo="true" ref="index:tickets"/>
     <file name="wsevents40x40.png" crc="380190181" seo="true" ref="index"/>
-    <file name="wsevents38x38.png" crc="481617426" seo="true" ref="index"/>
+    <file name="wsevents38x38.png" crc="481617426" seo="true" ref="index:tickets"/>
     <file name="wsevents36x36.png" crc="529748947" seo="true" ref="index"/>
     <file name="wsevents34x34.png" crc="3785317537" seo="true" ref="index"/>
     <file name="wsevents37x37.png" crc="3821906671" seo="true" ref="index"/>
     <file name="wsevents41x41.png" crc="245188820" seo="true" ref="index"/>
-    <file name="wsevents49x49.png" crc="250381802" seo="true" ref="index"/>
-    <file name="wsevents44x44.png" crc="4097476981" seo="true" ref="index"/>
+    <file name="wsevents49x49.png" crc="250381802" seo="true" ref="index:tickets"/>
+    <file name="wsevents44x44.png" crc="4097476981" seo="true" ref="index:tickets"/>
     <file name="wsevents.png" crc="4210644695" seo="true" ref="index:tickets:seminars:travel:schedule:wines:faq:about:wineries"/>
     <file name="page-master-new2-favicon.ico" crc="4220636928" ref="tickets"/>
+    <file name="gt-tix-so.jpg" crc="3966722433" seo="true" ref="tickets"/>
+    <file name="gt-tix-so_2x.jpg" crc="4093495622" seo="true" ref="tickets"/>
+    <file name="gt-tix-so452x623.jpg" crc="4187713868" seo="true" ref="tickets"/>
+    <file name="gt-tix-so452x623_2x.jpg" crc="3989060679" seo="true" ref="tickets"/>
+    <file name="gt-tix-so433x596.jpg" crc="288603007" seo="true" ref="tickets"/>
+    <file name="gt-tix-so433x596_2x.jpg" crc="4029566483" seo="true" ref="tickets"/>
+    <file name="gt-tix-so380x523.jpg" crc="536150406" seo="true" ref="tickets"/>
+    <file name="gt-tix-so380x523_2x.jpg" crc="3981148185" seo="true" ref="tickets"/>
+    <file name="gt-tix-so325x447.jpg" crc="177121108" seo="true" ref="tickets"/>
+    <file name="gt-tix-so325x447_2x.jpg" crc="3789713099" seo="true" ref="tickets"/>
+    <file name="gt-tix-so311x429.jpg" crc="79006825" seo="true" ref="tickets"/>
+    <file name="gt-tix-so311x429_2x.jpg" crc="3970416602" seo="true" ref="tickets"/>
+    <file name="gt-tix-so282x388.jpg" crc="3829959077" seo="true" ref="tickets"/>
+    <file name="gt-tix-so282x388_2x.jpg" crc="4083806587" seo="true" ref="tickets"/>
+    <file name="gt-tix-so240x331.jpg" crc="4273283214" seo="true" ref="tickets"/>
+    <file name="gt-tix-so240x331_2x.jpg" crc="11469936" seo="true" ref="tickets"/>
+    <file name="gt-tix-so407x560.jpg" crc="3868767951" seo="true" ref="tickets"/>
+    <file name="gt-tix-so407x560_2x.jpg" crc="4063882542" seo="true" ref="tickets"/>
+    <file name="gt-tix-so351x483.jpg" crc="133253269" seo="true" ref="tickets"/>
+    <file name="gt-tix-so351x483_2x.jpg" crc="3976753389" seo="true" ref="tickets"/>
+    <file name="gt-tix-so318x438.jpg" crc="429400793" seo="true" ref="tickets"/>
+    <file name="gt-tix-so318x438_2x.jpg" crc="397122332" seo="true" ref="tickets"/>
+    <file name="gt-tix-so271x374.jpg" crc="4059225203" seo="true" ref="tickets"/>
+    <file name="gt-tix-so271x374_2x.jpg" crc="214975819" seo="true" ref="tickets"/>
   </folder>
   <file name="index.html" crc="19443035" seo="true" mt="1538425389175" redirect="true"/>
-  <file name="tickets.html" crc="441992018" seo="true" mt="1538425422899" redirect="true"/>
+  <file name="tickets.html" crc="4016919047" seo="true" mt="1538662341125" redirect="true"/>
   <file name="seminars.html" crc="458284889" seo="true" mt="1538425411694" redirect="true"/>
   <file name="travel.html" crc="370730545" seo="true" mt="1538425422899" redirect="true"/>
   <file name="schedule.html" crc="410248160" seo="true" mt="1538425422899" redirect="true"/>
