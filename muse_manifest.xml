@@ -1,12 +1,12 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nywineexperience.com" resolutions="1x,2x" timestamp="1545075597633">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nywineexperience.com" resolutions="1x,2x" timestamp="1548969701261">
   <folder name="assets">
     <file name="nywe18-floorplan.pdf" crc="37617516" seo="true" mt="1537299229000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4182886807"/>
-    <file name="index.css" crc="358055863" ref="index"/>
-    <file name="nomq_index.css" crc="3917032289" ref="index"/>
-    <file name="master_a-master-new.css" crc="4133205682" ref="index"/>
+    <file name="index.css" crc="3758216327" ref="index"/>
+    <file name="nomq_index.css" crc="218407289" ref="index"/>
+    <file name="master_a-master-new.css" crc="173927190" ref="index"/>
     <file name="nomq_preview_master_a-master-new.css" crc="25228892" ref="index"/>
     <file name="seminars.css" crc="3989215545" ref="seminars"/>
     <file name="nomq_seminars.css" crc="37671760" ref="seminars"/>
@@ -1257,7 +1257,7 @@
     <file name="collagemobile375x967.jpg" crc="54799441" seo="true" ref="index"/>
     <file name="collagemobile320x825.jpg" crc="97228476" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="330742286" seo="true" mt="1545075502222" redirect="true"/>
+  <file name="index.html" crc="4155048349" seo="true" mt="1548969610022" redirect="true"/>
   <file name="tickets.html" crc="3842884570" seo="true" mt="1544565621403" redirect="true"/>
   <file name="seminars.html" crc="3795136265" seo="true" mt="1544637606873" redirect="true"/>
   <file name="travel.html" crc="400407085" seo="true" mt="1544565621403" redirect="true"/>
