@@ -1,12 +1,12 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nywineexperience.com" resolutions="1x,2x" timestamp="1549948202244">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nywineexperience.com" resolutions="1x,2x" timestamp="1556552761224">
   <folder name="assets">
     <file name="nywe18-floorplan.pdf" crc="37617516" seo="true" mt="1537299229000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4104560714"/>
-    <file name="index.css" crc="4203758510" ref="index"/>
+    <file name="index.css" crc="124636802" ref="index"/>
     <file name="nomq_index.css" crc="59570078" ref="index"/>
-    <file name="master_a-master-new.css" crc="3980565191" ref="index"/>
+    <file name="master_a-master-new.css" crc="235514866" ref="index"/>
     <file name="nomq_preview_master_a-master-new.css" crc="25228892" ref="index"/>
     <file name="seminars.css" crc="3989215545" ref="seminars"/>
     <file name="nomq_seminars.css" crc="37671760" ref="seminars"/>
@@ -1258,82 +1258,82 @@
     <file name="collagemobile320x825.jpg" crc="97228476" seo="true" ref="index"/>
     <file name="weekend19.jpg" crc="393291433" seo="true" ref="index"/>
     <file name="weekend19_2x.jpg" crc="230322390" seo="true" ref="index"/>
-    <file name="grand-tastings19.jpg" crc="450294888" seo="true" ref="index"/>
-    <file name="grand-tastings19_2x.jpg" crc="167716910" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x.jpg" crc="521244035" seo="true" ref="index"/>
     <file name="weekend19422x562.jpg" crc="3835779994" seo="true" ref="index"/>
     <file name="weekend19422x562_2x.jpg" crc="3196322" seo="true" ref="index"/>
-    <file name="grand-tastings19422x562.jpg" crc="4205149040" seo="true" ref="index"/>
-    <file name="grand-tastings19422x562_2x.jpg" crc="3988933801" seo="true" ref="index"/>
     <file name="weekend19402x535.jpg" crc="121700214" seo="true" ref="index"/>
     <file name="weekend19402x535_2x.jpg" crc="381756032" seo="true" ref="index"/>
-    <file name="grand-tastings19402x535.jpg" crc="3801192328" seo="true" ref="index"/>
-    <file name="grand-tastings19402x535_2x.jpg" crc="3782565722" seo="true" ref="index"/>
     <file name="weekend19384x512.jpg" crc="3869897255" seo="true" ref="index"/>
     <file name="weekend19384x512_2x.jpg" crc="125301584" seo="true" ref="index"/>
-    <file name="grand-tastings19384x512.jpg" crc="4015720430" seo="true" ref="index"/>
-    <file name="grand-tastings19384x512_2x.jpg" crc="4034376172" seo="true" ref="index"/>
     <file name="weekend19374x499.jpg" crc="260196772" seo="true" ref="index"/>
     <file name="weekend19374x499_2x.jpg" crc="3905426006" seo="true" ref="index"/>
-    <file name="grand-tastings19374x499.jpg" crc="38373690" seo="true" ref="index"/>
-    <file name="grand-tastings19374x499_2x.jpg" crc="3886057103" seo="true" ref="index"/>
     <file name="weekend19353x470.jpg" crc="533687652" seo="true" ref="index"/>
     <file name="weekend19353x470_2x.jpg" crc="3775718949" seo="true" ref="index"/>
-    <file name="grand-tastings19353x470.jpg" crc="3825294161" seo="true" ref="index"/>
-    <file name="grand-tastings19353x470_2x.jpg" crc="4052621387" seo="true" ref="index"/>
     <file name="weekend19338x450.jpg" crc="4118848007" seo="true" ref="index"/>
     <file name="weekend19338x450_2x.jpg" crc="247645154" seo="true" ref="index"/>
-    <file name="grand-tastings19338x450.jpg" crc="531043172" seo="true" ref="index"/>
-    <file name="grand-tastings19338x450_2x.jpg" crc="442137813" seo="true" ref="index"/>
     <file name="weekend19319x425.jpg" crc="3888512772" seo="true" ref="index"/>
     <file name="weekend19319x425_2x.jpg" crc="3802702041" seo="true" ref="index"/>
-    <file name="grand-tastings19319x425.jpg" crc="196923773" seo="true" ref="index"/>
-    <file name="grand-tastings19319x425_2x.jpg" crc="259109584" seo="true" ref="index"/>
     <file name="weekend19301x401.jpg" crc="232864052" seo="true" ref="index"/>
     <file name="weekend19301x401_2x.jpg" crc="4145120023" seo="true" ref="index"/>
-    <file name="grand-tastings19301x401.jpg" crc="3805705277" seo="true" ref="index"/>
-    <file name="grand-tastings19301x401_2x.jpg" crc="415403659" seo="true" ref="index"/>
     <file name="weekend19288x384.jpg" crc="383293500" seo="true" ref="index"/>
     <file name="weekend19288x384_2x.jpg" crc="3962817837" seo="true" ref="index"/>
-    <file name="grand-tastings19288x384.jpg" crc="3821368901" seo="true" ref="index"/>
-    <file name="grand-tastings19288x384_2x.jpg" crc="4135380564" seo="true" ref="index"/>
     <file name="weekend19276x368.jpg" crc="178522837" seo="true" ref="index"/>
     <file name="weekend19276x368_2x.jpg" crc="355076199" seo="true" ref="index"/>
-    <file name="grand-tastings19276x368.jpg" crc="3886089746" seo="true" ref="index"/>
-    <file name="grand-tastings19276x368_2x.jpg" crc="4270196169" seo="true" ref="index"/>
     <file name="weekend19265x353.jpg" crc="3998569316" seo="true" ref="index"/>
     <file name="weekend19265x353_2x.jpg" crc="192832500" seo="true" ref="index"/>
-    <file name="grand-tastings19265x353.jpg" crc="503239424" seo="true" ref="index"/>
-    <file name="grand-tastings19265x353_2x.jpg" crc="4230562713" seo="true" ref="index"/>
     <file name="weekend19251x334.jpg" crc="4108275986" seo="true" ref="index"/>
     <file name="weekend19251x334_2x.jpg" crc="4126145983" seo="true" ref="index"/>
-    <file name="grand-tastings19251x334.jpg" crc="260544701" seo="true" ref="index"/>
-    <file name="grand-tastings19251x334_2x.jpg" crc="3945832040" seo="true" ref="index"/>
     <file name="weekend19237x316.jpg" crc="4193405561" seo="true" ref="index"/>
     <file name="weekend19237x316_2x.jpg" crc="4157054788" seo="true" ref="index"/>
-    <file name="grand-tastings19237x316.jpg" crc="4171831621" seo="true" ref="index"/>
-    <file name="grand-tastings19237x316_2x.jpg" crc="4083116837" seo="true" ref="index"/>
     <file name="weekend19213x284.jpg" crc="3889385255" seo="true" ref="index"/>
     <file name="weekend19213x284_2x.jpg" crc="3868581772" seo="true" ref="index"/>
     <file name="weekend19426x568.jpg" crc="3868581772" seo="true" ref="index"/>
     <file name="weekend19426x568_2x.jpg" crc="66255279" seo="true" ref="index"/>
     <file name="weekend19388x518.jpg" crc="115326670" seo="true" ref="index"/>
     <file name="weekend19388x518_2x.jpg" crc="141635831" seo="true" ref="index"/>
-    <file name="grand-tastings19388x518.jpg" crc="4262624868" seo="true" ref="index"/>
-    <file name="grand-tastings19388x518_2x.jpg" crc="346401752" seo="true" ref="index"/>
     <file name="weekend19335x447.jpg" crc="3803168331" seo="true" ref="index"/>
     <file name="weekend19335x447_2x.jpg" crc="3807872647" seo="true" ref="index"/>
-    <file name="grand-tastings19335x447.jpg" crc="4002772929" seo="true" ref="index"/>
-    <file name="grand-tastings19335x447_2x.jpg" crc="3760700061" seo="true" ref="index"/>
     <file name="weekend19278x371.jpg" crc="513447103" seo="true" ref="index"/>
     <file name="weekend19278x371_2x.jpg" crc="370605976" seo="true" ref="index"/>
-    <file name="grand-tastings19278x371.jpg" crc="264310160" seo="true" ref="index"/>
-    <file name="grand-tastings19278x371_2x.jpg" crc="3940085652" seo="true" ref="index"/>
-    <file name="grand-tastings19214x284.jpg" crc="117889321" seo="true" ref="index"/>
-    <file name="grand-tastings19214x284_2x.jpg" crc="4285452922" seo="true" ref="index"/>
-    <file name="grand-tastings19427x568.jpg" crc="4285452922" seo="true" ref="index"/>
-    <file name="grand-tastings19427x568_2x.jpg" crc="443609761" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x_2x.jpg" crc="180906620" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x422x562.jpg" crc="3817405000" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x422x562_2x.jpg" crc="4239425234" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x402x535.jpg" crc="3849805458" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x402x535_2x.jpg" crc="4214687490" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x384x512.jpg" crc="494715708" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x384x512_2x.jpg" crc="3931248348" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x374x499.jpg" crc="131647170" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x374x499_2x.jpg" crc="381080108" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x353x470.jpg" crc="3874842791" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x353x470_2x.jpg" crc="238506644" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x338x450.jpg" crc="4162237106" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x338x450_2x.jpg" crc="3925680185" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x319x425.jpg" crc="4228604002" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x319x425_2x.jpg" crc="4017144946" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x301x401.jpg" crc="84374248" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x301x401_2x.jpg" crc="3919496558" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x288x384.jpg" crc="29720082" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x288x384_2x.jpg" crc="3958111351" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x276x368.jpg" crc="3976402520" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x276x368_2x.jpg" crc="317441608" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x265x353.jpg" crc="416583737" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x265x353_2x.jpg" crc="3783866440" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x251x334.jpg" crc="3922651448" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x251x334_2x.jpg" crc="115461337" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x237x316.jpg" crc="4217795627" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x237x316_2x.jpg" crc="418347589" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x214x284.jpg" crc="323972938" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x214x284_2x.jpg" crc="3890116883" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x427x568.jpg" crc="3890116883" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x427x568_2x.jpg" crc="4081475030" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x388x518.jpg" crc="330565436" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x388x518_2x.jpg" crc="3809600404" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x335x447.jpg" crc="163639630" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x335x447_2x.jpg" crc="4255152430" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x278x371.jpg" crc="4278188600" seo="true" ref="index"/>
+    <file name="grand-tastings19_2x278x371_2x.jpg" crc="156390881" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="156655797" seo="true" mt="1549948147561" redirect="true"/>
+  <file name="index.html" crc="452206635" seo="true" mt="1556552701416" redirect="true"/>
   <file name="tickets.html" crc="3842884570" seo="true" mt="1544565621403" redirect="true"/>
   <file name="seminars.html" crc="3795136265" seo="true" mt="1544637606873" redirect="true"/>
   <file name="travel.html" crc="400407085" seo="true" mt="1544565621403" redirect="true"/>
