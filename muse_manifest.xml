@@ -1,19 +1,19 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nywineexperience.com" resolutions="1x,2x" timestamp="1558125373525">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nywineexperience.com" resolutions="1x,2x" timestamp="1560309107029">
   <folder name="assets">
     <file name="nywe18-floorplan.pdf" crc="37617516" seo="true" mt="1537299229000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="4182886807"/>
-    <file name="index.css" crc="3874925420" ref="index"/>
-    <file name="nomq_index.css" crc="4038765006" ref="index"/>
-    <file name="master_a-master-new.css" crc="71156924" ref="index"/>
-    <file name="nomq_preview_master_a-master-new.css" crc="3947672364" ref="index"/>
-    <file name="seminars.css" crc="504094935" ref="seminars"/>
-    <file name="nomq_seminars.css" crc="37671760" ref="seminars"/>
-    <file name="tickets.css" crc="4211503201" ref="tickets"/>
+    <file name="site_global.css" crc="4104560714"/>
+    <file name="index.css" crc="4274521341" ref="index"/>
+    <file name="nomq_index.css" crc="132613383" ref="index"/>
+    <file name="master_a-master-new.css" crc="405860572" ref="index"/>
+    <file name="nomq_preview_master_a-master-new.css" crc="320342716" ref="index"/>
+    <file name="seminars.css" crc="4025365824" ref="seminars"/>
+    <file name="nomq_seminars.css" crc="3811963819" ref="seminars"/>
+    <file name="tickets.css" crc="173770576" ref="tickets"/>
     <file name="nomq_tickets.css" crc="3961259618" ref="tickets"/>
-    <file name="schedule.css" crc="255203628" ref="schedule"/>
-    <file name="nomq_schedule.css" crc="323060118" ref="schedule"/>
+    <file name="schedule.css" crc="3863908797" ref="schedule"/>
+    <file name="nomq_schedule.css" crc="4265440791" ref="schedule"/>
     <file name="travel.css" crc="4074527852" ref="travel"/>
     <file name="nomq_travel.css" crc="524667404" ref="travel"/>
     <file name="wines.css" crc="3898176566" ref="wines"/>
@@ -24,8 +24,10 @@
     <file name="nomq_about.css" crc="231469682" ref="about"/>
     <file name="wineries.css" crc="300950084" ref="wineries"/>
     <file name="nomq_wineries.css" crc="246136452" ref="wineries"/>
-    <file name="master_page-master-new2.css" crc="3776710459" ref="tickets:travel:wines:wineries:about:schedule:faq:seminars"/>
-    <file name="nomq_preview_master_page-master-new2.css" crc="4046623820" ref="tickets:travel:wines:wineries:about:schedule:faq:seminars"/>
+    <file name="master_page-master-new2.css" crc="3776146467" ref="tickets:travel:wines:wineries:about:schedule:faq:seminars:2018-seminars"/>
+    <file name="nomq_preview_master_page-master-new2.css" crc="3782856064" ref="tickets:travel:wines:wineries:about:schedule:faq:seminars:2018-seminars"/>
+    <file name="2018-seminars.css" crc="463443142" ref="2018-seminars"/>
+    <file name="nomq_2018-seminars.css" crc="37671760" ref="2018-seminars"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-bold.woff" crc="180089418"/>
@@ -38,13 +40,13 @@
     <file name="worksans-medium.eot" crc="4180403735"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:tickets:seminars:travel:schedule:wines:faq:about:wineries"/>
-    <file name="museutils.js" crc="3851988764" ref="index:tickets:seminars:travel:schedule:wines:faq:about:wineries"/>
-    <file name="whatinput.js" crc="86476730" ref="index:tickets:seminars:travel:schedule:wines:faq:about:wineries"/>
-    <file name="museconfig.js" crc="169177150" ref="index:tickets:seminars:travel:schedule:wines:faq:about:wineries"/>
-    <file name="jquery.watch.js" crc="3842844514" ref="index:tickets:seminars:travel:schedule:wines:faq:about:wineries"/>
-    <file name="jquery.museresponsive.js" crc="516761069" ref="index:tickets:seminars:travel:schedule:wines:faq:about:wineries"/>
-    <file name="require.js" crc="4108833657" ref="index:tickets:seminars:travel:schedule:wines:faq:about:wineries"/>
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:tickets:seminars:travel:schedule:wines:faq:about:wineries:2018-seminars"/>
+    <file name="museutils.js" crc="3851988764" ref="index:tickets:seminars:travel:schedule:wines:faq:about:wineries:2018-seminars"/>
+    <file name="whatinput.js" crc="86476730" ref="index:tickets:seminars:travel:schedule:wines:faq:about:wineries:2018-seminars"/>
+    <file name="museconfig.js" crc="169177150" ref="index:tickets:seminars:travel:schedule:wines:faq:about:wineries:2018-seminars"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:tickets:seminars:travel:schedule:wines:faq:about:wineries:2018-seminars"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="index:tickets:seminars:travel:schedule:wines:faq:about:wineries:2018-seminars"/>
+    <file name="require.js" crc="4108833657" ref="index:tickets:seminars:travel:schedule:wines:faq:about:wineries:2018-seminars"/>
   </folder>
   <folder name="images">
     <file name="spacer.jpg" crc="4096623384" seo="true" ref="index"/>
@@ -67,7 +69,7 @@
     <file name="spacer375x8_2x.jpg" crc="4090183812" seo="true" ref="index"/>
     <file name="spacer320x7.jpg" crc="125423909" seo="true" ref="index"/>
     <file name="spacer320x7_2x.jpg" crc="3938600378" seo="true" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:tickets:seminars:travel:schedule:wines:faq:about:wineries"/>
+    <file name="blank.gif" crc="4208392903" ref="index:tickets:seminars:travel:schedule:wines:faq:about:wineries:2018-seminars"/>
     <file name="seminar1-tix.jpg" crc="116307613" seo="true" ref="tickets"/>
     <file name="seminar1-tix_2x.jpg" crc="3893590526" seo="true" ref="tickets"/>
     <file name="food1-tix.jpg" crc="433489803" seo="true" ref="tickets"/>
@@ -186,56 +188,56 @@
     <file name="gtpic2-tix91x79_2x.jpg" crc="64139178" seo="true" ref="tickets"/>
     <file name="gtpic3-tix91x78.jpg" crc="18702251" seo="true" ref="tickets"/>
     <file name="gtpic3-tix91x78_2x.jpg" crc="189485067" seo="true" ref="tickets"/>
-    <file name="1-2.jpg" crc="3845695549" seo="true" ref="seminars"/>
-    <file name="3-4.jpg" crc="253767395" seo="true" ref="seminars"/>
-    <file name="5.jpg" crc="3882460682" seo="true" ref="seminars"/>
-    <file name="5_2x.jpg" crc="104334602" seo="true" ref="seminars"/>
-    <file name="6-7.jpg" crc="343008046" seo="true" ref="seminars"/>
-    <file name="6-7_2x.jpg" crc="301225265" seo="true" ref="seminars"/>
-    <file name="8-9.jpg" crc="4193440764" seo="true" ref="seminars"/>
-    <file name="8-9_2x.jpg" crc="3939129512" seo="true" ref="seminars"/>
-    <file name="10.jpg" crc="4161604912" seo="true" ref="seminars"/>
-    <file name="10_2x.jpg" crc="4076660609" seo="true" ref="seminars"/>
-    <file name="chefs1.jpg" crc="271846212" seo="true" ref="seminars"/>
-    <file name="chefs2.jpg" crc="308993577" seo="true" ref="seminars"/>
-    <file name="1-2351x296.jpg" crc="3965702461" seo="true" ref="seminars"/>
-    <file name="3-4351x296.jpg" crc="3760768327" seo="true" ref="seminars"/>
-    <file name="5173x296.jpg" crc="3810335928" seo="true" ref="seminars"/>
-    <file name="5173x296_2x.jpg" crc="104334602" seo="true" ref="seminars"/>
-    <file name="6-7351x296.jpg" crc="284862025" seo="true" ref="seminars"/>
-    <file name="6-7351x296_2x.jpg" crc="301225265" seo="true" ref="seminars"/>
-    <file name="8-9351x296.jpg" crc="136482558" seo="true" ref="seminars"/>
-    <file name="8-9351x296_2x.jpg" crc="3939129512" seo="true" ref="seminars"/>
-    <file name="10173x296.jpg" crc="143514452" seo="true" ref="seminars"/>
-    <file name="10173x296_2x.jpg" crc="4076660609" seo="true" ref="seminars"/>
-    <file name="chefs1439x379.jpg" crc="433358052" seo="true" ref="seminars"/>
-    <file name="chefs2439x379.jpg" crc="41188616" seo="true" ref="seminars"/>
-    <file name="1-2264x222.jpg" crc="425930547" seo="true" ref="seminars"/>
-    <file name="3-4264x222.jpg" crc="102809185" seo="true" ref="seminars"/>
-    <file name="5130x222.jpg" crc="259949228" seo="true" ref="seminars"/>
-    <file name="5130x222_2x.jpg" crc="3938071481" seo="true" ref="seminars"/>
-    <file name="6-7264x222.jpg" crc="4066718425" seo="true" ref="seminars"/>
-    <file name="6-7264x222_2x.jpg" crc="104421267" seo="true" ref="seminars"/>
-    <file name="8-9264x222.jpg" crc="4163944029" seo="true" ref="seminars"/>
-    <file name="8-9264x222_2x.jpg" crc="4055259808" seo="true" ref="seminars"/>
-    <file name="10130x222.jpg" crc="292302692" seo="true" ref="seminars"/>
-    <file name="10130x222_2x.jpg" crc="3929210197" seo="true" ref="seminars"/>
-    <file name="chefs1329x284.jpg" crc="149424257" seo="true" ref="seminars"/>
-    <file name="chefs2329x284.jpg" crc="3912000434" seo="true" ref="seminars"/>
-    <file name="1-2253x213.jpg" crc="536244686" seo="true" ref="seminars"/>
-    <file name="3-4253x213.jpg" crc="4286040961" seo="true" ref="seminars"/>
-    <file name="5125x213.jpg" crc="4209395699" seo="true" ref="seminars"/>
-    <file name="5125x213_2x.jpg" crc="4293706845" seo="true" ref="seminars"/>
-    <file name="6-7253x213.jpg" crc="487827147" seo="true" ref="seminars"/>
-    <file name="6-7253x213_2x.jpg" crc="4210765344" seo="true" ref="seminars"/>
-    <file name="8-9253x213.jpg" crc="94548154" seo="true" ref="seminars"/>
-    <file name="8-9253x213_2x.jpg" crc="233763425" seo="true" ref="seminars"/>
-    <file name="10125x213.jpg" crc="24324163" seo="true" ref="seminars"/>
-    <file name="10125x213_2x.jpg" crc="3781197699" seo="true" ref="seminars"/>
-    <file name="chefs1316x272.jpg" crc="4080389608" seo="true" ref="seminars"/>
-    <file name="chefs2316x272.jpg" crc="3885744041" seo="true" ref="seminars"/>
-    <file name="chefs1354x305.jpg" crc="263958837" seo="true" ref="seminars"/>
-    <file name="chefs2321x277.jpg" crc="4022988193" seo="true" ref="seminars"/>
+    <file name="1-2.jpg" crc="3845695549" seo="true" ref="2018-seminars"/>
+    <file name="3-4.jpg" crc="253767395" seo="true" ref="2018-seminars"/>
+    <file name="5.jpg" crc="3882460682" seo="true" ref="2018-seminars"/>
+    <file name="5_2x.jpg" crc="104334602" seo="true" ref="2018-seminars"/>
+    <file name="6-7.jpg" crc="343008046" seo="true" ref="2018-seminars"/>
+    <file name="6-7_2x.jpg" crc="301225265" seo="true" ref="2018-seminars"/>
+    <file name="8-9.jpg" crc="4193440764" seo="true" ref="2018-seminars"/>
+    <file name="8-9_2x.jpg" crc="3939129512" seo="true" ref="2018-seminars"/>
+    <file name="10.jpg" crc="4161604912" seo="true" ref="2018-seminars"/>
+    <file name="10_2x.jpg" crc="4076660609" seo="true" ref="2018-seminars"/>
+    <file name="chefs1.jpg" crc="271846212" seo="true" ref="2018-seminars"/>
+    <file name="chefs2.jpg" crc="308993577" seo="true" ref="2018-seminars"/>
+    <file name="1-2351x296.jpg" crc="3965702461" seo="true" ref="2018-seminars"/>
+    <file name="3-4351x296.jpg" crc="3760768327" seo="true" ref="2018-seminars"/>
+    <file name="5173x296.jpg" crc="3810335928" seo="true" ref="2018-seminars"/>
+    <file name="5173x296_2x.jpg" crc="104334602" seo="true" ref="2018-seminars"/>
+    <file name="6-7351x296.jpg" crc="284862025" seo="true" ref="2018-seminars"/>
+    <file name="6-7351x296_2x.jpg" crc="301225265" seo="true" ref="2018-seminars"/>
+    <file name="8-9351x296.jpg" crc="136482558" seo="true" ref="2018-seminars"/>
+    <file name="8-9351x296_2x.jpg" crc="3939129512" seo="true" ref="2018-seminars"/>
+    <file name="10173x296.jpg" crc="143514452" seo="true" ref="2018-seminars"/>
+    <file name="10173x296_2x.jpg" crc="4076660609" seo="true" ref="2018-seminars"/>
+    <file name="chefs1439x379.jpg" crc="433358052" seo="true" ref="2018-seminars"/>
+    <file name="chefs2439x379.jpg" crc="41188616" seo="true" ref="2018-seminars"/>
+    <file name="1-2264x222.jpg" crc="425930547" seo="true" ref="2018-seminars"/>
+    <file name="3-4264x222.jpg" crc="102809185" seo="true" ref="2018-seminars"/>
+    <file name="5130x222.jpg" crc="259949228" seo="true" ref="2018-seminars"/>
+    <file name="5130x222_2x.jpg" crc="3938071481" seo="true" ref="2018-seminars"/>
+    <file name="6-7264x222.jpg" crc="4066718425" seo="true" ref="2018-seminars"/>
+    <file name="6-7264x222_2x.jpg" crc="104421267" seo="true" ref="2018-seminars"/>
+    <file name="8-9264x222.jpg" crc="4163944029" seo="true" ref="2018-seminars"/>
+    <file name="8-9264x222_2x.jpg" crc="4055259808" seo="true" ref="2018-seminars"/>
+    <file name="10130x222.jpg" crc="292302692" seo="true" ref="2018-seminars"/>
+    <file name="10130x222_2x.jpg" crc="3929210197" seo="true" ref="2018-seminars"/>
+    <file name="chefs1329x284.jpg" crc="149424257" seo="true" ref="2018-seminars"/>
+    <file name="chefs2329x284.jpg" crc="3912000434" seo="true" ref="2018-seminars"/>
+    <file name="1-2253x213.jpg" crc="536244686" seo="true" ref="2018-seminars"/>
+    <file name="3-4253x213.jpg" crc="4286040961" seo="true" ref="2018-seminars"/>
+    <file name="5125x213.jpg" crc="4209395699" seo="true" ref="2018-seminars"/>
+    <file name="5125x213_2x.jpg" crc="4293706845" seo="true" ref="2018-seminars"/>
+    <file name="6-7253x213.jpg" crc="487827147" seo="true" ref="2018-seminars"/>
+    <file name="6-7253x213_2x.jpg" crc="4210765344" seo="true" ref="2018-seminars"/>
+    <file name="8-9253x213.jpg" crc="94548154" seo="true" ref="2018-seminars"/>
+    <file name="8-9253x213_2x.jpg" crc="233763425" seo="true" ref="2018-seminars"/>
+    <file name="10125x213.jpg" crc="24324163" seo="true" ref="2018-seminars"/>
+    <file name="10125x213_2x.jpg" crc="3781197699" seo="true" ref="2018-seminars"/>
+    <file name="chefs1316x272.jpg" crc="4080389608" seo="true" ref="2018-seminars"/>
+    <file name="chefs2316x272.jpg" crc="3885744041" seo="true" ref="2018-seminars"/>
+    <file name="chefs1354x305.jpg" crc="263958837" seo="true" ref="2018-seminars"/>
+    <file name="chefs2321x277.jpg" crc="4022988193" seo="true" ref="2018-seminars"/>
     <file name="spacer1070x22.jpg" crc="208534860" seo="true" ref="index"/>
     <file name="spacer1070x22_2x.jpg" crc="3902925262" seo="true" ref="index"/>
     <file name="spacer899x19.jpg" crc="407026401" seo="true" ref="index"/>
@@ -266,30 +268,30 @@
     <file name="gtpic3-tix254x219_2x.jpg" crc="3842054811" seo="true" ref="tickets"/>
     <file name="gtpic1-tix-crop-u110572.jpg" crc="484784688" ref="tickets"/>
     <file name="gtpic1-tix-crop-u11057_2x2.jpg" crc="452100029" ref="tickets"/>
-    <file name="1-2367x310.jpg" crc="3946470706" seo="true" ref="seminars"/>
-    <file name="3-4367x310.jpg" crc="314513094" seo="true" ref="seminars"/>
-    <file name="5181x310.jpg" crc="4009420897" seo="true" ref="seminars"/>
-    <file name="5181x310_2x.jpg" crc="104334602" seo="true" ref="seminars"/>
-    <file name="6-7367x310.jpg" crc="3913550511" seo="true" ref="seminars"/>
-    <file name="6-7367x310_2x.jpg" crc="301225265" seo="true" ref="seminars"/>
-    <file name="8-9367x310.jpg" crc="3812638068" seo="true" ref="seminars"/>
-    <file name="8-9367x310_2x.jpg" crc="3939129512" seo="true" ref="seminars"/>
-    <file name="10181x310.jpg" crc="4221636839" seo="true" ref="seminars"/>
-    <file name="10181x310_2x.jpg" crc="4076660609" seo="true" ref="seminars"/>
-    <file name="chefs1459x396.jpg" crc="4186570255" seo="true" ref="seminars"/>
-    <file name="chefs2459x396.jpg" crc="4242440557" seo="true" ref="seminars"/>
-    <file name="1-2309x260.jpg" crc="484202262" seo="true" ref="seminars"/>
-    <file name="3-4309x260.jpg" crc="3955613720" seo="true" ref="seminars"/>
-    <file name="5152x260.jpg" crc="403182458" seo="true" ref="seminars"/>
-    <file name="5152x260_2x.jpg" crc="104334602" seo="true" ref="seminars"/>
-    <file name="6-7309x260.jpg" crc="105694430" seo="true" ref="seminars"/>
-    <file name="6-7309x260_2x.jpg" crc="301225265" seo="true" ref="seminars"/>
-    <file name="8-9309x260.jpg" crc="439371266" seo="true" ref="seminars"/>
-    <file name="8-9309x260_2x.jpg" crc="3939129512" seo="true" ref="seminars"/>
-    <file name="10152x260.jpg" crc="292311736" seo="true" ref="seminars"/>
-    <file name="10152x260_2x.jpg" crc="332303353" seo="true" ref="seminars"/>
-    <file name="chefs1386x332.jpg" crc="3925733000" seo="true" ref="seminars"/>
-    <file name="chefs2386x332.jpg" crc="4192037194" seo="true" ref="seminars"/>
+    <file name="1-2367x310.jpg" crc="3946470706" seo="true" ref="2018-seminars"/>
+    <file name="3-4367x310.jpg" crc="314513094" seo="true" ref="2018-seminars"/>
+    <file name="5181x310.jpg" crc="4009420897" seo="true" ref="2018-seminars"/>
+    <file name="5181x310_2x.jpg" crc="104334602" seo="true" ref="2018-seminars"/>
+    <file name="6-7367x310.jpg" crc="3913550511" seo="true" ref="2018-seminars"/>
+    <file name="6-7367x310_2x.jpg" crc="301225265" seo="true" ref="2018-seminars"/>
+    <file name="8-9367x310.jpg" crc="3812638068" seo="true" ref="2018-seminars"/>
+    <file name="8-9367x310_2x.jpg" crc="3939129512" seo="true" ref="2018-seminars"/>
+    <file name="10181x310.jpg" crc="4221636839" seo="true" ref="2018-seminars"/>
+    <file name="10181x310_2x.jpg" crc="4076660609" seo="true" ref="2018-seminars"/>
+    <file name="chefs1459x396.jpg" crc="4186570255" seo="true" ref="2018-seminars"/>
+    <file name="chefs2459x396.jpg" crc="4242440557" seo="true" ref="2018-seminars"/>
+    <file name="1-2309x260.jpg" crc="484202262" seo="true" ref="2018-seminars"/>
+    <file name="3-4309x260.jpg" crc="3955613720" seo="true" ref="2018-seminars"/>
+    <file name="5152x260.jpg" crc="403182458" seo="true" ref="2018-seminars"/>
+    <file name="5152x260_2x.jpg" crc="104334602" seo="true" ref="2018-seminars"/>
+    <file name="6-7309x260.jpg" crc="105694430" seo="true" ref="2018-seminars"/>
+    <file name="6-7309x260_2x.jpg" crc="301225265" seo="true" ref="2018-seminars"/>
+    <file name="8-9309x260.jpg" crc="439371266" seo="true" ref="2018-seminars"/>
+    <file name="8-9309x260_2x.jpg" crc="3939129512" seo="true" ref="2018-seminars"/>
+    <file name="10152x260.jpg" crc="292311736" seo="true" ref="2018-seminars"/>
+    <file name="10152x260_2x.jpg" crc="332303353" seo="true" ref="2018-seminars"/>
+    <file name="chefs1386x332.jpg" crc="3925733000" seo="true" ref="2018-seminars"/>
+    <file name="chefs2386x332.jpg" crc="4192037194" seo="true" ref="2018-seminars"/>
     <file name="hotel463x327.jpg" crc="3953158038" seo="true" ref="travel"/>
     <file name="hotel463x327_2x.jpg" crc="473834641" seo="true" ref="travel"/>
     <file name="hotel413x292.jpg" crc="35115385" seo="true" ref="travel"/>
@@ -352,294 +354,294 @@
     <file name="schedule-pics1274x90_2x.jpg" crc="4236021669" seo="true" ref="schedule"/>
     <file name="schedule-pics2274x90.jpg" crc="405275737" seo="true" ref="schedule"/>
     <file name="schedule-pics2274x90_2x.jpg" crc="48123137" seo="true" ref="schedule"/>
-    <file name="sem-ore1511x295.jpg" crc="3987792179" seo="true" ref="seminars"/>
-    <file name="sem-ore2511x295.jpg" crc="4130841054" seo="true" ref="seminars"/>
-    <file name="sem-phil255x295.jpg" crc="521954671" seo="true" ref="seminars"/>
-    <file name="sem-simone255x295.jpg" crc="4066239433" seo="true" ref="seminars"/>
-    <file name="sem-peter255x295.jpg" crc="4240466853" seo="true" ref="seminars"/>
-    <file name="sem-burg1510x295.jpg" crc="3956871102" seo="true" ref="seminars"/>
-    <file name="sem-burg2510x295.jpg" crc="3884147836" seo="true" ref="seminars"/>
-    <file name="schrader.jpg" crc="4074546918" seo="true" ref="seminars"/>
-    <file name="schrader_2x.jpg" crc="407341306" seo="true" ref="seminars"/>
-    <file name="sem-brion528x297.jpg" crc="4232997579" seo="true" ref="seminars"/>
-    <file name="sem-biondi255x295.jpg" crc="4294501881" seo="true" ref="seminars"/>
-    <file name="chefs1514x443.jpg" crc="3837642990" seo="true" ref="seminars"/>
-    <file name="chefs2514x443.jpg" crc="186359053" seo="true" ref="seminars"/>
-    <file name="stars3.jpg" crc="335571198" seo="true" ref="seminars"/>
-    <file name="stars3_2x.jpg" crc="4020685193" seo="true" ref="seminars"/>
-    <file name="stars1-2.jpg" crc="245992372" seo="true" ref="seminars"/>
-    <file name="stars1-2_2x.jpg" crc="4050993395" seo="true" ref="seminars"/>
-    <file name="stars4-5.jpg" crc="4197825471" seo="true" ref="seminars"/>
-    <file name="stars4-5_2x.jpg" crc="3898927363" seo="true" ref="seminars"/>
-    <file name="stars6.jpg" crc="239769590" seo="true" ref="seminars"/>
-    <file name="stars6_2x.jpg" crc="3767754660" seo="true" ref="seminars"/>
-    <file name="1-2367x310_2x.jpg" crc="4111976245" seo="true" ref="seminars"/>
-    <file name="3-4367x310_2x.jpg" crc="129290326" seo="true" ref="seminars"/>
-    <file name="sem-ore1456x263.jpg" crc="3763534530" seo="true" ref="seminars"/>
-    <file name="sem-ore2456x263.jpg" crc="4230216302" seo="true" ref="seminars"/>
-    <file name="sem-phil228x264.jpg" crc="4261765250" seo="true" ref="seminars"/>
-    <file name="sem-simone228x264.jpg" crc="4070017472" seo="true" ref="seminars"/>
-    <file name="sem-peter228x264.jpg" crc="233233138" seo="true" ref="seminars"/>
-    <file name="sem-burg1455x263.jpg" crc="219519595" seo="true" ref="seminars"/>
-    <file name="sem-burg2455x263.jpg" crc="4166777721" seo="true" ref="seminars"/>
-    <file name="schrader914x263.jpg" crc="3795028382" seo="true" ref="seminars"/>
-    <file name="schrader914x263_2x.jpg" crc="3998908839" seo="true" ref="seminars"/>
-    <file name="sem-brion471x265.jpg" crc="182411012" seo="true" ref="seminars"/>
-    <file name="sem-biondi228x264.jpg" crc="3960765923" seo="true" ref="seminars"/>
-    <file name="stars3300x356.jpg" crc="164378697" seo="true" ref="seminars"/>
-    <file name="stars3300x356_2x.jpg" crc="4020685193" seo="true" ref="seminars"/>
-    <file name="stars1-2609x356.jpg" crc="194148094" seo="true" ref="seminars"/>
-    <file name="stars1-2609x356_2x.jpg" crc="4254236067" seo="true" ref="seminars"/>
-    <file name="stars4-5610x356.jpg" crc="468716622" seo="true" ref="seminars"/>
-    <file name="stars4-5610x356_2x.jpg" crc="147550500" seo="true" ref="seminars"/>
-    <file name="stars6300x356.jpg" crc="456033934" seo="true" ref="seminars"/>
-    <file name="stars6300x356_2x.jpg" crc="3767754660" seo="true" ref="seminars"/>
-    <file name="1-2351x296_2x.jpg" crc="4111976245" seo="true" ref="seminars"/>
-    <file name="3-4351x296_2x.jpg" crc="129290326" seo="true" ref="seminars"/>
-    <file name="sem-ore1436x252.jpg" crc="4246082337" seo="true" ref="seminars"/>
-    <file name="sem-ore2436x252.jpg" crc="507063751" seo="true" ref="seminars"/>
-    <file name="sem-phil218x252.jpg" crc="431339960" seo="true" ref="seminars"/>
-    <file name="sem-simone218x252.jpg" crc="3950994074" seo="true" ref="seminars"/>
-    <file name="sem-peter218x252.jpg" crc="4185835279" seo="true" ref="seminars"/>
-    <file name="sem-burg1436x252.jpg" crc="4164754861" seo="true" ref="seminars"/>
-    <file name="sem-burg2436x252.jpg" crc="146960012" seo="true" ref="seminars"/>
-    <file name="schrader874x251.jpg" crc="4277563712" seo="true" ref="seminars"/>
-    <file name="schrader874x251_2x.jpg" crc="90537410" seo="true" ref="seminars"/>
-    <file name="sem-brion451x254.jpg" crc="4084730721" seo="true" ref="seminars"/>
-    <file name="sem-biondi218x252.jpg" crc="3875583057" seo="true" ref="seminars"/>
-    <file name="stars3287x341.jpg" crc="4128474848" seo="true" ref="seminars"/>
-    <file name="stars3287x341_2x.jpg" crc="4020685193" seo="true" ref="seminars"/>
-    <file name="stars1-2583x341.jpg" crc="3771406101" seo="true" ref="seminars"/>
-    <file name="stars1-2583x341_2x.jpg" crc="249223566" seo="true" ref="seminars"/>
-    <file name="stars4-5584x341.jpg" crc="3902237327" seo="true" ref="seminars"/>
-    <file name="stars4-5584x341_2x.jpg" crc="507013643" seo="true" ref="seminars"/>
-    <file name="stars6288x341.jpg" crc="409332898" seo="true" ref="seminars"/>
-    <file name="stars6288x341_2x.jpg" crc="3767754660" seo="true" ref="seminars"/>
-    <file name="1-2309x260_2x.jpg" crc="4111976245" seo="true" ref="seminars"/>
-    <file name="3-4309x260_2x.jpg" crc="129290326" seo="true" ref="seminars"/>
-    <file name="sem-ore1383x221.jpg" crc="98663951" seo="true" ref="seminars"/>
-    <file name="sem-ore2383x221.jpg" crc="4150707379" seo="true" ref="seminars"/>
-    <file name="sem-phil192x222.jpg" crc="95578376" seo="true" ref="seminars"/>
-    <file name="sem-simone192x222.jpg" crc="193420750" seo="true" ref="seminars"/>
-    <file name="sem-peter192x222.jpg" crc="9725808" seo="true" ref="seminars"/>
-    <file name="sem-burg1383x221.jpg" crc="170836470" seo="true" ref="seminars"/>
-    <file name="sem-burg2383x221.jpg" crc="113356126" seo="true" ref="seminars"/>
-    <file name="schrader768x221.jpg" crc="4153501509" seo="true" ref="seminars"/>
-    <file name="schrader768x221_2x.jpg" crc="455992866" seo="true" ref="seminars"/>
-    <file name="sem-brion396x223.jpg" crc="43637735" seo="true" ref="seminars"/>
-    <file name="sem-biondi192x222.jpg" crc="4136677363" seo="true" ref="seminars"/>
-    <file name="stars3252x299.jpg" crc="163986747" seo="true" ref="seminars"/>
-    <file name="stars3252x299_2x.jpg" crc="4020685193" seo="true" ref="seminars"/>
-    <file name="stars1-2512x299.jpg" crc="272852651" seo="true" ref="seminars"/>
-    <file name="stars1-2512x299_2x.jpg" crc="4024050905" seo="true" ref="seminars"/>
-    <file name="stars4-5513x299.jpg" crc="3900014050" seo="true" ref="seminars"/>
-    <file name="stars4-5513x299_2x.jpg" crc="496333428" seo="true" ref="seminars"/>
-    <file name="stars6252x299.jpg" crc="4088077680" seo="true" ref="seminars"/>
-    <file name="stars6252x299_2x.jpg" crc="3767754660" seo="true" ref="seminars"/>
-    <file name="1-2264x222_2x.jpg" crc="156435532" seo="true" ref="seminars"/>
-    <file name="3-4264x222_2x.jpg" crc="43141560" seo="true" ref="seminars"/>
-    <file name="sem-ore1327x189.jpg" crc="197416103" seo="true" ref="seminars"/>
-    <file name="sem-ore2327x189.jpg" crc="513869048" seo="true" ref="seminars"/>
-    <file name="sem-phil164x189.jpg" crc="326958244" seo="true" ref="seminars"/>
-    <file name="sem-simone164x189.jpg" crc="145318496" seo="true" ref="seminars"/>
-    <file name="sem-peter164x189.jpg" crc="498125942" seo="true" ref="seminars"/>
-    <file name="sem-burg1327x189.jpg" crc="4268116561" seo="true" ref="seminars"/>
-    <file name="sem-burg2327x189.jpg" crc="4096323978" seo="true" ref="seminars"/>
-    <file name="schrader656x189.jpg" crc="3988826650" seo="true" ref="seminars"/>
-    <file name="schrader656x189_2x.jpg" crc="3895867376" seo="true" ref="seminars"/>
-    <file name="sem-brion338x190.jpg" crc="4219565247" seo="true" ref="seminars"/>
-    <file name="sem-biondi164x189.jpg" crc="3956845946" seo="true" ref="seminars"/>
-    <file name="stars3216x256.jpg" crc="3878656578" seo="true" ref="seminars"/>
-    <file name="stars3216x256_2x.jpg" crc="10982851" seo="true" ref="seminars"/>
-    <file name="stars1-2438x256.jpg" crc="3858768718" seo="true" ref="seminars"/>
-    <file name="stars1-2438x256_2x.jpg" crc="513805277" seo="true" ref="seminars"/>
-    <file name="stars4-5438x256.jpg" crc="3794695378" seo="true" ref="seminars"/>
-    <file name="stars4-5438x256_2x.jpg" crc="3845705537" seo="true" ref="seminars"/>
-    <file name="stars6216x256.jpg" crc="3859454400" seo="true" ref="seminars"/>
-    <file name="stars6216x256_2x.jpg" crc="4283866628" seo="true" ref="seminars"/>
-    <file name="1-2253x213_2x.jpg" crc="3821988201" seo="true" ref="seminars"/>
-    <file name="3-4253x213_2x.jpg" crc="4216899172" seo="true" ref="seminars"/>
-    <file name="sem-ore1314x181.jpg" crc="145423994" seo="true" ref="seminars"/>
-    <file name="sem-ore2314x181.jpg" crc="291965446" seo="true" ref="seminars"/>
-    <file name="sem-phil157x181.jpg" crc="536736566" seo="true" ref="seminars"/>
-    <file name="sem-simone157x181.jpg" crc="229435537" seo="true" ref="seminars"/>
-    <file name="sem-peter157x181.jpg" crc="94161154" seo="true" ref="seminars"/>
-    <file name="sem-burg1313x181.jpg" crc="331652593" seo="true" ref="seminars"/>
-    <file name="sem-burg2313x181.jpg" crc="519371113" seo="true" ref="seminars"/>
-    <file name="schrader629x181.jpg" crc="258146751" seo="true" ref="seminars"/>
-    <file name="schrader629x181_2x.jpg" crc="3773266381" seo="true" ref="seminars"/>
-    <file name="sem-brion324x182.jpg" crc="97962571" seo="true" ref="seminars"/>
-    <file name="sem-biondi157x181.jpg" crc="433216584" seo="true" ref="seminars"/>
-    <file name="stars3207x245.jpg" crc="4273108288" seo="true" ref="seminars"/>
-    <file name="stars3207x245_2x.jpg" crc="203109645" seo="true" ref="seminars"/>
-    <file name="stars1-2419x245.jpg" crc="4071471442" seo="true" ref="seminars"/>
-    <file name="stars1-2419x245_2x.jpg" crc="454002756" seo="true" ref="seminars"/>
-    <file name="stars4-5420x245.jpg" crc="445022447" seo="true" ref="seminars"/>
-    <file name="stars4-5420x245_2x.jpg" crc="4035663780" seo="true" ref="seminars"/>
-    <file name="stars6207x245.jpg" crc="210975451" seo="true" ref="seminars"/>
-    <file name="stars6207x245_2x.jpg" crc="277170467" seo="true" ref="seminars"/>
-    <file name="5-6412x348.jpg" crc="486022721" seo="true" ref="seminars"/>
-    <file name="5-6_2x.jpg" crc="48661134" seo="true" ref="seminars"/>
-    <file name="7-8412x348.jpg" crc="4123623209" seo="true" ref="seminars"/>
-    <file name="7-8_2x.jpg" crc="3796126659" seo="true" ref="seminars"/>
-    <file name="9-10412x348.jpg" crc="4030040093" seo="true" ref="seminars"/>
-    <file name="9-10_2x.jpg" crc="447105297" seo="true" ref="seminars"/>
-    <file name="sem-ore1.jpg" crc="4080027656" seo="true" ref="seminars"/>
-    <file name="sem-ore2.jpg" crc="234498714" seo="true" ref="seminars"/>
-    <file name="sem-phil.jpg" crc="1328455" seo="true" ref="seminars"/>
-    <file name="sem-simone.jpg" crc="35336397" seo="true" ref="seminars"/>
-    <file name="sem-peter.jpg" crc="4283496060" seo="true" ref="seminars"/>
-    <file name="sem-burg1.jpg" crc="131679652" seo="true" ref="seminars"/>
-    <file name="sem-burg2.jpg" crc="344228634" seo="true" ref="seminars"/>
-    <file name="schrader570x164.jpg" crc="3983092311" seo="true" ref="seminars"/>
-    <file name="schrader570x164_2x.jpg" crc="3938661486" seo="true" ref="seminars"/>
-    <file name="sem-brion.jpg" crc="275124679" seo="true" ref="seminars"/>
-    <file name="sem-biondi.jpg" crc="465623852" seo="true" ref="seminars"/>
-    <file name="stars1-2569x333.jpg" crc="3837913329" seo="true" ref="seminars"/>
-    <file name="stars1-2569x333_2x.jpg" crc="218791189" seo="true" ref="seminars"/>
-    <file name="stars3-4.jpg" crc="124874148" seo="true" ref="seminars"/>
-    <file name="stars3-4_2x.jpg" crc="3837252576" seo="true" ref="seminars"/>
-    <file name="stars5-6.jpg" crc="116456916" seo="true" ref="seminars"/>
-    <file name="stars5-6_2x.jpg" crc="472952943" seo="true" ref="seminars"/>
-    <file name="5-6351x296.jpg" crc="529787194" seo="true" ref="seminars"/>
-    <file name="5-6351x296_2x.jpg" crc="48661134" seo="true" ref="seminars"/>
-    <file name="7-8351x296.jpg" crc="334568105" seo="true" ref="seminars"/>
-    <file name="7-8351x296_2x.jpg" crc="3796126659" seo="true" ref="seminars"/>
-    <file name="9-10351x296.jpg" crc="270353987" seo="true" ref="seminars"/>
-    <file name="9-10351x296_2x.jpg" crc="447105297" seo="true" ref="seminars"/>
-    <file name="sem-ore1483x278.jpg" crc="3860399517" seo="true" ref="seminars"/>
-    <file name="sem-ore2483x278.jpg" crc="194143638" seo="true" ref="seminars"/>
-    <file name="sem-phil245x283.jpg" crc="3921488555" seo="true" ref="seminars"/>
-    <file name="sem-simone245x283.jpg" crc="4184149071" seo="true" ref="seminars"/>
-    <file name="sem-peter245x283.jpg" crc="4147710616" seo="true" ref="seminars"/>
-    <file name="sem-burg1484x280.jpg" crc="167848952" seo="true" ref="seminars"/>
-    <file name="sem-burg2484x280.jpg" crc="4142737957" seo="true" ref="seminars"/>
-    <file name="schrader485x140.jpg" crc="208075765" seo="true" ref="seminars"/>
-    <file name="schrader485x140_2x.jpg" crc="4010885665" seo="true" ref="seminars"/>
-    <file name="sem-brion486x273.jpg" crc="384267551" seo="true" ref="seminars"/>
-    <file name="sem-biondi245x283.jpg" crc="493487679" seo="true" ref="seminars"/>
-    <file name="chefs1485x418.jpg" crc="4029965442" seo="true" ref="seminars"/>
-    <file name="chefs2486x419.jpg" crc="110990161" seo="true" ref="seminars"/>
-    <file name="stars1-2485x283.jpg" crc="22407586" seo="true" ref="seminars"/>
-    <file name="stars1-2485x283_2x.jpg" crc="4181508778" seo="true" ref="seminars"/>
-    <file name="stars3-4485x283.jpg" crc="381769944" seo="true" ref="seminars"/>
-    <file name="stars3-4485x283_2x.jpg" crc="3771695428" seo="true" ref="seminars"/>
-    <file name="stars5-6485x283.jpg" crc="3854690586" seo="true" ref="seminars"/>
-    <file name="stars5-6485x283_2x.jpg" crc="514191970" seo="true" ref="seminars"/>
-    <file name="1-2297x250.jpg" crc="533942837" seo="true" ref="seminars"/>
-    <file name="1-2297x250_2x.jpg" crc="4111976245" seo="true" ref="seminars"/>
-    <file name="3-4297x250.jpg" crc="94205853" seo="true" ref="seminars"/>
-    <file name="3-4297x250_2x.jpg" crc="129290326" seo="true" ref="seminars"/>
-    <file name="5-6297x251.jpg" crc="301088818" seo="true" ref="seminars"/>
-    <file name="5-6297x251_2x.jpg" crc="48661134" seo="true" ref="seminars"/>
-    <file name="7-8297x251.jpg" crc="3948560258" seo="true" ref="seminars"/>
-    <file name="7-8297x251_2x.jpg" crc="3796126659" seo="true" ref="seminars"/>
-    <file name="9-10297x251.jpg" crc="506785936" seo="true" ref="seminars"/>
-    <file name="9-10297x251_2x.jpg" crc="447105297" seo="true" ref="seminars"/>
-    <file name="sem-ore1408x235.jpg" crc="4229193966" seo="true" ref="seminars"/>
-    <file name="sem-ore2408x235.jpg" crc="6951947" seo="true" ref="seminars"/>
-    <file name="sem-phil207x239.jpg" crc="464347957" seo="true" ref="seminars"/>
-    <file name="sem-simone207x239.jpg" crc="205658673" seo="true" ref="seminars"/>
-    <file name="sem-peter207x239.jpg" crc="106188252" seo="true" ref="seminars"/>
-    <file name="sem-burg1409x237.jpg" crc="107949172" seo="true" ref="seminars"/>
-    <file name="sem-burg2409x237.jpg" crc="3765039048" seo="true" ref="seminars"/>
-    <file name="schrader410x118.jpg" crc="4055896683" seo="true" ref="seminars"/>
-    <file name="schrader410x118_2x.jpg" crc="402536184" seo="true" ref="seminars"/>
-    <file name="sem-brion411x231.jpg" crc="157565044" seo="true" ref="seminars"/>
-    <file name="sem-biondi207x239.jpg" crc="246298979" seo="true" ref="seminars"/>
-    <file name="chefs1410x353.jpg" crc="343333901" seo="true" ref="seminars"/>
-    <file name="chefs2410x354.jpg" crc="135374731" seo="true" ref="seminars"/>
-    <file name="stars1-2410x239.jpg" crc="3782604976" seo="true" ref="seminars"/>
-    <file name="stars1-2410x239_2x.jpg" crc="448242227" seo="true" ref="seminars"/>
-    <file name="stars3-4410x240.jpg" crc="408590810" seo="true" ref="seminars"/>
-    <file name="stars3-4410x240_2x.jpg" crc="3847396525" seo="true" ref="seminars"/>
-    <file name="stars5-6410x240.jpg" crc="4161117633" seo="true" ref="seminars"/>
-    <file name="stars5-6410x240_2x.jpg" crc="177575681" seo="true" ref="seminars"/>
-    <file name="1-2300x254.jpg" crc="4199740793" seo="true" ref="seminars"/>
-    <file name="1-2300x254_2x.jpg" crc="4111976245" seo="true" ref="seminars"/>
-    <file name="3-4300x253.jpg" crc="3924912930" seo="true" ref="seminars"/>
-    <file name="3-4300x253_2x.jpg" crc="129290326" seo="true" ref="seminars"/>
-    <file name="5-6300x254.jpg" crc="4109260875" seo="true" ref="seminars"/>
-    <file name="5-6300x254_2x.jpg" crc="48661134" seo="true" ref="seminars"/>
-    <file name="7-8300x254.jpg" crc="50819503" seo="true" ref="seminars"/>
-    <file name="7-8300x254_2x.jpg" crc="3796126659" seo="true" ref="seminars"/>
-    <file name="9-10300x254.jpg" crc="344483768" seo="true" ref="seminars"/>
-    <file name="9-10300x254_2x.jpg" crc="447105297" seo="true" ref="seminars"/>
-    <file name="sem-ore1353x204.jpg" crc="456340008" seo="true" ref="seminars"/>
-    <file name="sem-ore2352x203.jpg" crc="3801349215" seo="true" ref="seminars"/>
-    <file name="sem-phil179x207.jpg" crc="3857553405" seo="true" ref="seminars"/>
-    <file name="sem-simone179x207.jpg" crc="4120486065" seo="true" ref="seminars"/>
-    <file name="sem-peter179x207.jpg" crc="4080799668" seo="true" ref="seminars"/>
-    <file name="sem-burg1353x204.jpg" crc="262718005" seo="true" ref="seminars"/>
-    <file name="sem-burg2353x204.jpg" crc="4108631095" seo="true" ref="seminars"/>
-    <file name="schrader354x102.jpg" crc="130905461" seo="true" ref="seminars"/>
-    <file name="schrader354x102_2x.jpg" crc="488978391" seo="true" ref="seminars"/>
-    <file name="sem-brion354x199.jpg" crc="3950645175" seo="true" ref="seminars"/>
-    <file name="sem-biondi179x207.jpg" crc="3764563998" seo="true" ref="seminars"/>
-    <file name="chefs2354x305.jpg" crc="62158535" seo="true" ref="seminars"/>
-    <file name="stars1-2354x207.jpg" crc="4045403541" seo="true" ref="seminars"/>
-    <file name="stars1-2354x207_2x.jpg" crc="3953016952" seo="true" ref="seminars"/>
-    <file name="stars3-4354x207.jpg" crc="4259636578" seo="true" ref="seminars"/>
-    <file name="stars3-4354x207_2x.jpg" crc="4032662948" seo="true" ref="seminars"/>
-    <file name="stars5-6354x207.jpg" crc="297726642" seo="true" ref="seminars"/>
-    <file name="stars5-6354x207_2x.jpg" crc="4130329293" seo="true" ref="seminars"/>
-    <file name="1-2272x230.jpg" crc="4219859841" seo="true" ref="seminars"/>
-    <file name="1-2272x230_2x.jpg" crc="486637981" seo="true" ref="seminars"/>
-    <file name="3-4272x230.jpg" crc="350133568" seo="true" ref="seminars"/>
-    <file name="3-4272x230_2x.jpg" crc="4014810061" seo="true" ref="seminars"/>
-    <file name="5-6272x230.jpg" crc="64192997" seo="true" ref="seminars"/>
-    <file name="5-6272x230_2x.jpg" crc="249744315" seo="true" ref="seminars"/>
-    <file name="7-8272x230.jpg" crc="55473072" seo="true" ref="seminars"/>
-    <file name="7-8272x230_2x.jpg" crc="112725524" seo="true" ref="seminars"/>
-    <file name="9-10272x230.jpg" crc="183720720" seo="true" ref="seminars"/>
-    <file name="9-10272x230_2x.jpg" crc="4240618381" seo="true" ref="seminars"/>
-    <file name="sem-ore1320x184.jpg" crc="54798096" seo="true" ref="seminars"/>
-    <file name="sem-ore2319x184.jpg" crc="167409699" seo="true" ref="seminars"/>
-    <file name="sem-phil162x187.jpg" crc="381081469" seo="true" ref="seminars"/>
-    <file name="sem-simone162x187.jpg" crc="199054109" seo="true" ref="seminars"/>
-    <file name="sem-peter162x187.jpg" crc="440365284" seo="true" ref="seminars"/>
-    <file name="sem-burg1320x185.jpg" crc="3772293729" seo="true" ref="seminars"/>
-    <file name="sem-burg2320x185.jpg" crc="234842730" seo="true" ref="seminars"/>
-    <file name="schrader320x92.jpg" crc="3940701570" seo="true" ref="seminars"/>
-    <file name="schrader320x92_2x.jpg" crc="295094495" seo="true" ref="seminars"/>
-    <file name="sem-brion321x180.jpg" crc="4216934617" seo="true" ref="seminars"/>
-    <file name="sem-biondi162x187.jpg" crc="3823926796" seo="true" ref="seminars"/>
-    <file name="chefs1320x276.jpg" crc="4050067166" seo="true" ref="seminars"/>
-    <file name="stars1-2320x187.jpg" crc="3968554573" seo="true" ref="seminars"/>
-    <file name="stars1-2320x187_2x.jpg" crc="526478704" seo="true" ref="seminars"/>
-    <file name="stars3-4320x187.jpg" crc="47724020" seo="true" ref="seminars"/>
-    <file name="stars3-4320x187_2x.jpg" crc="497669226" seo="true" ref="seminars"/>
-    <file name="stars5-6320x187.jpg" crc="521130031" seo="true" ref="seminars"/>
-    <file name="stars5-6320x187_2x.jpg" crc="430756124" seo="true" ref="seminars"/>
-    <file name="1-2232x196.jpg" crc="313075648" seo="true" ref="seminars"/>
-    <file name="1-2232x196_2x.jpg" crc="4232560957" seo="true" ref="seminars"/>
-    <file name="3-4232x196.jpg" crc="412586826" seo="true" ref="seminars"/>
-    <file name="3-4232x196_2x.jpg" crc="262858281" seo="true" ref="seminars"/>
-    <file name="5-6232x196.jpg" crc="525165481" seo="true" ref="seminars"/>
-    <file name="5-6232x196_2x.jpg" crc="150575783" seo="true" ref="seminars"/>
-    <file name="7-8232x196.jpg" crc="4065484676" seo="true" ref="seminars"/>
-    <file name="7-8232x196_2x.jpg" crc="3770200588" seo="true" ref="seminars"/>
-    <file name="9-10232x196.jpg" crc="404404080" seo="true" ref="seminars"/>
-    <file name="9-10232x196_2x.jpg" crc="4066841174" seo="true" ref="seminars"/>
-    <file name="sem-ore1273x157.jpg" crc="4122450887" seo="true" ref="seminars"/>
-    <file name="sem-ore2272x157.jpg" crc="282974795" seo="true" ref="seminars"/>
-    <file name="sem-phil138x160.jpg" crc="453780133" seo="true" ref="seminars"/>
-    <file name="sem-simone138x160.jpg" crc="4192409161" seo="true" ref="seminars"/>
-    <file name="sem-peter138x160.jpg" crc="139075820" seo="true" ref="seminars"/>
-    <file name="sem-burg1273x158.jpg" crc="523955949" seo="true" ref="seminars"/>
-    <file name="sem-burg2273x158.jpg" crc="85724865" seo="true" ref="seminars"/>
-    <file name="schrader274x79.jpg" crc="355335452" seo="true" ref="seminars"/>
-    <file name="schrader274x79_2x.jpg" crc="3966793856" seo="true" ref="seminars"/>
-    <file name="sem-brion274x154.jpg" crc="4238991464" seo="true" ref="seminars"/>
-    <file name="sem-biondi138x160.jpg" crc="115004316" seo="true" ref="seminars"/>
-    <file name="chefs1273x236.jpg" crc="4045607052" seo="true" ref="seminars"/>
-    <file name="chefs2274x236.jpg" crc="3952025452" seo="true" ref="seminars"/>
-    <file name="stars1-2273x160.jpg" crc="337998297" seo="true" ref="seminars"/>
-    <file name="stars1-2273x160_2x.jpg" crc="12059709" seo="true" ref="seminars"/>
-    <file name="stars3-4273x160.jpg" crc="3800443048" seo="true" ref="seminars"/>
-    <file name="stars3-4273x160_2x.jpg" crc="3858414718" seo="true" ref="seminars"/>
-    <file name="stars5-6273x160.jpg" crc="481402217" seo="true" ref="seminars"/>
-    <file name="stars5-6273x160_2x.jpg" crc="384612840" seo="true" ref="seminars"/>
+    <file name="sem-ore1511x295.jpg" crc="3987792179" seo="true" ref="2018-seminars"/>
+    <file name="sem-ore2511x295.jpg" crc="4130841054" seo="true" ref="2018-seminars"/>
+    <file name="sem-phil255x295.jpg" crc="521954671" seo="true" ref="2018-seminars"/>
+    <file name="sem-simone255x295.jpg" crc="4066239433" seo="true" ref="2018-seminars"/>
+    <file name="sem-peter255x295.jpg" crc="4240466853" seo="true" ref="2018-seminars"/>
+    <file name="sem-burg1510x295.jpg" crc="3956871102" seo="true" ref="2018-seminars"/>
+    <file name="sem-burg2510x295.jpg" crc="3884147836" seo="true" ref="2018-seminars"/>
+    <file name="schrader.jpg" crc="4074546918" seo="true" ref="2018-seminars"/>
+    <file name="schrader_2x.jpg" crc="407341306" seo="true" ref="2018-seminars"/>
+    <file name="sem-brion528x297.jpg" crc="4232997579" seo="true" ref="2018-seminars"/>
+    <file name="sem-biondi255x295.jpg" crc="4294501881" seo="true" ref="2018-seminars"/>
+    <file name="chefs1514x443.jpg" crc="3837642990" seo="true" ref="2018-seminars"/>
+    <file name="chefs2514x443.jpg" crc="186359053" seo="true" ref="2018-seminars"/>
+    <file name="stars3.jpg" crc="335571198" seo="true" ref="2018-seminars"/>
+    <file name="stars3_2x.jpg" crc="4020685193" seo="true" ref="2018-seminars"/>
+    <file name="stars1-2.jpg" crc="245992372" seo="true" ref="2018-seminars"/>
+    <file name="stars1-2_2x.jpg" crc="4050993395" seo="true" ref="2018-seminars"/>
+    <file name="stars4-5.jpg" crc="4197825471" seo="true" ref="2018-seminars"/>
+    <file name="stars4-5_2x.jpg" crc="3898927363" seo="true" ref="2018-seminars"/>
+    <file name="stars6.jpg" crc="239769590" seo="true" ref="2018-seminars"/>
+    <file name="stars6_2x.jpg" crc="3767754660" seo="true" ref="2018-seminars"/>
+    <file name="1-2367x310_2x.jpg" crc="4111976245" seo="true" ref="2018-seminars"/>
+    <file name="3-4367x310_2x.jpg" crc="129290326" seo="true" ref="2018-seminars"/>
+    <file name="sem-ore1456x263.jpg" crc="3763534530" seo="true" ref="2018-seminars"/>
+    <file name="sem-ore2456x263.jpg" crc="4230216302" seo="true" ref="2018-seminars"/>
+    <file name="sem-phil228x264.jpg" crc="4261765250" seo="true" ref="2018-seminars"/>
+    <file name="sem-simone228x264.jpg" crc="4070017472" seo="true" ref="2018-seminars"/>
+    <file name="sem-peter228x264.jpg" crc="233233138" seo="true" ref="2018-seminars"/>
+    <file name="sem-burg1455x263.jpg" crc="219519595" seo="true" ref="2018-seminars"/>
+    <file name="sem-burg2455x263.jpg" crc="4166777721" seo="true" ref="2018-seminars"/>
+    <file name="schrader914x263.jpg" crc="3795028382" seo="true" ref="2018-seminars"/>
+    <file name="schrader914x263_2x.jpg" crc="3998908839" seo="true" ref="2018-seminars"/>
+    <file name="sem-brion471x265.jpg" crc="182411012" seo="true" ref="2018-seminars"/>
+    <file name="sem-biondi228x264.jpg" crc="3960765923" seo="true" ref="2018-seminars"/>
+    <file name="stars3300x356.jpg" crc="164378697" seo="true" ref="2018-seminars"/>
+    <file name="stars3300x356_2x.jpg" crc="4020685193" seo="true" ref="2018-seminars"/>
+    <file name="stars1-2609x356.jpg" crc="194148094" seo="true" ref="2018-seminars"/>
+    <file name="stars1-2609x356_2x.jpg" crc="4254236067" seo="true" ref="2018-seminars"/>
+    <file name="stars4-5610x356.jpg" crc="468716622" seo="true" ref="2018-seminars"/>
+    <file name="stars4-5610x356_2x.jpg" crc="147550500" seo="true" ref="2018-seminars"/>
+    <file name="stars6300x356.jpg" crc="456033934" seo="true" ref="2018-seminars"/>
+    <file name="stars6300x356_2x.jpg" crc="3767754660" seo="true" ref="2018-seminars"/>
+    <file name="1-2351x296_2x.jpg" crc="4111976245" seo="true" ref="2018-seminars"/>
+    <file name="3-4351x296_2x.jpg" crc="129290326" seo="true" ref="2018-seminars"/>
+    <file name="sem-ore1436x252.jpg" crc="4246082337" seo="true" ref="2018-seminars"/>
+    <file name="sem-ore2436x252.jpg" crc="507063751" seo="true" ref="2018-seminars"/>
+    <file name="sem-phil218x252.jpg" crc="431339960" seo="true" ref="2018-seminars"/>
+    <file name="sem-simone218x252.jpg" crc="3950994074" seo="true" ref="2018-seminars"/>
+    <file name="sem-peter218x252.jpg" crc="4185835279" seo="true" ref="2018-seminars"/>
+    <file name="sem-burg1436x252.jpg" crc="4164754861" seo="true" ref="2018-seminars"/>
+    <file name="sem-burg2436x252.jpg" crc="146960012" seo="true" ref="2018-seminars"/>
+    <file name="schrader874x251.jpg" crc="4277563712" seo="true" ref="2018-seminars"/>
+    <file name="schrader874x251_2x.jpg" crc="90537410" seo="true" ref="2018-seminars"/>
+    <file name="sem-brion451x254.jpg" crc="4084730721" seo="true" ref="2018-seminars"/>
+    <file name="sem-biondi218x252.jpg" crc="3875583057" seo="true" ref="2018-seminars"/>
+    <file name="stars3287x341.jpg" crc="4128474848" seo="true" ref="2018-seminars"/>
+    <file name="stars3287x341_2x.jpg" crc="4020685193" seo="true" ref="2018-seminars"/>
+    <file name="stars1-2583x341.jpg" crc="3771406101" seo="true" ref="2018-seminars"/>
+    <file name="stars1-2583x341_2x.jpg" crc="249223566" seo="true" ref="2018-seminars"/>
+    <file name="stars4-5584x341.jpg" crc="3902237327" seo="true" ref="2018-seminars"/>
+    <file name="stars4-5584x341_2x.jpg" crc="507013643" seo="true" ref="2018-seminars"/>
+    <file name="stars6288x341.jpg" crc="409332898" seo="true" ref="2018-seminars"/>
+    <file name="stars6288x341_2x.jpg" crc="3767754660" seo="true" ref="2018-seminars"/>
+    <file name="1-2309x260_2x.jpg" crc="4111976245" seo="true" ref="2018-seminars"/>
+    <file name="3-4309x260_2x.jpg" crc="129290326" seo="true" ref="2018-seminars"/>
+    <file name="sem-ore1383x221.jpg" crc="98663951" seo="true" ref="2018-seminars"/>
+    <file name="sem-ore2383x221.jpg" crc="4150707379" seo="true" ref="2018-seminars"/>
+    <file name="sem-phil192x222.jpg" crc="95578376" seo="true" ref="2018-seminars"/>
+    <file name="sem-simone192x222.jpg" crc="193420750" seo="true" ref="2018-seminars"/>
+    <file name="sem-peter192x222.jpg" crc="9725808" seo="true" ref="2018-seminars"/>
+    <file name="sem-burg1383x221.jpg" crc="170836470" seo="true" ref="2018-seminars"/>
+    <file name="sem-burg2383x221.jpg" crc="113356126" seo="true" ref="2018-seminars"/>
+    <file name="schrader768x221.jpg" crc="4153501509" seo="true" ref="2018-seminars"/>
+    <file name="schrader768x221_2x.jpg" crc="455992866" seo="true" ref="2018-seminars"/>
+    <file name="sem-brion396x223.jpg" crc="43637735" seo="true" ref="2018-seminars"/>
+    <file name="sem-biondi192x222.jpg" crc="4136677363" seo="true" ref="2018-seminars"/>
+    <file name="stars3252x299.jpg" crc="163986747" seo="true" ref="2018-seminars"/>
+    <file name="stars3252x299_2x.jpg" crc="4020685193" seo="true" ref="2018-seminars"/>
+    <file name="stars1-2512x299.jpg" crc="272852651" seo="true" ref="2018-seminars"/>
+    <file name="stars1-2512x299_2x.jpg" crc="4024050905" seo="true" ref="2018-seminars"/>
+    <file name="stars4-5513x299.jpg" crc="3900014050" seo="true" ref="2018-seminars"/>
+    <file name="stars4-5513x299_2x.jpg" crc="496333428" seo="true" ref="2018-seminars"/>
+    <file name="stars6252x299.jpg" crc="4088077680" seo="true" ref="2018-seminars"/>
+    <file name="stars6252x299_2x.jpg" crc="3767754660" seo="true" ref="2018-seminars"/>
+    <file name="1-2264x222_2x.jpg" crc="156435532" seo="true" ref="2018-seminars"/>
+    <file name="3-4264x222_2x.jpg" crc="43141560" seo="true" ref="2018-seminars"/>
+    <file name="sem-ore1327x189.jpg" crc="197416103" seo="true" ref="2018-seminars"/>
+    <file name="sem-ore2327x189.jpg" crc="513869048" seo="true" ref="2018-seminars"/>
+    <file name="sem-phil164x189.jpg" crc="326958244" seo="true" ref="2018-seminars"/>
+    <file name="sem-simone164x189.jpg" crc="145318496" seo="true" ref="2018-seminars"/>
+    <file name="sem-peter164x189.jpg" crc="498125942" seo="true" ref="2018-seminars"/>
+    <file name="sem-burg1327x189.jpg" crc="4268116561" seo="true" ref="2018-seminars"/>
+    <file name="sem-burg2327x189.jpg" crc="4096323978" seo="true" ref="2018-seminars"/>
+    <file name="schrader656x189.jpg" crc="3988826650" seo="true" ref="2018-seminars"/>
+    <file name="schrader656x189_2x.jpg" crc="3895867376" seo="true" ref="2018-seminars"/>
+    <file name="sem-brion338x190.jpg" crc="4219565247" seo="true" ref="2018-seminars"/>
+    <file name="sem-biondi164x189.jpg" crc="3956845946" seo="true" ref="2018-seminars"/>
+    <file name="stars3216x256.jpg" crc="3878656578" seo="true" ref="2018-seminars"/>
+    <file name="stars3216x256_2x.jpg" crc="10982851" seo="true" ref="2018-seminars"/>
+    <file name="stars1-2438x256.jpg" crc="3858768718" seo="true" ref="2018-seminars"/>
+    <file name="stars1-2438x256_2x.jpg" crc="513805277" seo="true" ref="2018-seminars"/>
+    <file name="stars4-5438x256.jpg" crc="3794695378" seo="true" ref="2018-seminars"/>
+    <file name="stars4-5438x256_2x.jpg" crc="3845705537" seo="true" ref="2018-seminars"/>
+    <file name="stars6216x256.jpg" crc="3859454400" seo="true" ref="2018-seminars"/>
+    <file name="stars6216x256_2x.jpg" crc="4283866628" seo="true" ref="2018-seminars"/>
+    <file name="1-2253x213_2x.jpg" crc="3821988201" seo="true" ref="2018-seminars"/>
+    <file name="3-4253x213_2x.jpg" crc="4216899172" seo="true" ref="2018-seminars"/>
+    <file name="sem-ore1314x181.jpg" crc="145423994" seo="true" ref="2018-seminars"/>
+    <file name="sem-ore2314x181.jpg" crc="291965446" seo="true" ref="2018-seminars"/>
+    <file name="sem-phil157x181.jpg" crc="536736566" seo="true" ref="2018-seminars"/>
+    <file name="sem-simone157x181.jpg" crc="229435537" seo="true" ref="2018-seminars"/>
+    <file name="sem-peter157x181.jpg" crc="94161154" seo="true" ref="2018-seminars"/>
+    <file name="sem-burg1313x181.jpg" crc="331652593" seo="true" ref="2018-seminars"/>
+    <file name="sem-burg2313x181.jpg" crc="519371113" seo="true" ref="2018-seminars"/>
+    <file name="schrader629x181.jpg" crc="258146751" seo="true" ref="2018-seminars"/>
+    <file name="schrader629x181_2x.jpg" crc="3773266381" seo="true" ref="2018-seminars"/>
+    <file name="sem-brion324x182.jpg" crc="97962571" seo="true" ref="2018-seminars"/>
+    <file name="sem-biondi157x181.jpg" crc="433216584" seo="true" ref="2018-seminars"/>
+    <file name="stars3207x245.jpg" crc="4273108288" seo="true" ref="2018-seminars"/>
+    <file name="stars3207x245_2x.jpg" crc="203109645" seo="true" ref="2018-seminars"/>
+    <file name="stars1-2419x245.jpg" crc="4071471442" seo="true" ref="2018-seminars"/>
+    <file name="stars1-2419x245_2x.jpg" crc="454002756" seo="true" ref="2018-seminars"/>
+    <file name="stars4-5420x245.jpg" crc="445022447" seo="true" ref="2018-seminars"/>
+    <file name="stars4-5420x245_2x.jpg" crc="4035663780" seo="true" ref="2018-seminars"/>
+    <file name="stars6207x245.jpg" crc="210975451" seo="true" ref="2018-seminars"/>
+    <file name="stars6207x245_2x.jpg" crc="277170467" seo="true" ref="2018-seminars"/>
+    <file name="5-6412x348.jpg" crc="486022721" seo="true" ref="2018-seminars"/>
+    <file name="5-6_2x.jpg" crc="48661134" seo="true" ref="2018-seminars"/>
+    <file name="7-8412x348.jpg" crc="4123623209" seo="true" ref="2018-seminars"/>
+    <file name="7-8_2x.jpg" crc="3796126659" seo="true" ref="2018-seminars"/>
+    <file name="9-10412x348.jpg" crc="4030040093" seo="true" ref="2018-seminars"/>
+    <file name="9-10_2x.jpg" crc="447105297" seo="true" ref="2018-seminars"/>
+    <file name="sem-ore1.jpg" crc="4080027656" seo="true" ref="2018-seminars"/>
+    <file name="sem-ore2.jpg" crc="234498714" seo="true" ref="2018-seminars"/>
+    <file name="sem-phil.jpg" crc="1328455" seo="true" ref="2018-seminars"/>
+    <file name="sem-simone.jpg" crc="35336397" seo="true" ref="2018-seminars"/>
+    <file name="sem-peter.jpg" crc="4283496060" seo="true" ref="2018-seminars"/>
+    <file name="sem-burg1.jpg" crc="131679652" seo="true" ref="2018-seminars"/>
+    <file name="sem-burg2.jpg" crc="344228634" seo="true" ref="2018-seminars"/>
+    <file name="schrader570x164.jpg" crc="3983092311" seo="true" ref="2018-seminars"/>
+    <file name="schrader570x164_2x.jpg" crc="3938661486" seo="true" ref="2018-seminars"/>
+    <file name="sem-brion.jpg" crc="275124679" seo="true" ref="2018-seminars"/>
+    <file name="sem-biondi.jpg" crc="465623852" seo="true" ref="2018-seminars"/>
+    <file name="stars1-2569x333.jpg" crc="3837913329" seo="true" ref="2018-seminars"/>
+    <file name="stars1-2569x333_2x.jpg" crc="218791189" seo="true" ref="2018-seminars"/>
+    <file name="stars3-4.jpg" crc="124874148" seo="true" ref="2018-seminars"/>
+    <file name="stars3-4_2x.jpg" crc="3837252576" seo="true" ref="2018-seminars"/>
+    <file name="stars5-6.jpg" crc="116456916" seo="true" ref="2018-seminars"/>
+    <file name="stars5-6_2x.jpg" crc="472952943" seo="true" ref="2018-seminars"/>
+    <file name="5-6351x296.jpg" crc="529787194" seo="true" ref="2018-seminars"/>
+    <file name="5-6351x296_2x.jpg" crc="48661134" seo="true" ref="2018-seminars"/>
+    <file name="7-8351x296.jpg" crc="334568105" seo="true" ref="2018-seminars"/>
+    <file name="7-8351x296_2x.jpg" crc="3796126659" seo="true" ref="2018-seminars"/>
+    <file name="9-10351x296.jpg" crc="270353987" seo="true" ref="2018-seminars"/>
+    <file name="9-10351x296_2x.jpg" crc="447105297" seo="true" ref="2018-seminars"/>
+    <file name="sem-ore1483x278.jpg" crc="3860399517" seo="true" ref="2018-seminars"/>
+    <file name="sem-ore2483x278.jpg" crc="194143638" seo="true" ref="2018-seminars"/>
+    <file name="sem-phil245x283.jpg" crc="3921488555" seo="true" ref="2018-seminars"/>
+    <file name="sem-simone245x283.jpg" crc="4184149071" seo="true" ref="2018-seminars"/>
+    <file name="sem-peter245x283.jpg" crc="4147710616" seo="true" ref="2018-seminars"/>
+    <file name="sem-burg1484x280.jpg" crc="167848952" seo="true" ref="2018-seminars"/>
+    <file name="sem-burg2484x280.jpg" crc="4142737957" seo="true" ref="2018-seminars"/>
+    <file name="schrader485x140.jpg" crc="208075765" seo="true" ref="2018-seminars"/>
+    <file name="schrader485x140_2x.jpg" crc="4010885665" seo="true" ref="2018-seminars"/>
+    <file name="sem-brion486x273.jpg" crc="384267551" seo="true" ref="2018-seminars"/>
+    <file name="sem-biondi245x283.jpg" crc="493487679" seo="true" ref="2018-seminars"/>
+    <file name="chefs1485x418.jpg" crc="4029965442" seo="true" ref="2018-seminars"/>
+    <file name="chefs2486x419.jpg" crc="110990161" seo="true" ref="2018-seminars"/>
+    <file name="stars1-2485x283.jpg" crc="22407586" seo="true" ref="2018-seminars"/>
+    <file name="stars1-2485x283_2x.jpg" crc="4181508778" seo="true" ref="2018-seminars"/>
+    <file name="stars3-4485x283.jpg" crc="381769944" seo="true" ref="2018-seminars"/>
+    <file name="stars3-4485x283_2x.jpg" crc="3771695428" seo="true" ref="2018-seminars"/>
+    <file name="stars5-6485x283.jpg" crc="3854690586" seo="true" ref="2018-seminars"/>
+    <file name="stars5-6485x283_2x.jpg" crc="514191970" seo="true" ref="2018-seminars"/>
+    <file name="1-2297x250.jpg" crc="533942837" seo="true" ref="2018-seminars"/>
+    <file name="1-2297x250_2x.jpg" crc="4111976245" seo="true" ref="2018-seminars"/>
+    <file name="3-4297x250.jpg" crc="94205853" seo="true" ref="2018-seminars"/>
+    <file name="3-4297x250_2x.jpg" crc="129290326" seo="true" ref="2018-seminars"/>
+    <file name="5-6297x251.jpg" crc="301088818" seo="true" ref="2018-seminars"/>
+    <file name="5-6297x251_2x.jpg" crc="48661134" seo="true" ref="2018-seminars"/>
+    <file name="7-8297x251.jpg" crc="3948560258" seo="true" ref="2018-seminars"/>
+    <file name="7-8297x251_2x.jpg" crc="3796126659" seo="true" ref="2018-seminars"/>
+    <file name="9-10297x251.jpg" crc="506785936" seo="true" ref="2018-seminars"/>
+    <file name="9-10297x251_2x.jpg" crc="447105297" seo="true" ref="2018-seminars"/>
+    <file name="sem-ore1408x235.jpg" crc="4229193966" seo="true" ref="2018-seminars"/>
+    <file name="sem-ore2408x235.jpg" crc="6951947" seo="true" ref="2018-seminars"/>
+    <file name="sem-phil207x239.jpg" crc="464347957" seo="true" ref="2018-seminars"/>
+    <file name="sem-simone207x239.jpg" crc="205658673" seo="true" ref="2018-seminars"/>
+    <file name="sem-peter207x239.jpg" crc="106188252" seo="true" ref="2018-seminars"/>
+    <file name="sem-burg1409x237.jpg" crc="107949172" seo="true" ref="2018-seminars"/>
+    <file name="sem-burg2409x237.jpg" crc="3765039048" seo="true" ref="2018-seminars"/>
+    <file name="schrader410x118.jpg" crc="4055896683" seo="true" ref="2018-seminars"/>
+    <file name="schrader410x118_2x.jpg" crc="402536184" seo="true" ref="2018-seminars"/>
+    <file name="sem-brion411x231.jpg" crc="157565044" seo="true" ref="2018-seminars"/>
+    <file name="sem-biondi207x239.jpg" crc="246298979" seo="true" ref="2018-seminars"/>
+    <file name="chefs1410x353.jpg" crc="343333901" seo="true" ref="2018-seminars"/>
+    <file name="chefs2410x354.jpg" crc="135374731" seo="true" ref="2018-seminars"/>
+    <file name="stars1-2410x239.jpg" crc="3782604976" seo="true" ref="2018-seminars"/>
+    <file name="stars1-2410x239_2x.jpg" crc="448242227" seo="true" ref="2018-seminars"/>
+    <file name="stars3-4410x240.jpg" crc="408590810" seo="true" ref="2018-seminars"/>
+    <file name="stars3-4410x240_2x.jpg" crc="3847396525" seo="true" ref="2018-seminars"/>
+    <file name="stars5-6410x240.jpg" crc="4161117633" seo="true" ref="2018-seminars"/>
+    <file name="stars5-6410x240_2x.jpg" crc="177575681" seo="true" ref="2018-seminars"/>
+    <file name="1-2300x254.jpg" crc="4199740793" seo="true" ref="2018-seminars"/>
+    <file name="1-2300x254_2x.jpg" crc="4111976245" seo="true" ref="2018-seminars"/>
+    <file name="3-4300x253.jpg" crc="3924912930" seo="true" ref="2018-seminars"/>
+    <file name="3-4300x253_2x.jpg" crc="129290326" seo="true" ref="2018-seminars"/>
+    <file name="5-6300x254.jpg" crc="4109260875" seo="true" ref="2018-seminars"/>
+    <file name="5-6300x254_2x.jpg" crc="48661134" seo="true" ref="2018-seminars"/>
+    <file name="7-8300x254.jpg" crc="50819503" seo="true" ref="2018-seminars"/>
+    <file name="7-8300x254_2x.jpg" crc="3796126659" seo="true" ref="2018-seminars"/>
+    <file name="9-10300x254.jpg" crc="344483768" seo="true" ref="2018-seminars"/>
+    <file name="9-10300x254_2x.jpg" crc="447105297" seo="true" ref="2018-seminars"/>
+    <file name="sem-ore1353x204.jpg" crc="456340008" seo="true" ref="2018-seminars"/>
+    <file name="sem-ore2352x203.jpg" crc="3801349215" seo="true" ref="2018-seminars"/>
+    <file name="sem-phil179x207.jpg" crc="3857553405" seo="true" ref="2018-seminars"/>
+    <file name="sem-simone179x207.jpg" crc="4120486065" seo="true" ref="2018-seminars"/>
+    <file name="sem-peter179x207.jpg" crc="4080799668" seo="true" ref="2018-seminars"/>
+    <file name="sem-burg1353x204.jpg" crc="262718005" seo="true" ref="2018-seminars"/>
+    <file name="sem-burg2353x204.jpg" crc="4108631095" seo="true" ref="2018-seminars"/>
+    <file name="schrader354x102.jpg" crc="130905461" seo="true" ref="2018-seminars"/>
+    <file name="schrader354x102_2x.jpg" crc="488978391" seo="true" ref="2018-seminars"/>
+    <file name="sem-brion354x199.jpg" crc="3950645175" seo="true" ref="2018-seminars"/>
+    <file name="sem-biondi179x207.jpg" crc="3764563998" seo="true" ref="2018-seminars"/>
+    <file name="chefs2354x305.jpg" crc="62158535" seo="true" ref="2018-seminars"/>
+    <file name="stars1-2354x207.jpg" crc="4045403541" seo="true" ref="2018-seminars"/>
+    <file name="stars1-2354x207_2x.jpg" crc="3953016952" seo="true" ref="2018-seminars"/>
+    <file name="stars3-4354x207.jpg" crc="4259636578" seo="true" ref="2018-seminars"/>
+    <file name="stars3-4354x207_2x.jpg" crc="4032662948" seo="true" ref="2018-seminars"/>
+    <file name="stars5-6354x207.jpg" crc="297726642" seo="true" ref="2018-seminars"/>
+    <file name="stars5-6354x207_2x.jpg" crc="4130329293" seo="true" ref="2018-seminars"/>
+    <file name="1-2272x230.jpg" crc="4219859841" seo="true" ref="2018-seminars"/>
+    <file name="1-2272x230_2x.jpg" crc="486637981" seo="true" ref="2018-seminars"/>
+    <file name="3-4272x230.jpg" crc="350133568" seo="true" ref="2018-seminars"/>
+    <file name="3-4272x230_2x.jpg" crc="4014810061" seo="true" ref="2018-seminars"/>
+    <file name="5-6272x230.jpg" crc="64192997" seo="true" ref="2018-seminars"/>
+    <file name="5-6272x230_2x.jpg" crc="249744315" seo="true" ref="2018-seminars"/>
+    <file name="7-8272x230.jpg" crc="55473072" seo="true" ref="2018-seminars"/>
+    <file name="7-8272x230_2x.jpg" crc="112725524" seo="true" ref="2018-seminars"/>
+    <file name="9-10272x230.jpg" crc="183720720" seo="true" ref="2018-seminars"/>
+    <file name="9-10272x230_2x.jpg" crc="4240618381" seo="true" ref="2018-seminars"/>
+    <file name="sem-ore1320x184.jpg" crc="54798096" seo="true" ref="2018-seminars"/>
+    <file name="sem-ore2319x184.jpg" crc="167409699" seo="true" ref="2018-seminars"/>
+    <file name="sem-phil162x187.jpg" crc="381081469" seo="true" ref="2018-seminars"/>
+    <file name="sem-simone162x187.jpg" crc="199054109" seo="true" ref="2018-seminars"/>
+    <file name="sem-peter162x187.jpg" crc="440365284" seo="true" ref="2018-seminars"/>
+    <file name="sem-burg1320x185.jpg" crc="3772293729" seo="true" ref="2018-seminars"/>
+    <file name="sem-burg2320x185.jpg" crc="234842730" seo="true" ref="2018-seminars"/>
+    <file name="schrader320x92.jpg" crc="3940701570" seo="true" ref="2018-seminars"/>
+    <file name="schrader320x92_2x.jpg" crc="295094495" seo="true" ref="2018-seminars"/>
+    <file name="sem-brion321x180.jpg" crc="4216934617" seo="true" ref="2018-seminars"/>
+    <file name="sem-biondi162x187.jpg" crc="3823926796" seo="true" ref="2018-seminars"/>
+    <file name="chefs1320x276.jpg" crc="4050067166" seo="true" ref="2018-seminars"/>
+    <file name="stars1-2320x187.jpg" crc="3968554573" seo="true" ref="2018-seminars"/>
+    <file name="stars1-2320x187_2x.jpg" crc="526478704" seo="true" ref="2018-seminars"/>
+    <file name="stars3-4320x187.jpg" crc="47724020" seo="true" ref="2018-seminars"/>
+    <file name="stars3-4320x187_2x.jpg" crc="497669226" seo="true" ref="2018-seminars"/>
+    <file name="stars5-6320x187.jpg" crc="521130031" seo="true" ref="2018-seminars"/>
+    <file name="stars5-6320x187_2x.jpg" crc="430756124" seo="true" ref="2018-seminars"/>
+    <file name="1-2232x196.jpg" crc="313075648" seo="true" ref="2018-seminars"/>
+    <file name="1-2232x196_2x.jpg" crc="4232560957" seo="true" ref="2018-seminars"/>
+    <file name="3-4232x196.jpg" crc="412586826" seo="true" ref="2018-seminars"/>
+    <file name="3-4232x196_2x.jpg" crc="262858281" seo="true" ref="2018-seminars"/>
+    <file name="5-6232x196.jpg" crc="525165481" seo="true" ref="2018-seminars"/>
+    <file name="5-6232x196_2x.jpg" crc="150575783" seo="true" ref="2018-seminars"/>
+    <file name="7-8232x196.jpg" crc="4065484676" seo="true" ref="2018-seminars"/>
+    <file name="7-8232x196_2x.jpg" crc="3770200588" seo="true" ref="2018-seminars"/>
+    <file name="9-10232x196.jpg" crc="404404080" seo="true" ref="2018-seminars"/>
+    <file name="9-10232x196_2x.jpg" crc="4066841174" seo="true" ref="2018-seminars"/>
+    <file name="sem-ore1273x157.jpg" crc="4122450887" seo="true" ref="2018-seminars"/>
+    <file name="sem-ore2272x157.jpg" crc="282974795" seo="true" ref="2018-seminars"/>
+    <file name="sem-phil138x160.jpg" crc="453780133" seo="true" ref="2018-seminars"/>
+    <file name="sem-simone138x160.jpg" crc="4192409161" seo="true" ref="2018-seminars"/>
+    <file name="sem-peter138x160.jpg" crc="139075820" seo="true" ref="2018-seminars"/>
+    <file name="sem-burg1273x158.jpg" crc="523955949" seo="true" ref="2018-seminars"/>
+    <file name="sem-burg2273x158.jpg" crc="85724865" seo="true" ref="2018-seminars"/>
+    <file name="schrader274x79.jpg" crc="355335452" seo="true" ref="2018-seminars"/>
+    <file name="schrader274x79_2x.jpg" crc="3966793856" seo="true" ref="2018-seminars"/>
+    <file name="sem-brion274x154.jpg" crc="4238991464" seo="true" ref="2018-seminars"/>
+    <file name="sem-biondi138x160.jpg" crc="115004316" seo="true" ref="2018-seminars"/>
+    <file name="chefs1273x236.jpg" crc="4045607052" seo="true" ref="2018-seminars"/>
+    <file name="chefs2274x236.jpg" crc="3952025452" seo="true" ref="2018-seminars"/>
+    <file name="stars1-2273x160.jpg" crc="337998297" seo="true" ref="2018-seminars"/>
+    <file name="stars1-2273x160_2x.jpg" crc="12059709" seo="true" ref="2018-seminars"/>
+    <file name="stars3-4273x160.jpg" crc="3800443048" seo="true" ref="2018-seminars"/>
+    <file name="stars3-4273x160_2x.jpg" crc="3858414718" seo="true" ref="2018-seminars"/>
+    <file name="stars5-6273x160.jpg" crc="481402217" seo="true" ref="2018-seminars"/>
+    <file name="stars5-6273x160_2x.jpg" crc="384612840" seo="true" ref="2018-seminars"/>
     <file name="about-pics1.jpg" crc="348920592" seo="true" ref="about"/>
     <file name="about-pics1_2x.jpg" crc="3951711230" seo="true" ref="about"/>
     <file name="about-pics2.jpg" crc="4086903400" seo="true" ref="about"/>
@@ -833,8 +835,8 @@
     <file name="about-pics8194x65.jpg" crc="3950233389" seo="true" ref="about"/>
     <file name="about-pics8194x65_2x.jpg" crc="310367281" seo="true" ref="about"/>
     <file name="a-master-new-favicon.ico" crc="4220636928" ref="index"/>
-    <file name="1-2_2x.jpg" crc="4111976245" seo="true" ref="seminars"/>
-    <file name="3-4_2x.jpg" crc="129290326" seo="true" ref="seminars"/>
+    <file name="1-2_2x.jpg" crc="4111976245" seo="true" ref="2018-seminars"/>
+    <file name="3-4_2x.jpg" crc="129290326" seo="true" ref="2018-seminars"/>
     <file name="hotspot.png" crc="4102569179" seo="true" ref="tickets"/>
     <file name="hotspot180x72.png" crc="4102569179" seo="true" ref="tickets"/>
     <file name="hotspot172x69.png" crc="4102569179" seo="true" ref="tickets"/>
@@ -906,54 +908,54 @@
     <file name="twitter-wht14x14_2x.png" crc="3803053731" seo="true" ref="index"/>
     <file name="facebook-wht14x14.png" crc="310224475" seo="true" ref="index"/>
     <file name="facebook-wht14x14_2x.png" crc="124066802" seo="true" ref="index"/>
-    <file name="instagram.png" crc="3776093866" seo="true" ref="tickets:travel:schedule:wines:faq:about:seminars:wineries"/>
-    <file name="instagram_2x.png" crc="373580722" seo="true" ref="tickets:travel:schedule:wines:faq:about:seminars:wineries"/>
-    <file name="twitter.png" crc="4271290202" seo="true" ref="tickets:travel:schedule:wines:faq:about:seminars:wineries"/>
-    <file name="twitter_2x.png" crc="4271290202" seo="true" ref="tickets:travel:schedule:wines:faq:about:seminars:wineries"/>
-    <file name="facebook.png" crc="4012376423" seo="true" ref="tickets:travel:schedule:wines:faq:about:seminars:wineries"/>
-    <file name="facebook_2x.png" crc="4012376423" seo="true" ref="tickets:travel:schedule:wines:faq:about:seminars:wineries"/>
-    <file name="instagram25x25.png" crc="4055448160" seo="true" ref="tickets"/>
-    <file name="instagram25x25_2x.png" crc="373580722" seo="true" ref="tickets"/>
-    <file name="twitter25x25.png" crc="4271290202" seo="true" ref="tickets"/>
-    <file name="twitter25x25_2x.png" crc="4271290202" seo="true" ref="tickets"/>
-    <file name="facebook25x25.png" crc="4012376423" seo="true" ref="tickets"/>
-    <file name="facebook25x25_2x.png" crc="4012376423" seo="true" ref="tickets"/>
-    <file name="instagram24x24.png" crc="3978995605" seo="true" ref="tickets"/>
-    <file name="instagram24x24_2x.png" crc="373580722" seo="true" ref="tickets"/>
-    <file name="twitter24x24.png" crc="4271290202" seo="true" ref="tickets"/>
-    <file name="twitter24x24_2x.png" crc="4271290202" seo="true" ref="tickets"/>
-    <file name="facebook24x24.png" crc="4012376423" seo="true" ref="tickets"/>
-    <file name="facebook24x24_2x.png" crc="4012376423" seo="true" ref="tickets"/>
-    <file name="instagram20x20.png" crc="4095509974" seo="true" ref="tickets"/>
-    <file name="instagram20x20_2x.png" crc="373580722" seo="true" ref="tickets"/>
-    <file name="twitter20x20.png" crc="81970353" seo="true" ref="tickets"/>
-    <file name="twitter20x20_2x.png" crc="4271290202" seo="true" ref="tickets"/>
-    <file name="facebook20x20.png" crc="4012376423" seo="true" ref="tickets"/>
-    <file name="facebook20x20_2x.png" crc="4012376423" seo="true" ref="tickets"/>
-    <file name="instagram18x18.png" crc="50091962" seo="true" ref="tickets"/>
-    <file name="instagram18x18_2x.png" crc="373580722" seo="true" ref="tickets"/>
-    <file name="twitter18x18.png" crc="3885402198" seo="true" ref="tickets"/>
-    <file name="twitter18x18_2x.png" crc="4271290202" seo="true" ref="tickets"/>
-    <file name="facebook18x18.png" crc="4068670910" seo="true" ref="tickets"/>
-    <file name="facebook18x18_2x.png" crc="4012376423" seo="true" ref="tickets"/>
-    <file name="instagram17x17.png" crc="3897764361" seo="true" ref="tickets"/>
-    <file name="instagram17x17_2x.png" crc="373580722" seo="true" ref="tickets"/>
-    <file name="twitter17x17.png" crc="3933508655" seo="true" ref="tickets"/>
-    <file name="twitter17x17_2x.png" crc="4271290202" seo="true" ref="tickets"/>
-    <file name="facebook17x17.png" crc="3827393949" seo="true" ref="tickets"/>
-    <file name="facebook17x17_2x.png" crc="4012376423" seo="true" ref="tickets"/>
-    <file name="instagram16x16.png" crc="4067889139" seo="true" ref="tickets"/>
-    <file name="instagram16x16_2x.png" crc="373580722" seo="true" ref="tickets"/>
-    <file name="twitter16x16.png" crc="3844033145" seo="true" ref="tickets"/>
-    <file name="twitter16x16_2x.png" crc="4271290202" seo="true" ref="tickets"/>
-    <file name="facebook16x16.png" crc="118728729" seo="true" ref="tickets"/>
-    <file name="facebook16x16_2x.png" crc="4012376423" seo="true" ref="tickets"/>
-    <file name="instagram14x14.png" crc="3950096954" seo="true" ref="tickets"/>
-    <file name="instagram14x14_2x.png" crc="395411116" seo="true" ref="tickets"/>
-    <file name="twitter14x14.png" crc="4086997605" seo="true" ref="tickets"/>
-    <file name="twitter14x14_2x.png" crc="4271290202" seo="true" ref="tickets"/>
-    <file name="facebook14x14.png" crc="4078478422" seo="true" ref="tickets"/>
-    <file name="facebook14x14_2x.png" crc="4012376423" seo="true" ref="tickets"/>
+    <file name="instagram.png" crc="3776093866" seo="true" ref="tickets:travel:schedule:wines:faq:about:seminars:wineries:2018-seminars"/>
+    <file name="instagram_2x.png" crc="373580722" seo="true" ref="tickets:travel:schedule:wines:faq:about:seminars:wineries:2018-seminars"/>
+    <file name="twitter.png" crc="4271290202" seo="true" ref="tickets:travel:schedule:wines:faq:about:seminars:wineries:2018-seminars"/>
+    <file name="twitter_2x.png" crc="4271290202" seo="true" ref="tickets:travel:schedule:wines:faq:about:seminars:wineries:2018-seminars"/>
+    <file name="facebook.png" crc="4012376423" seo="true" ref="tickets:travel:schedule:wines:faq:about:seminars:wineries:2018-seminars"/>
+    <file name="facebook_2x.png" crc="4012376423" seo="true" ref="tickets:travel:schedule:wines:faq:about:seminars:wineries:2018-seminars"/>
+    <file name="instagram25x25.png" crc="4055448160" seo="true" ref="tickets:schedule"/>
+    <file name="instagram25x25_2x.png" crc="373580722" seo="true" ref="tickets:schedule"/>
+    <file name="twitter25x25.png" crc="4271290202" seo="true" ref="tickets:schedule"/>
+    <file name="twitter25x25_2x.png" crc="4271290202" seo="true" ref="tickets:schedule"/>
+    <file name="facebook25x25.png" crc="4012376423" seo="true" ref="tickets:schedule"/>
+    <file name="facebook25x25_2x.png" crc="4012376423" seo="true" ref="tickets:schedule"/>
+    <file name="instagram24x24.png" crc="3978995605" seo="true" ref="tickets:schedule"/>
+    <file name="instagram24x24_2x.png" crc="373580722" seo="true" ref="tickets:schedule"/>
+    <file name="twitter24x24.png" crc="4271290202" seo="true" ref="tickets:schedule"/>
+    <file name="twitter24x24_2x.png" crc="4271290202" seo="true" ref="tickets:schedule"/>
+    <file name="facebook24x24.png" crc="4012376423" seo="true" ref="tickets:schedule"/>
+    <file name="facebook24x24_2x.png" crc="4012376423" seo="true" ref="tickets:schedule"/>
+    <file name="instagram20x20.png" crc="4095509974" seo="true" ref="tickets:schedule"/>
+    <file name="instagram20x20_2x.png" crc="373580722" seo="true" ref="tickets:schedule"/>
+    <file name="twitter20x20.png" crc="81970353" seo="true" ref="tickets:schedule"/>
+    <file name="twitter20x20_2x.png" crc="4271290202" seo="true" ref="tickets:schedule"/>
+    <file name="facebook20x20.png" crc="4012376423" seo="true" ref="tickets:schedule"/>
+    <file name="facebook20x20_2x.png" crc="4012376423" seo="true" ref="tickets:schedule"/>
+    <file name="instagram18x18.png" crc="50091962" seo="true" ref="tickets:schedule"/>
+    <file name="instagram18x18_2x.png" crc="373580722" seo="true" ref="tickets:schedule"/>
+    <file name="twitter18x18.png" crc="3885402198" seo="true" ref="tickets:schedule"/>
+    <file name="twitter18x18_2x.png" crc="4271290202" seo="true" ref="tickets:schedule"/>
+    <file name="facebook18x18.png" crc="4068670910" seo="true" ref="tickets:schedule"/>
+    <file name="facebook18x18_2x.png" crc="4012376423" seo="true" ref="tickets:schedule"/>
+    <file name="instagram17x17.png" crc="3897764361" seo="true" ref="tickets:schedule"/>
+    <file name="instagram17x17_2x.png" crc="373580722" seo="true" ref="tickets:schedule"/>
+    <file name="twitter17x17.png" crc="3933508655" seo="true" ref="tickets:schedule"/>
+    <file name="twitter17x17_2x.png" crc="4271290202" seo="true" ref="tickets:schedule"/>
+    <file name="facebook17x17.png" crc="3827393949" seo="true" ref="tickets:schedule"/>
+    <file name="facebook17x17_2x.png" crc="4012376423" seo="true" ref="tickets:schedule"/>
+    <file name="instagram16x16.png" crc="4067889139" seo="true" ref="tickets:schedule"/>
+    <file name="instagram16x16_2x.png" crc="373580722" seo="true" ref="tickets:schedule"/>
+    <file name="twitter16x16.png" crc="3844033145" seo="true" ref="tickets:schedule"/>
+    <file name="twitter16x16_2x.png" crc="4271290202" seo="true" ref="tickets:schedule"/>
+    <file name="facebook16x16.png" crc="118728729" seo="true" ref="tickets:schedule"/>
+    <file name="facebook16x16_2x.png" crc="4012376423" seo="true" ref="tickets:schedule"/>
+    <file name="instagram14x14.png" crc="3950096954" seo="true" ref="tickets:schedule"/>
+    <file name="instagram14x14_2x.png" crc="395411116" seo="true" ref="tickets:schedule"/>
+    <file name="twitter14x14.png" crc="4086997605" seo="true" ref="tickets:schedule"/>
+    <file name="twitter14x14_2x.png" crc="4271290202" seo="true" ref="tickets:schedule"/>
+    <file name="facebook14x14.png" crc="4078478422" seo="true" ref="tickets:schedule"/>
+    <file name="facebook14x14_2x.png" crc="4012376423" seo="true" ref="tickets:schedule"/>
     <file name="instagram-wht15x15.png" crc="438619867" seo="true" ref="index"/>
     <file name="instagram-wht15x15_2x.png" crc="356054555" seo="true" ref="index"/>
     <file name="twitter-wht15x15.png" crc="3882618320" seo="true" ref="index"/>
@@ -1016,21 +1018,21 @@
     <file name="twitter-wht14x15_2x.png" crc="360635868" seo="true" ref="index"/>
     <file name="facebook-wht14x15.png" crc="4100392" seo="true" ref="index"/>
     <file name="facebook-wht14x15_2x.png" crc="4042973922" seo="true" ref="index"/>
-    <file name="wsevents50x50.png" crc="4210644695" seo="true" ref="index"/>
-    <file name="wsevents47x47.png" crc="423054544" seo="true" ref="index"/>
-    <file name="wsevents45x45.png" crc="431778850" seo="true" ref="index"/>
-    <file name="wsevents43x43.png" crc="503542315" seo="true" ref="index"/>
-    <file name="wsevents42x42.png" crc="132459312" seo="true" ref="index"/>
+    <file name="wsevents50x50.png" crc="4210644695" seo="true" ref="index:schedule"/>
+    <file name="wsevents47x47.png" crc="423054544" seo="true" ref="index:schedule"/>
+    <file name="wsevents45x45.png" crc="431778850" seo="true" ref="index:schedule"/>
+    <file name="wsevents43x43.png" crc="503542315" seo="true" ref="index:schedule"/>
+    <file name="wsevents42x42.png" crc="132459312" seo="true" ref="index:schedule"/>
     <file name="wsevents40x40.png" crc="380190181" seo="true" ref="index"/>
-    <file name="wsevents38x38.png" crc="481617426" seo="true" ref="index"/>
+    <file name="wsevents38x38.png" crc="481617426" seo="true" ref="index:schedule"/>
     <file name="wsevents36x36.png" crc="529748947" seo="true" ref="index"/>
     <file name="wsevents34x34.png" crc="3785317537" seo="true" ref="index"/>
     <file name="wsevents37x37.png" crc="3821906671" seo="true" ref="index"/>
     <file name="wsevents41x41.png" crc="245188820" seo="true" ref="index"/>
-    <file name="wsevents49x49.png" crc="250381802" seo="true" ref="index"/>
-    <file name="wsevents44x44.png" crc="4097476981" seo="true" ref="index"/>
-    <file name="wsevents.png" crc="4210644695" seo="true" ref="index:tickets:seminars:travel:schedule:wines:faq:about:wineries"/>
-    <file name="page-master-new2-favicon.ico" crc="4220636928" ref="tickets"/>
+    <file name="wsevents49x49.png" crc="250381802" seo="true" ref="index:schedule"/>
+    <file name="wsevents44x44.png" crc="4097476981" seo="true" ref="index:schedule"/>
+    <file name="wsevents.png" crc="4210644695" seo="true" ref="index:tickets:seminars:travel:schedule:wines:faq:about:wineries:2018-seminars"/>
+    <file name="page-master-new2-favicon.ico" crc="4220636928" ref="tickets:schedule"/>
     <file name="gt-tix-so.jpg" crc="3966722433" seo="true" ref="tickets"/>
     <file name="gt-tix-so_2x.jpg" crc="4093495622" seo="true" ref="tickets"/>
     <file name="gt-tix-so452x623.jpg" crc="4187713868" seo="true" ref="tickets"/>
@@ -1055,34 +1057,34 @@
     <file name="gt-tix-so318x438_2x.jpg" crc="397122332" seo="true" ref="tickets"/>
     <file name="gt-tix-so271x374.jpg" crc="4059225203" seo="true" ref="tickets"/>
     <file name="gt-tix-so271x374_2x.jpg" crc="214975819" seo="true" ref="tickets"/>
-    <file name="app-store50x50.png" crc="4109173902" seo="true" ref="index"/>
-    <file name="app-store_2x.png" crc="283234438" seo="true" ref="index:tickets:seminars:travel:schedule:wines:faq:about:wineries"/>
-    <file name="google-play50x50.png" crc="12261250" seo="true" ref="index"/>
-    <file name="google-play_2x.png" crc="274545486" seo="true" ref="index:tickets:seminars:travel:schedule:wines:faq:about:wineries"/>
-    <file name="app-store47x47.png" crc="493254629" seo="true" ref="index"/>
-    <file name="app-store47x47_2x.png" crc="283234438" seo="true" ref="index"/>
-    <file name="google-play47x47.png" crc="387408029" seo="true" ref="index"/>
-    <file name="google-play47x47_2x.png" crc="274545486" seo="true" ref="index"/>
-    <file name="app-store45x45.png" crc="309497861" seo="true" ref="index"/>
-    <file name="app-store45x45_2x.png" crc="283234438" seo="true" ref="index"/>
-    <file name="google-play45x45.png" crc="4259575646" seo="true" ref="index"/>
-    <file name="google-play45x45_2x.png" crc="274545486" seo="true" ref="index"/>
-    <file name="app-store43x43.png" crc="3854502284" seo="true" ref="index"/>
-    <file name="app-store43x43_2x.png" crc="4026889573" seo="true" ref="index"/>
-    <file name="google-play43x43.png" crc="3844416262" seo="true" ref="index"/>
-    <file name="google-play43x43_2x.png" crc="287650663" seo="true" ref="index"/>
-    <file name="app-store42x42.png" crc="3914490363" seo="true" ref="index"/>
-    <file name="app-store42x42_2x.png" crc="172209502" seo="true" ref="index"/>
-    <file name="google-play42x42.png" crc="4041887219" seo="true" ref="index"/>
-    <file name="google-play42x42_2x.png" crc="406171566" seo="true" ref="index"/>
+    <file name="app-store50x50.png" crc="4109173902" seo="true" ref="index:schedule"/>
+    <file name="app-store_2x.png" crc="283234438" seo="true" ref="index:tickets:seminars:travel:schedule:wines:faq:about:wineries:2018-seminars"/>
+    <file name="google-play50x50.png" crc="12261250" seo="true" ref="index:schedule"/>
+    <file name="google-play_2x.png" crc="274545486" seo="true" ref="index:tickets:seminars:travel:schedule:wines:faq:about:wineries:2018-seminars"/>
+    <file name="app-store47x47.png" crc="493254629" seo="true" ref="index:schedule"/>
+    <file name="app-store47x47_2x.png" crc="283234438" seo="true" ref="index:schedule"/>
+    <file name="google-play47x47.png" crc="387408029" seo="true" ref="index:schedule"/>
+    <file name="google-play47x47_2x.png" crc="274545486" seo="true" ref="index:schedule"/>
+    <file name="app-store45x45.png" crc="309497861" seo="true" ref="index:schedule"/>
+    <file name="app-store45x45_2x.png" crc="283234438" seo="true" ref="index:schedule"/>
+    <file name="google-play45x45.png" crc="4259575646" seo="true" ref="index:schedule"/>
+    <file name="google-play45x45_2x.png" crc="274545486" seo="true" ref="index:schedule"/>
+    <file name="app-store43x43.png" crc="3854502284" seo="true" ref="index:schedule"/>
+    <file name="app-store43x43_2x.png" crc="4026889573" seo="true" ref="index:schedule"/>
+    <file name="google-play43x43.png" crc="3844416262" seo="true" ref="index:schedule"/>
+    <file name="google-play43x43_2x.png" crc="287650663" seo="true" ref="index:schedule"/>
+    <file name="app-store42x42.png" crc="3914490363" seo="true" ref="index:schedule"/>
+    <file name="app-store42x42_2x.png" crc="3816765022" seo="true" ref="index:schedule"/>
+    <file name="google-play42x42.png" crc="4041887219" seo="true" ref="index:schedule"/>
+    <file name="google-play42x42_2x.png" crc="372184738" seo="true" ref="index:schedule"/>
     <file name="app-store40x40.png" crc="96675981" seo="true" ref="index"/>
     <file name="app-store40x40_2x.png" crc="440748723" seo="true" ref="index"/>
     <file name="google-play40x40.png" crc="3839489000" seo="true" ref="index"/>
     <file name="google-play40x40_2x.png" crc="509212126" seo="true" ref="index"/>
-    <file name="app-store38x38.png" crc="3925322793" seo="true" ref="index"/>
-    <file name="app-store38x38_2x.png" crc="320532120" seo="true" ref="index"/>
-    <file name="google-play38x38.png" crc="128151250" seo="true" ref="index"/>
-    <file name="google-play38x38_2x.png" crc="413616530" seo="true" ref="index"/>
+    <file name="app-store38x38.png" crc="3925322793" seo="true" ref="index:schedule"/>
+    <file name="app-store38x38_2x.png" crc="320532120" seo="true" ref="index:schedule"/>
+    <file name="google-play38x38.png" crc="128151250" seo="true" ref="index:schedule"/>
+    <file name="google-play38x38_2x.png" crc="413616530" seo="true" ref="index:schedule"/>
     <file name="app-store36x36.png" crc="3969615535" seo="true" ref="index"/>
     <file name="app-store36x36_2x.png" crc="4172119634" seo="true" ref="index"/>
     <file name="google-play36x36.png" crc="4271363575" seo="true" ref="index"/>
@@ -1099,16 +1101,16 @@
     <file name="app-store41x41_2x.png" crc="4204094091" seo="true" ref="index"/>
     <file name="google-play41x41.png" crc="38608803" seo="true" ref="index"/>
     <file name="google-play41x41_2x.png" crc="3977581340" seo="true" ref="index"/>
-    <file name="app-store49x49.png" crc="4037234706" seo="true" ref="index"/>
-    <file name="app-store49x49_2x.png" crc="283234438" seo="true" ref="index"/>
-    <file name="google-play49x49.png" crc="217975503" seo="true" ref="index"/>
-    <file name="google-play49x49_2x.png" crc="274545486" seo="true" ref="index"/>
-    <file name="app-store44x44.png" crc="183004971" seo="true" ref="index"/>
-    <file name="app-store44x44_2x.png" crc="283234438" seo="true" ref="index"/>
-    <file name="google-play44x44.png" crc="426624016" seo="true" ref="index"/>
-    <file name="google-play44x44_2x.png" crc="274545486" seo="true" ref="index"/>
-    <file name="app-store.png" crc="4109173902" seo="true" ref="index:tickets:seminars:travel:schedule:wines:faq:about:wineries"/>
-    <file name="google-play.png" crc="12261250" seo="true" ref="index:tickets:seminars:travel:schedule:wines:faq:about:wineries"/>
+    <file name="app-store49x49.png" crc="4037234706" seo="true" ref="index:schedule"/>
+    <file name="app-store49x49_2x.png" crc="283234438" seo="true" ref="index:schedule"/>
+    <file name="google-play49x49.png" crc="217975503" seo="true" ref="index:schedule"/>
+    <file name="google-play49x49_2x.png" crc="274545486" seo="true" ref="index:schedule"/>
+    <file name="app-store44x44.png" crc="183004971" seo="true" ref="index:schedule"/>
+    <file name="app-store44x44_2x.png" crc="283234438" seo="true" ref="index:schedule"/>
+    <file name="google-play44x44.png" crc="426624016" seo="true" ref="index:schedule"/>
+    <file name="google-play44x44_2x.png" crc="274545486" seo="true" ref="index:schedule"/>
+    <file name="app-store.png" crc="4109173902" seo="true" ref="index:tickets:seminars:travel:schedule:wines:faq:about:wineries:2018-seminars"/>
+    <file name="google-play.png" crc="12261250" seo="true" ref="index:tickets:seminars:travel:schedule:wines:faq:about:wineries:2018-seminars"/>
     <file name="weekend-tix-so.jpg" crc="54779013" seo="true" ref="tickets"/>
     <file name="weekend-tix-so_2x.jpg" crc="198317725" seo="true" ref="tickets"/>
     <file name="weekend-tix-so450x623.jpg" crc="3975436510" seo="true" ref="tickets"/>
@@ -1134,62 +1136,61 @@
     <file name="weekend-tix-so271x375.jpg" crc="4056937517" seo="true" ref="tickets"/>
     <file name="weekend-tix-so271x375_2x.jpg" crc="3807030005" seo="true" ref="tickets"/>
     <file name="logo2019-header1800.jpg" crc="260860330" seo="true" ref="index"/>
-    <file name="seminars-home19403x403.jpg" crc="4277294975" seo="true" ref="index"/>
-    <file name="wines-home19396x403.jpg" crc="3882187953" seo="true" ref="index"/>
+    <file name="wines-home19396x403.jpg" crc="3987500376" seo="true" ref="index"/>
     <file name="logo2019-header18001124x556.jpg" crc="391279279" seo="true" ref="index"/>
-    <file name="seminars-home19378x378.jpg" crc="290022303" seo="true" ref="index"/>
-    <file name="wines-home19371x378.jpg" crc="4234154039" seo="true" ref="index"/>
+    <file name="seminars-home19378x378.jpg" crc="246722458" seo="true" ref="index"/>
+    <file name="wines-home19371x378.jpg" crc="3895030585" seo="true" ref="index"/>
     <file name="logo2019-header18001070x530.jpg" crc="3786334418" seo="true" ref="index"/>
-    <file name="seminars-home19360x360.jpg" crc="88701242" seo="true" ref="index"/>
-    <file name="wines-home19354x360.jpg" crc="247951581" seo="true" ref="index"/>
+    <file name="seminars-home19360x360.jpg" crc="4146481286" seo="true" ref="index"/>
+    <file name="wines-home19354x360.jpg" crc="508666525" seo="true" ref="index"/>
     <file name="logo2019-header18001024x507.jpg" crc="3952239288" seo="true" ref="index"/>
-    <file name="seminars-home19344x344.jpg" crc="3890388349" seo="true" ref="index"/>
-    <file name="wines-home19338x344.jpg" crc="8306705" seo="true" ref="index"/>
+    <file name="seminars-home19344x344.jpg" crc="4146778649" seo="true" ref="index"/>
+    <file name="wines-home19338x344.jpg" crc="82593435" seo="true" ref="index"/>
     <file name="logo2019-header1800997x494.jpg" crc="4055817947" seo="true" ref="index"/>
-    <file name="seminars-home19335x335.jpg" crc="442309727" seo="true" ref="index"/>
-    <file name="wines-home19329x335.jpg" crc="4124485121" seo="true" ref="index"/>
+    <file name="seminars-home19335x335.jpg" crc="91826114" seo="true" ref="index"/>
+    <file name="wines-home19329x335.jpg" crc="4286515142" seo="true" ref="index"/>
     <file name="logo2019-header1800939x465.jpg" crc="3834771815" seo="true" ref="index"/>
-    <file name="seminars-home19316x316.jpg" crc="4147626446" seo="true" ref="index"/>
-    <file name="wines-home19310x316.jpg" crc="4014127732" seo="true" ref="index"/>
+    <file name="seminars-home19316x316.jpg" crc="3784714694" seo="true" ref="index"/>
+    <file name="wines-home19310x316.jpg" crc="3876366393" seo="true" ref="index"/>
     <file name="logo2019-header1800899x445.jpg" crc="324941749" seo="true" ref="index"/>
-    <file name="seminars-home19302x302.jpg" crc="4078898610" seo="true" ref="index"/>
-    <file name="wines-home19297x302.jpg" crc="30500684" seo="true" ref="index"/>
+    <file name="seminars-home19302x302.jpg" crc="96170570" seo="true" ref="index"/>
+    <file name="wines-home19297x302.jpg" crc="526991359" seo="true" ref="index"/>
     <file name="logo2019-header1800850x421.jpg" crc="3874929618" seo="true" ref="index"/>
-    <file name="seminars-home19286x286.jpg" crc="315609816" seo="true" ref="index"/>
-    <file name="wines-home19281x286.jpg" crc="3862407272" seo="true" ref="index"/>
+    <file name="seminars-home19286x286.jpg" crc="4113584420" seo="true" ref="index"/>
+    <file name="wines-home19281x286.jpg" crc="4049414810" seo="true" ref="index"/>
     <file name="logo2019-header1800802x397.jpg" crc="3790109463" seo="true" ref="index"/>
-    <file name="seminars-home19270x270.jpg" crc="366224492" seo="true" ref="index"/>
-    <file name="wines-home19265x270.jpg" crc="9215788" seo="true" ref="index"/>
+    <file name="seminars-home19270x270.jpg" crc="3975980490" seo="true" ref="index"/>
+    <file name="wines-home19265x270.jpg" crc="506045819" seo="true" ref="index"/>
     <file name="logo2019-header1800768x380.jpg" crc="4199493167" seo="true" ref="index"/>
-    <file name="seminars-home19258x258.jpg" crc="4121805975" seo="true" ref="index"/>
-    <file name="wines-home19254x258.jpg" crc="4034677900" seo="true" ref="index"/>
+    <file name="seminars-home19258x258.jpg" crc="4284286827" seo="true" ref="index"/>
+    <file name="wines-home19254x258.jpg" crc="439550943" seo="true" ref="index"/>
     <file name="logo2019-header1800736x365.jpg" crc="443254183" seo="true" ref="index"/>
-    <file name="seminars-home19248x248.jpg" crc="509390249" seo="true" ref="index"/>
-    <file name="wines-home19243x248.jpg" crc="93844232" seo="true" ref="index"/>
+    <file name="seminars-home19248x248.jpg" crc="3786797028" seo="true" ref="index"/>
+    <file name="wines-home19243x248.jpg" crc="4137972757" seo="true" ref="index"/>
     <file name="logo2019-header1800705x349.jpg" crc="4020248069" seo="true" ref="index"/>
-    <file name="seminars-home19237x237.jpg" crc="272804406" seo="true" ref="index"/>
-    <file name="wines-home19233x237.jpg" crc="401559881" seo="true" ref="index"/>
+    <file name="seminars-home19237x237.jpg" crc="398540006" seo="true" ref="index"/>
+    <file name="wines-home19233x237.jpg" crc="4100083765" seo="true" ref="index"/>
     <file name="logo2019-header1800667x330.jpg" crc="442796372" seo="true" ref="index"/>
-    <file name="seminars-home19224x224.jpg" crc="3790476094" seo="true" ref="index"/>
-    <file name="wines-home19221x225.jpg" crc="330528768" seo="true" ref="index"/>
+    <file name="seminars-home19224x224.jpg" crc="3975619806" seo="true" ref="index"/>
+    <file name="wines-home19221x225.jpg" crc="4123943302" seo="true" ref="index"/>
     <file name="logo2019-header1800631x313.jpg" crc="104824836" seo="true" ref="index"/>
-    <file name="seminars-home19212x212.jpg" crc="3782637540" seo="true" ref="index"/>
-    <file name="wines-home19209x212.jpg" crc="100210034" seo="true" ref="index"/>
+    <file name="seminars-home19212x212.jpg" crc="4197409032" seo="true" ref="index"/>
+    <file name="wines-home19209x212.jpg" crc="3875719067" seo="true" ref="index"/>
     <file name="logo2019-header1800568x281.jpg" crc="3811405781" seo="true" ref="index"/>
-    <file name="seminars-home19191x191.jpg" crc="199041494" seo="true" ref="index"/>
-    <file name="wines-home19188x191.jpg" crc="4094524515" seo="true" ref="index"/>
+    <file name="seminars-home19191x191.jpg" crc="241830911" seo="true" ref="index"/>
+    <file name="wines-home19188x191.jpg" crc="414678461" seo="true" ref="index"/>
     <file name="logo2019-header1800480x238.jpg" crc="217031653" seo="true" ref="index"/>
-    <file name="seminars-home19.jpg" crc="189110655" seo="true" ref="index"/>
-    <file name="wines-home19.jpg" crc="4201858339" seo="true" ref="index"/>
+    <file name="seminars-home19.jpg" crc="474917425" seo="true" ref="index"/>
+    <file name="wines-home19.jpg" crc="237081295" seo="true" ref="index"/>
     <file name="logo2019-header1800414x205.jpg" crc="183617620" seo="true" ref="index"/>
-    <file name="seminars-home19414x414.jpg" crc="280317441" seo="true" ref="index"/>
-    <file name="wines-home19408x415.jpg" crc="185768591" seo="true" ref="index"/>
+    <file name="seminars-home19414x414.jpg" crc="127703042" seo="true" ref="index"/>
+    <file name="wines-home19408x415.jpg" crc="285987986" seo="true" ref="index"/>
     <file name="logo2019-header1800375x186.jpg" crc="395996728" seo="true" ref="index"/>
-    <file name="seminars-home19375x375.jpg" crc="493730364" seo="true" ref="index"/>
-    <file name="wines-home19369x376.jpg" crc="4213191484" seo="true" ref="index"/>
+    <file name="seminars-home19375x375.jpg" crc="4289772721" seo="true" ref="index"/>
+    <file name="wines-home19369x376.jpg" crc="409806420" seo="true" ref="index"/>
     <file name="logo2019-header1800320x159.jpg" crc="434530108" seo="true" ref="index"/>
-    <file name="seminars-home19320x320.jpg" crc="526777272" seo="true" ref="index"/>
-    <file name="wines-home19315x321.jpg" crc="3774001322" seo="true" ref="index"/>
+    <file name="seminars-home19320x320.jpg" crc="4142755563" seo="true" ref="index"/>
+    <file name="wines-home19315x321.jpg" crc="97183781" seo="true" ref="index"/>
     <file name="collage1800.jpg" crc="50968184" seo="true" ref="index"/>
     <file name="collage1800_2x.jpg" crc="36407326" seo="true" ref="index"/>
     <file name="collage18001124x557.jpg" crc="361263835" seo="true" ref="index"/>
@@ -1262,37 +1263,18 @@
     <file name="weekend19335x447_2x.jpg" crc="3807872647" seo="true" ref="index"/>
     <file name="weekend19278x371.jpg" crc="513447103" seo="true" ref="index"/>
     <file name="weekend19278x371_2x.jpg" crc="370605976" seo="true" ref="index"/>
-    <file name="schedule-home401x403.jpg" crc="4063801795" seo="true" ref="index"/>
-    <file name="schedule-home376x378.jpg" crc="4221445693" seo="true" ref="index"/>
-    <file name="schedule-home358x360.jpg" crc="393938734" seo="true" ref="index"/>
-    <file name="schedule-home343x344.jpg" crc="3862451273" seo="true" ref="index"/>
-    <file name="schedule-home334x335.jpg" crc="359664424" seo="true" ref="index"/>
-    <file name="schedule-home314x316.jpg" crc="3824534183" seo="true" ref="index"/>
-    <file name="schedule-home301x302.jpg" crc="3857959318" seo="true" ref="index"/>
-    <file name="schedule-home285x286.jpg" crc="294659800" seo="true" ref="index"/>
-    <file name="schedule-home268x270.jpg" crc="4043243073" seo="true" ref="index"/>
-    <file name="schedule-home257x258.jpg" crc="112219987" seo="true" ref="index"/>
-    <file name="schedule-home246x248.jpg" crc="435577182" seo="true" ref="index"/>
-    <file name="schedule-home236x237.jpg" crc="460879699" seo="true" ref="index"/>
-    <file name="schedule-home223x225.jpg" crc="217025762" seo="true" ref="index"/>
-    <file name="schedule-home211x212.jpg" crc="187270241" seo="true" ref="index"/>
-    <file name="schedule-home190x191.jpg" crc="4164706309" seo="true" ref="index"/>
-    <file name="schedule-home.jpg" crc="4015659155" seo="true" ref="index"/>
-    <file name="schedule-home414x417.jpg" crc="3789278944" seo="true" ref="index"/>
-    <file name="schedule-home376x377.jpg" crc="4186206626" seo="true" ref="index"/>
-    <file name="schedule-home320x322.jpg" crc="461147227" seo="true" ref="index"/>
-    <file name="logo-header19-pages.png" crc="510396525" seo="true" ref="tickets:seminars:travel:schedule:wines:faq:about:wineries"/>
-    <file name="logo-header19-pages929x173.png" crc="510396525" seo="true" ref="tickets"/>
-    <file name="logo-header19-pages906x169.png" crc="510396525" seo="true" ref="tickets"/>
-    <file name="logo-header19-pages792x147.png" crc="510396525" seo="true" ref="tickets"/>
-    <file name="logo-header19-pages657x122.png" crc="4119088543" seo="true" ref="tickets"/>
-    <file name="logo-header19-pages637x119.png" crc="301567179" seo="true" ref="tickets"/>
-    <file name="logo-header19-pages601x112.png" crc="4046108889" seo="true" ref="tickets"/>
-    <file name="logo-header19-pages519x97.png" crc="245087566" seo="true" ref="tickets"/>
-    <file name="logo-header19-pages429x80.png" crc="206838712" seo="true" ref="tickets"/>
-    <file name="logo-header19-pages375x70.png" crc="3897846373" seo="true" ref="tickets"/>
-    <file name="logo-header19-pages348x65.png" crc="77494718" seo="true" ref="tickets"/>
-    <file name="logo-header19-pages301x56.png" crc="406638244" seo="true" ref="tickets"/>
+    <file name="logo-header19-pages.png" crc="510396525" seo="true" ref="tickets:seminars:travel:schedule:wines:faq:about:wineries:2018-seminars"/>
+    <file name="logo-header19-pages929x173.png" crc="510396525" seo="true" ref="tickets:schedule"/>
+    <file name="logo-header19-pages906x169.png" crc="510396525" seo="true" ref="tickets:schedule"/>
+    <file name="logo-header19-pages792x147.png" crc="510396525" seo="true" ref="tickets:schedule"/>
+    <file name="logo-header19-pages657x122.png" crc="4119088543" seo="true" ref="tickets:schedule"/>
+    <file name="logo-header19-pages637x119.png" crc="301567179" seo="true" ref="tickets:schedule"/>
+    <file name="logo-header19-pages601x112.png" crc="4046108889" seo="true" ref="tickets:schedule"/>
+    <file name="logo-header19-pages519x97.png" crc="245087566" seo="true" ref="tickets:schedule"/>
+    <file name="logo-header19-pages429x80.png" crc="206838712" seo="true" ref="tickets:schedule"/>
+    <file name="logo-header19-pages375x70.png" crc="3897846373" seo="true" ref="tickets:schedule"/>
+    <file name="logo-header19-pages348x65.png" crc="77494718" seo="true" ref="tickets:schedule"/>
+    <file name="logo-header19-pages301x56.png" crc="406638244" seo="true" ref="tickets:schedule"/>
     <file name="logo-header19-pages631x117.png" crc="4099858260" seo="true" ref="travel"/>
     <file name="grand-tastings19sale_2x.jpg" crc="4287790197" seo="true" ref="index"/>
     <file name="grand-tastings19sale_2x_2x.jpg" crc="4270389473" seo="true" ref="index"/>
@@ -1332,14 +1314,159 @@
     <file name="grand-tastings19sale_2x335x447_2x.jpg" crc="190350607" seo="true" ref="index"/>
     <file name="grand-tastings19sale_2x278x371.jpg" crc="2963560" seo="true" ref="index"/>
     <file name="grand-tastings19sale_2x278x371_2x.jpg" crc="113293790" seo="true" ref="index"/>
+    <file name="seminars-home19404x404.jpg" crc="4180093825" seo="true" ref="index"/>
+    <file name="marriott.jpg" crc="395290850" seo="true" ref="index"/>
+    <file name="marriott_2x.jpg" crc="462453981" seo="true" ref="index"/>
+    <file name="hotel-image-bar.jpg" crc="526147292" seo="true" ref="index"/>
+    <file name="hotel-image-bar_2x.jpg" crc="3952393283" seo="true" ref="index"/>
+    <file name="marriott534x330.jpg" crc="375120369" seo="true" ref="index"/>
+    <file name="marriott534x330_2x.jpg" crc="462453981" seo="true" ref="index"/>
+    <file name="hotel-image-bar1124x250.jpg" crc="302978687" seo="true" ref="index"/>
+    <file name="hotel-image-bar1124x250_2x.jpg" crc="4050007370" seo="true" ref="index"/>
+    <file name="marriott508x314.jpg" crc="301107788" seo="true" ref="index"/>
+    <file name="marriott508x314_2x.jpg" crc="462453981" seo="true" ref="index"/>
+    <file name="hotel-image-bar1070x238.jpg" crc="97611945" seo="true" ref="index"/>
+    <file name="hotel-image-bar1070x238_2x.jpg" crc="3829170359" seo="true" ref="index"/>
+    <file name="marriott487x301.jpg" crc="439957106" seo="true" ref="index"/>
+    <file name="marriott487x301_2x.jpg" crc="62940117" seo="true" ref="index"/>
+    <file name="hotel-image-bar1024x227.jpg" crc="3978056538" seo="true" ref="index"/>
+    <file name="hotel-image-bar1024x227_2x.jpg" crc="483122339" seo="true" ref="index"/>
+    <file name="marriott474x293.jpg" crc="4155348975" seo="true" ref="index"/>
+    <file name="marriott474x293_2x.jpg" crc="172104866" seo="true" ref="index"/>
+    <file name="hotel-image-bar997x222.jpg" crc="293774218" seo="true" ref="index"/>
+    <file name="hotel-image-bar997x222_2x.jpg" crc="79021559" seo="true" ref="index"/>
+    <file name="marriott446x276.jpg" crc="503240990" seo="true" ref="index"/>
+    <file name="marriott446x276_2x.jpg" crc="134640028" seo="true" ref="index"/>
+    <file name="hotel-image-bar939x209.jpg" crc="3895433424" seo="true" ref="index"/>
+    <file name="hotel-image-bar939x209_2x.jpg" crc="3930490855" seo="true" ref="index"/>
+    <file name="marriott427x264.jpg" crc="6817523" seo="true" ref="index"/>
+    <file name="marriott427x264_2x.jpg" crc="3833783336" seo="true" ref="index"/>
+    <file name="hotel-image-bar899x200.jpg" crc="4163014951" seo="true" ref="index"/>
+    <file name="hotel-image-bar899x200_2x.jpg" crc="426269302" seo="true" ref="index"/>
+    <file name="marriott404x250.jpg" crc="4128264931" seo="true" ref="index"/>
+    <file name="marriott404x250_2x.jpg" crc="3788978506" seo="true" ref="index"/>
+    <file name="hotel-image-bar850x189.jpg" crc="383691886" seo="true" ref="index"/>
+    <file name="hotel-image-bar850x189_2x.jpg" crc="208139215" seo="true" ref="index"/>
+    <file name="marriott381x236.jpg" crc="314323927" seo="true" ref="index"/>
+    <file name="marriott381x236_2x.jpg" crc="4191769975" seo="true" ref="index"/>
+    <file name="hotel-image-bar802x178.jpg" crc="4096722780" seo="true" ref="index"/>
+    <file name="hotel-image-bar802x178_2x.jpg" crc="130633896" seo="true" ref="index"/>
+    <file name="marriott365x226.jpg" crc="3958378888" seo="true" ref="index"/>
+    <file name="marriott365x226_2x.jpg" crc="4158216104" seo="true" ref="index"/>
+    <file name="hotel-image-bar768x171.jpg" crc="4065591108" seo="true" ref="index"/>
+    <file name="hotel-image-bar768x171_2x.jpg" crc="4054059681" seo="true" ref="index"/>
+    <file name="marriott350x216.jpg" crc="44844888" seo="true" ref="index"/>
+    <file name="marriott350x216_2x.jpg" crc="3906242322" seo="true" ref="index"/>
+    <file name="hotel-image-bar736x164.jpg" crc="232227025" seo="true" ref="index"/>
+    <file name="hotel-image-bar736x164_2x.jpg" crc="3835569167" seo="true" ref="index"/>
+    <file name="marriott335x207.jpg" crc="3965102476" seo="true" ref="index"/>
+    <file name="marriott335x207_2x.jpg" crc="3972746263" seo="true" ref="index"/>
+    <file name="hotel-image-bar705x157.jpg" crc="4173673824" seo="true" ref="index"/>
+    <file name="hotel-image-bar705x157_2x.jpg" crc="4132628390" seo="true" ref="index"/>
+    <file name="marriott317x196.jpg" crc="356183646" seo="true" ref="index"/>
+    <file name="marriott317x196_2x.jpg" crc="256510616" seo="true" ref="index"/>
+    <file name="hotel-image-bar667x148.jpg" crc="3801450287" seo="true" ref="index"/>
+    <file name="hotel-image-bar667x148_2x.jpg" crc="86642959" seo="true" ref="index"/>
+    <file name="marriott300x186.jpg" crc="50826257" seo="true" ref="index"/>
+    <file name="marriott300x186_2x.jpg" crc="391110940" seo="true" ref="index"/>
+    <file name="hotel-image-bar631x140.jpg" crc="240710755" seo="true" ref="index"/>
+    <file name="hotel-image-bar631x140_2x.jpg" crc="206110357" seo="true" ref="index"/>
+    <file name="marriott270x167.jpg" crc="176297796" seo="true" ref="index"/>
+    <file name="marriott270x167_2x.jpg" crc="4094473331" seo="true" ref="index"/>
+    <file name="hotel-image-bar568x126.jpg" crc="3786584730" seo="true" ref="index"/>
+    <file name="hotel-image-bar568x126_2x.jpg" crc="4083619970" seo="true" ref="index"/>
+    <file name="marriott379x235.jpg" crc="4142450197" seo="true" ref="index"/>
+    <file name="marriott379x235_2x.jpg" crc="4027764035" seo="true" ref="index"/>
+    <file name="hotel-image-bar480x107.jpg" crc="319213541" seo="true" ref="index"/>
+    <file name="hotel-image-bar480x107_2x.jpg" crc="135302509" seo="true" ref="index"/>
+    <file name="marriott338x209.jpg" crc="3970736440" seo="true" ref="index"/>
+    <file name="marriott338x209_2x.jpg" crc="4137834111" seo="true" ref="index"/>
+    <file name="hotel-image-bar414x92.jpg" crc="3766286665" seo="true" ref="index"/>
+    <file name="hotel-image-bar414x92_2x.jpg" crc="53134170" seo="true" ref="index"/>
+    <file name="marriott331x205.jpg" crc="521046541" seo="true" ref="index"/>
+    <file name="marriott331x205_2x.jpg" crc="395947174" seo="true" ref="index"/>
+    <file name="hotel-image-bar375x84.jpg" crc="339386380" seo="true" ref="index"/>
+    <file name="hotel-image-bar375x84_2x.jpg" crc="4145012087" seo="true" ref="index"/>
+    <file name="marriott279x172.jpg" crc="215680185" seo="true" ref="index"/>
+    <file name="marriott279x172_2x.jpg" crc="326045787" seo="true" ref="index"/>
+    <file name="hotel-image-bar320x71.jpg" crc="3774862698" seo="true" ref="index"/>
+    <file name="hotel-image-bar320x71_2x.jpg" crc="3914889986" seo="true" ref="index"/>
+    <file name="seminars-pics1_2x.jpg" crc="4245995870" seo="true" ref="seminars"/>
+    <file name="seminars-pics1_2x_2x.jpg" crc="97634398" seo="true" ref="seminars"/>
+    <file name="seminars-pics2_2x.jpg" crc="123882484" seo="true" ref="seminars"/>
+    <file name="seminars-pics2_2x_2x.jpg" crc="206730612" seo="true" ref="seminars"/>
+    <file name="seminars-pics1_2x455x149.jpg" crc="189180043" seo="true" ref="seminars"/>
+    <file name="seminars-pics1_2x455x149_2x.jpg" crc="265150318" seo="true" ref="seminars"/>
+    <file name="seminars-pics2_2x455x149.jpg" crc="3933254228" seo="true" ref="seminars"/>
+    <file name="seminars-pics2_2x455x149_2x.jpg" crc="4142190863" seo="true" ref="seminars"/>
+    <file name="seminars-pics1_2x436x143.jpg" crc="3848511299" seo="true" ref="seminars"/>
+    <file name="seminars-pics1_2x436x143_2x.jpg" crc="62118758" seo="true" ref="seminars"/>
+    <file name="seminars-pics2_2x436x143.jpg" crc="4100814197" seo="true" ref="seminars"/>
+    <file name="seminars-pics2_2x436x143_2x.jpg" crc="131029571" seo="true" ref="seminars"/>
+    <file name="seminars-pics1_2x383x126.jpg" crc="4171368827" seo="true" ref="seminars"/>
+    <file name="seminars-pics1_2x383x126_2x.jpg" crc="3870165819" seo="true" ref="seminars"/>
+    <file name="seminars-pics2_2x383x126.jpg" crc="486605280" seo="true" ref="seminars"/>
+    <file name="seminars-pics2_2x383x126_2x.jpg" crc="3994770277" seo="true" ref="seminars"/>
+    <file name="seminars-pics1_2x327x107.jpg" crc="4212841863" seo="true" ref="seminars"/>
+    <file name="seminars-pics1_2x327x107_2x.jpg" crc="4066898823" seo="true" ref="seminars"/>
+    <file name="seminars-pics2_2x327x107.jpg" crc="3860972964" seo="true" ref="seminars"/>
+    <file name="seminars-pics2_2x327x107_2x.jpg" crc="395172229" seo="true" ref="seminars"/>
+    <file name="seminars-pics1_2x313x103.jpg" crc="410928273" seo="true" ref="seminars"/>
+    <file name="seminars-pics1_2x313x103_2x.jpg" crc="418835199" seo="true" ref="seminars"/>
+    <file name="seminars-pics2_2x313x103.jpg" crc="346457309" seo="true" ref="seminars"/>
+    <file name="seminars-pics2_2x313x103_2x.jpg" crc="3758883343" seo="true" ref="seminars"/>
+    <file name="seminars-pics1_2x284x93.jpg" crc="112785192" seo="true" ref="seminars"/>
+    <file name="seminars-pics1_2x284x93_2x.jpg" crc="488026230" seo="true" ref="seminars"/>
+    <file name="seminars-pics2_2x284x93.jpg" crc="4112396347" seo="true" ref="seminars"/>
+    <file name="seminars-pics2_2x284x93_2x.jpg" crc="4139388775" seo="true" ref="seminars"/>
+    <file name="seminars-pics1_2x242x80.jpg" crc="4180036063" seo="true" ref="seminars"/>
+    <file name="seminars-pics1_2x242x80_2x.jpg" crc="3984370145" seo="true" ref="seminars"/>
+    <file name="seminars-pics2_2x242x80.jpg" crc="502070418" seo="true" ref="seminars"/>
+    <file name="seminars-pics2_2x242x80_2x.jpg" crc="4045839091" seo="true" ref="seminars"/>
+    <file name="seminars-pics1_2x410x135.jpg" crc="328375221" seo="true" ref="seminars"/>
+    <file name="seminars-pics1_2x410x135_2x.jpg" crc="172205627" seo="true" ref="seminars"/>
+    <file name="seminars-pics2_2x410x135.jpg" crc="3922564942" seo="true" ref="seminars"/>
+    <file name="seminars-pics2_2x410x135_2x.jpg" crc="52889751" seo="true" ref="seminars"/>
+    <file name="seminars-pics1_2x354x116.jpg" crc="196373574" seo="true" ref="seminars"/>
+    <file name="seminars-pics1_2x354x116_2x.jpg" crc="401554322" seo="true" ref="seminars"/>
+    <file name="seminars-pics2_2x354x116.jpg" crc="4210495092" seo="true" ref="seminars"/>
+    <file name="seminars-pics2_2x354x116_2x.jpg" crc="401774111" seo="true" ref="seminars"/>
+    <file name="seminars-pics1_2x321x105.jpg" crc="395115772" seo="true" ref="seminars"/>
+    <file name="seminars-pics1_2x321x105_2x.jpg" crc="3989856681" seo="true" ref="seminars"/>
+    <file name="seminars-pics2_2x321x105.jpg" crc="335698031" seo="true" ref="seminars"/>
+    <file name="seminars-pics2_2x321x105_2x.jpg" crc="506019367" seo="true" ref="seminars"/>
+    <file name="seminars-pics1_2x274x90.jpg" crc="398763358" seo="true" ref="seminars"/>
+    <file name="seminars-pics1_2x274x90_2x.jpg" crc="447603364" seo="true" ref="seminars"/>
+    <file name="seminars-pics2_2x274x90.jpg" crc="380264414" seo="true" ref="seminars"/>
+    <file name="seminars-pics2_2x274x90_2x.jpg" crc="4106568005" seo="true" ref="seminars"/>
+    <file name="schedule-home3401x403.jpg" crc="3891183797" seo="true" ref="index"/>
+    <file name="schedule-home3376x378.jpg" crc="3838681137" seo="true" ref="index"/>
+    <file name="schedule-home3358x360.jpg" crc="4058140678" seo="true" ref="index"/>
+    <file name="schedule-home3343x344.jpg" crc="4162346946" seo="true" ref="index"/>
+    <file name="schedule-home3334x335.jpg" crc="4252740740" seo="true" ref="index"/>
+    <file name="schedule-home3314x316.jpg" crc="303867806" seo="true" ref="index"/>
+    <file name="schedule-home3301x302.jpg" crc="4209324581" seo="true" ref="index"/>
+    <file name="schedule-home3285x286.jpg" crc="261161020" seo="true" ref="index"/>
+    <file name="schedule-home3268x270.jpg" crc="363258705" seo="true" ref="index"/>
+    <file name="schedule-home3257x258.jpg" crc="3919956667" seo="true" ref="index"/>
+    <file name="schedule-home3246x247.jpg" crc="3968115159" seo="true" ref="index"/>
+    <file name="schedule-home3236x237.jpg" crc="282810020" seo="true" ref="index"/>
+    <file name="schedule-home3223x224.jpg" crc="274608400" seo="true" ref="index"/>
+    <file name="schedule-home3211x212.jpg" crc="3853571189" seo="true" ref="index"/>
+    <file name="schedule-home3190x191.jpg" crc="470557442" seo="true" ref="index"/>
+    <file name="schedule-home3.jpg" crc="77656183" seo="true" ref="index"/>
+    <file name="schedule-home3414x416.jpg" crc="4192492912" seo="true" ref="index"/>
+    <file name="schedule-home3376x377.jpg" crc="3975966247" seo="true" ref="index"/>
+    <file name="schedule-home3320x322.jpg" crc="161947587" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="91391412" seo="true" mt="1558124897222" redirect="true"/>
-  <file name="tickets.html" crc="4031552514" seo="true" mt="1558124934017" redirect="true"/>
-  <file name="seminars.html" crc="187630440" seo="true" mt="1558124934017" redirect="true"/>
+  <file name="index.html" crc="3829388888" seo="true" mt="1560264945067" redirect="true"/>
+  <file name="tickets.html" crc="347938145" seo="true" mt="1559837395259" redirect="true"/>
+  <file name="seminars.html" crc="4081939155" seo="true" mt="1560308749552" redirect="true"/>
   <file name="travel.html" crc="188920817" seo="true" mt="1558124934017" redirect="true"/>
-  <file name="schedule.html" crc="88640710" seo="true" mt="1558124934017" redirect="true"/>
+  <file name="schedule.html" crc="534455848" seo="true" mt="1560308174118" redirect="true"/>
   <file name="wines.html" crc="3976079975" seo="true" mt="1558124934017" redirect="true"/>
   <file name="faq.html" crc="162475175" seo="true" mt="1558124934017" redirect="true"/>
   <file name="about.html" crc="320184392" seo="true" mt="1558124934017" redirect="true"/>
   <file name="wineries.html" crc="202763618" seo="true" mt="1558124934017" redirect="true"/>
+  <file name="2018-seminars.html" crc="4061064694" seo="true" mt="1559837395270" redirect="true"/>
 </manifest>
