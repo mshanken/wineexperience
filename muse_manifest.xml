@@ -1,13 +1,13 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nywineexperience.com" resolutions="1x,2x" timestamp="1563310125910">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nywineexperience.com" resolutions="1x,2x" timestamp="1563311011592">
   <folder name="assets">
     <file name="nywe18-floorplan.pdf" crc="37617516" seo="true" mt="1537299229000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4104560714"/>
-    <file name="index.css" crc="3904588958" ref="index"/>
-    <file name="nomq_index.css" crc="244295378" ref="index"/>
-    <file name="master_a-master-new.css" crc="457942587" ref="index"/>
-    <file name="nomq_preview_master_a-master-new.css" crc="4074126921" ref="index"/>
+    <file name="index.css" crc="257230810" ref="index"/>
+    <file name="nomq_index.css" crc="83676350" ref="index"/>
+    <file name="master_a-master-new.css" crc="163683082" ref="index"/>
+    <file name="nomq_preview_master_a-master-new.css" crc="4052827824" ref="index"/>
     <file name="seminars.css" crc="4093391160" ref="seminars"/>
     <file name="nomq_seminars.css" crc="4124871543" ref="seminars"/>
     <file name="tickets.css" crc="173770576" ref="tickets"/>
@@ -1077,9 +1077,9 @@
     <file name="google-play43x43.png" crc="3844416262" seo="true" ref="index:schedule"/>
     <file name="google-play43x43_2x.png" crc="287650663" seo="true" ref="index:schedule"/>
     <file name="app-store42x42.png" crc="3914490363" seo="true" ref="index:schedule"/>
-    <file name="app-store42x42_2x.png" crc="3816765022" seo="true" ref="index:schedule"/>
+    <file name="app-store42x42_2x.png" crc="172209502" seo="true" ref="index:schedule"/>
     <file name="google-play42x42.png" crc="4041887219" seo="true" ref="index:schedule"/>
-    <file name="google-play42x42_2x.png" crc="372184738" seo="true" ref="index:schedule"/>
+    <file name="google-play42x42_2x.png" crc="406171566" seo="true" ref="index:schedule"/>
     <file name="app-store40x40.png" crc="96675981" seo="true" ref="index"/>
     <file name="app-store40x40_2x.png" crc="440748723" seo="true" ref="index"/>
     <file name="google-play40x40.png" crc="3839489000" seo="true" ref="index"/>
@@ -1484,27 +1484,27 @@
     <file name="on-sale82x82_2x.png" crc="157169960" seo="true" ref="index"/>
     <file name="on-sale117x117.png" crc="82906624" seo="true" ref="index"/>
     <file name="on-sale117x117_2x.png" crc="449073184" seo="true" ref="index"/>
-    <file name="wines-home396x403.jpg" crc="291505934" seo="true" ref="index"/>
-    <file name="wines-home371x378.jpg" crc="422749709" seo="true" ref="index"/>
-    <file name="wines-home354x360.jpg" crc="497744392" seo="true" ref="index"/>
-    <file name="wines-home338x344.jpg" crc="30472121" seo="true" ref="index"/>
-    <file name="wines-home329x335.jpg" crc="285226648" seo="true" ref="index"/>
-    <file name="wines-home310x316.jpg" crc="3852726785" seo="true" ref="index"/>
-    <file name="wines-home297x302.jpg" crc="3830456440" seo="true" ref="index"/>
-    <file name="wines-home281x286.jpg" crc="207174354" seo="true" ref="index"/>
-    <file name="wines-home265x270.jpg" crc="3981928207" seo="true" ref="index"/>
-    <file name="wines-home254x258.jpg" crc="4207604689" seo="true" ref="index"/>
-    <file name="wines-home243x248.jpg" crc="4210888955" seo="true" ref="index"/>
-    <file name="wines-home233x237.jpg" crc="151763131" seo="true" ref="index"/>
-    <file name="wines-home221x225.jpg" crc="3874863345" seo="true" ref="index"/>
-    <file name="wines-home209x212.jpg" crc="4126409627" seo="true" ref="index"/>
-    <file name="wines-home188x191.jpg" crc="3912193572" seo="true" ref="index"/>
-    <file name="wines-home.jpg" crc="354699477" seo="true" ref="index"/>
-    <file name="wines-home408x415.jpg" crc="238277791" seo="true" ref="index"/>
-    <file name="wines-home369x376.jpg" crc="426458106" seo="true" ref="index"/>
-    <file name="wines-home315x321.jpg" crc="3842499873" seo="true" ref="index"/>
+    <file name="wines-home19396x403.jpg" crc="3987500376" seo="true" ref="index"/>
+    <file name="wines-home19371x378.jpg" crc="3895030585" seo="true" ref="index"/>
+    <file name="wines-home19354x360.jpg" crc="508666525" seo="true" ref="index"/>
+    <file name="wines-home19338x344.jpg" crc="82593435" seo="true" ref="index"/>
+    <file name="wines-home19329x335.jpg" crc="4286515142" seo="true" ref="index"/>
+    <file name="wines-home19310x316.jpg" crc="3876366393" seo="true" ref="index"/>
+    <file name="wines-home19297x302.jpg" crc="526991359" seo="true" ref="index"/>
+    <file name="wines-home19281x286.jpg" crc="4049414810" seo="true" ref="index"/>
+    <file name="wines-home19265x270.jpg" crc="506045819" seo="true" ref="index"/>
+    <file name="wines-home19254x258.jpg" crc="439550943" seo="true" ref="index"/>
+    <file name="wines-home19243x248.jpg" crc="4137972757" seo="true" ref="index"/>
+    <file name="wines-home19233x237.jpg" crc="4100083765" seo="true" ref="index"/>
+    <file name="wines-home19221x225.jpg" crc="4123943302" seo="true" ref="index"/>
+    <file name="wines-home19209x212.jpg" crc="3875719067" seo="true" ref="index"/>
+    <file name="wines-home19188x191.jpg" crc="414678461" seo="true" ref="index"/>
+    <file name="wines-home19.jpg" crc="237081295" seo="true" ref="index"/>
+    <file name="wines-home19408x415.jpg" crc="285987986" seo="true" ref="index"/>
+    <file name="wines-home19369x376.jpg" crc="409806420" seo="true" ref="index"/>
+    <file name="wines-home19315x321.jpg" crc="97183781" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4271105460" seo="true" mt="1563203202835" redirect="true"/>
+  <file name="index.html" crc="386466273" seo="true" mt="1563310946235" redirect="true"/>
   <file name="tickets.html" crc="347938145" seo="true" mt="1559837395259" redirect="true"/>
   <file name="seminars.html" crc="260623369" seo="true" mt="1563309997964" redirect="true"/>
   <file name="travel.html" crc="188920817" seo="true" mt="1558124934017" redirect="true"/>
