@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nywineexperience.com" resolutions="1x,2x" timestamp="1565105270794">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="nywineexperience.com" resolutions="1x,2x" timestamp="1566234151018">
   <folder name="assets">
     <file name="nywe18-floorplan.pdf" crc="37617516" seo="true" mt="1537299229000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="4104560714"/>
+    <file name="site_global.css" crc="4182886807"/>
     <file name="index.css" crc="464936856" ref="index"/>
     <file name="nomq_index.css" crc="402323555" ref="index"/>
     <file name="master_a-master-new.css" crc="249806922" ref="index"/>
@@ -12,7 +12,7 @@
     <file name="nomq_seminars.css" crc="3938823710" ref="seminars"/>
     <file name="tickets.css" crc="314392703" ref="tickets"/>
     <file name="nomq_tickets.css" crc="108637795" ref="tickets"/>
-    <file name="schedule.css" crc="4045916440" ref="schedule"/>
+    <file name="schedule.css" crc="3945168253" ref="schedule"/>
     <file name="nomq_schedule.css" crc="103637465" ref="schedule"/>
     <file name="travel.css" crc="4074527852" ref="travel"/>
     <file name="nomq_travel.css" crc="524667404" ref="travel"/>
@@ -22,11 +22,11 @@
     <file name="nomq_faq.css" crc="3812077057" ref="faq"/>
     <file name="about.css" crc="4134533403" ref="about"/>
     <file name="nomq_about.css" crc="4060140599" ref="about"/>
-    <file name="wineries.css" crc="4250127565" ref="wineries"/>
-    <file name="nomq_wineries.css" crc="3890497672" ref="wineries"/>
+    <file name="wineries.css" crc="316140727" ref="wineries"/>
+    <file name="nomq_wineries.css" crc="3857469126" ref="wineries"/>
     <file name="master_page-master-new2.css" crc="47228190" ref="tickets:travel"/>
     <file name="nomq_preview_master_page-master-new2.css" crc="409514771" ref="tickets:travel"/>
-    <file name="master_page-master-nav.css" crc="4136084238" ref="seminars:faq:about:schedule:wines:wineries:2019-seminars"/>
+    <file name="master_page-master-nav.css" crc="3859026801" ref="seminars:faq:about:schedule:wines:wineries:2019-seminars"/>
     <file name="nomq_preview_master_page-master-nav.css" crc="387385958" ref="seminars:faq:about:schedule:wines:wineries:2019-seminars"/>
     <file name="2019-seminars.css" crc="428105612" ref="2019-seminars"/>
     <file name="nomq_2019-seminars.css" crc="49998873" ref="2019-seminars"/>
@@ -1650,10 +1650,10 @@
   <file name="tickets.html" crc="3820497976" seo="true" mt="1564057173152" redirect="true"/>
   <file name="seminars.html" crc="444229745" seo="true" mt="1564068118960" redirect="true"/>
   <file name="travel.html" crc="188920817" seo="true" mt="1558124934017" redirect="true"/>
-  <file name="schedule.html" crc="3872722194" seo="true" mt="1565105213537" redirect="true"/>
+  <file name="schedule.html" crc="4127049500" seo="true" mt="1566228407723" redirect="true"/>
   <file name="wines.html" crc="352327317" seo="true" mt="1564068118960" redirect="true"/>
   <file name="faq.html" crc="534005130" seo="true" mt="1564068118960" redirect="true"/>
   <file name="about.html" crc="4053802687" seo="true" mt="1564068118960" redirect="true"/>
-  <file name="wineries.html" crc="229132777" seo="true" mt="1564170867303" redirect="true"/>
+  <file name="wineries.html" crc="3888523489" seo="true" mt="1566228562512" redirect="true"/>
   <file name="2019-seminars.html" crc="103714120" seo="true" mt="1564171381560" redirect="true"/>
 </manifest>
