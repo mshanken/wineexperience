@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://nywineexperience.com/index.html</loc>
-    <lastmod>2019-09-18</lastmod>
+    <lastmod>2019-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -3236,7 +3236,7 @@
   </url>
   <url>
     <loc>http://nywineexperience.com/2019-seminars.html</loc>
-    <lastmod>2019-09-11</lastmod>
+    <lastmod>2019-09-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -3246,10 +3246,124 @@
       <image:loc>http://nywineexperience.com/images/top_2x.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://nywineexperience.com/images/app-store50x50.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://nywineexperience.com/images/app-store_2x.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://nywineexperience.com/images/wsevents50x50.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/google-play50x50.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://nywineexperience.com/images/google-play_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/app-store47x47.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/app-store47x47_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/wsevents47x47.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/google-play47x47.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/google-play47x47_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/app-store45x45.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/app-store45x45_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/wsevents45x45.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/google-play45x45.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/google-play45x45_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/app-store43x43.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/app-store43x43_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/wsevents43x43.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/google-play43x43.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/google-play43x43_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/app-store42x42.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/app-store42x42_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/wsevents42x42.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/google-play42x42.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/google-play42x42_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/app-store38x38.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/app-store38x38_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/wsevents38x38.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/google-play38x38.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/google-play38x38_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/app-store49x49.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/app-store49x49_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/wsevents49x49.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/google-play49x49.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/google-play49x49_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/app-store44x44.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/app-store44x44_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/wsevents44x44.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/google-play44x44.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/google-play44x44_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nywineexperience.com/images/app-store.png</image:loc>
