@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nywineexperience.com" resolutions="1x" timestamp="1572311435870">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nywineexperience.com" resolutions="1x" timestamp="1572311744219">
   <folder name="css">
     <file name="site_global.css" crc="390033707"/>
     <file name="master_a-master-new.css" crc="33380191" ref="index"/>
@@ -13,8 +13,8 @@
     <file name="nomq_wines.css" crc="437651044" ref="wines"/>
     <file name="seminars.css" crc="4068865776" ref="seminars"/>
     <file name="nomq_seminars.css" crc="3900203366" ref="seminars"/>
-    <file name="2019-seminars.css" crc="299290600" ref="2019-seminars"/>
-    <file name="nomq_2019-seminars.css" crc="4127461704" ref="2019-seminars"/>
+    <file name="2019-seminars.css" crc="230833517" ref="2019-seminars"/>
+    <file name="nomq_2019-seminars.css" crc="3822354657" ref="2019-seminars"/>
     <file name="about.css" crc="3964773669" ref="about"/>
     <file name="nomq_about.css" crc="4243818487" ref="about"/>
     <file name="tickets.css" crc="163356789" ref="tickets"/>
@@ -331,19 +331,6 @@
       <caption webpage="schedule" alt=""/>
       <caption webpage="schedule" alt=""/>
       <caption webpage="schedule" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
@@ -399,6 +386,19 @@
       <caption webpage="tickets" alt=""/>
       <caption webpage="tickets" alt=""/>
       <caption webpage="tickets" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
       <caption webpage="wines" alt=""/>
       <caption webpage="wines" alt=""/>
       <caption webpage="wines" alt=""/>
@@ -461,19 +461,6 @@
       <caption webpage="schedule" alt=""/>
       <caption webpage="schedule" alt=""/>
       <caption webpage="schedule" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
@@ -527,6 +514,19 @@
       <caption webpage="tickets" alt=""/>
       <caption webpage="tickets" alt=""/>
       <caption webpage="tickets" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
       <caption webpage="wines" alt=""/>
       <caption webpage="wines" alt=""/>
       <caption webpage="wines" alt=""/>
@@ -589,19 +589,6 @@
       <caption webpage="schedule" alt=""/>
       <caption webpage="schedule" alt=""/>
       <caption webpage="schedule" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
@@ -657,6 +644,19 @@
       <caption webpage="tickets" alt=""/>
       <caption webpage="tickets" alt=""/>
       <caption webpage="tickets" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
       <caption webpage="wines" alt=""/>
       <caption webpage="wines" alt=""/>
       <caption webpage="wines" alt=""/>
@@ -1127,15 +1127,6 @@
       <caption webpage="schedule" alt=""/>
       <caption webpage="schedule" alt=""/>
       <caption webpage="schedule" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
@@ -1160,6 +1151,15 @@
       <caption webpage="tickets" alt=""/>
       <caption webpage="tickets" alt=""/>
       <caption webpage="tickets" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
       <caption webpage="wines" alt=""/>
       <caption webpage="wines" alt=""/>
       <caption webpage="wines" alt=""/>
@@ -1188,10 +1188,10 @@
     <file name="twitter.png" crc="4271290202" seo="true" ref="tickets:2019-seminars:travel:schedule:wines:faq:about:wineries:seminars">
       <caption webpage="2019-seminars" alt=""/>
       <caption webpage="schedule" alt=""/>
-      <caption webpage="travel" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="tickets" alt=""/>
+      <caption webpage="travel" alt=""/>
       <caption webpage="wines" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="faq" alt=""/>
@@ -1199,10 +1199,10 @@
     <file name="facebook.png" crc="4012376423" seo="true" ref="tickets:2019-seminars:travel:schedule:wines:faq:about:wineries:seminars">
       <caption webpage="2019-seminars" alt=""/>
       <caption webpage="schedule" alt=""/>
-      <caption webpage="travel" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="tickets" alt=""/>
+      <caption webpage="travel" alt=""/>
       <caption webpage="wines" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="faq" alt=""/>
@@ -3174,7 +3174,7 @@
   </folder>
   <file name="index.html" crc="3829562628" seo="true" mt="1572287144181" redirect="true"/>
   <file name="tickets.html" crc="30255460" seo="true" mt="1558124934017" redirect="true"/>
-  <file name="2019-seminars.html" crc="4130266205" seo="true" mt="1572310989232" redirect="true"/>
+  <file name="2019-seminars.html" crc="389070293" seo="true" mt="1572311685217" redirect="true"/>
   <file name="travel.html" crc="249375359" seo="true" mt="1558124934017" redirect="true"/>
   <file name="schedule.html" crc="3984019788" seo="true" mt="1572310989232" redirect="true"/>
   <file name="wines.html" crc="208062559" seo="true" mt="1572310992210" redirect="true"/>
