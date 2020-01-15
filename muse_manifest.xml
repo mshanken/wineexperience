@@ -1,32 +1,32 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nywineexperience.com" resolutions="1x" timestamp="1578951292822">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nywineexperience.com" resolutions="1x" timestamp="1579038584244">
   <folder name="css">
     <file name="site_global.css" crc="3794077883"/>
-    <file name="master_a-master-new.css" crc="413508374" ref="index"/>
-    <file name="nomq_preview_master_a-master-new.css" crc="449499885" ref="index"/>
+    <file name="master_a-master-new.css" crc="4119839855" ref="index"/>
+    <file name="nomq_preview_master_a-master-new.css" crc="515322850" ref="index"/>
     <file name="master_page-master-new2.css" crc="422996206" ref="tickets"/>
     <file name="nomq_preview_master_page-master-new2.css" crc="3819595948" ref="tickets"/>
-    <file name="master_page-master-nav.css" crc="4086307994" ref="wines:seminars:2019-seminars:about:schedule:faq:wineries:travel"/>
+    <file name="master_page-master-nav.css" crc="286638435" ref="wines:seminars:2019-seminars:about:schedule:faq:wineries:travel"/>
     <file name="nomq_preview_master_page-master-nav.css" crc="4089131756" ref="wines:seminars:2019-seminars:about:schedule:faq:wineries:travel"/>
-    <file name="travel.css" crc="3771263879" ref="travel"/>
+    <file name="travel.css" crc="182446741" ref="travel"/>
     <file name="nomq_travel.css" crc="4223196264" ref="travel"/>
-    <file name="wines.css" crc="3996552816" ref="wines"/>
-    <file name="nomq_wines.css" crc="3911281555" ref="wines"/>
-    <file name="seminars.css" crc="270039731" ref="seminars"/>
+    <file name="wines.css" crc="3855762871" ref="wines"/>
+    <file name="nomq_wines.css" crc="496307561" ref="wines"/>
+    <file name="seminars.css" crc="254904413" ref="seminars"/>
     <file name="nomq_seminars.css" crc="3980191665" ref="seminars"/>
-    <file name="2019-seminars.css" crc="4000466659" ref="2019-seminars"/>
-    <file name="nomq_2019-seminars.css" crc="3840864192" ref="2019-seminars"/>
-    <file name="about.css" crc="4094972647" ref="about"/>
+    <file name="2019-seminars.css" crc="166268505" ref="2019-seminars"/>
+    <file name="nomq_2019-seminars.css" crc="4141445820" ref="2019-seminars"/>
+    <file name="about.css" crc="328259877" ref="about"/>
     <file name="nomq_about.css" crc="510947815" ref="about"/>
     <file name="tickets.css" crc="163356789" ref="tickets"/>
     <file name="nomq_tickets.css" crc="4051329718" ref="tickets"/>
-    <file name="schedule.css" crc="3787930178" ref="schedule"/>
+    <file name="schedule.css" crc="40161132" ref="schedule"/>
     <file name="nomq_schedule.css" crc="3784000113" ref="schedule"/>
-    <file name="faq.css" crc="4114071566" ref="faq"/>
+    <file name="faq.css" crc="42042766" ref="faq"/>
     <file name="nomq_faq.css" crc="4006501861" ref="faq"/>
-    <file name="wineries.css" crc="3826329244" ref="wineries"/>
+    <file name="wineries.css" crc="4219714275" ref="wineries"/>
     <file name="nomq_wineries.css" crc="4199122515" ref="wineries"/>
-    <file name="index.css" crc="301337819" ref="index"/>
-    <file name="nomq_index.css" crc="4285239823" ref="index"/>
+    <file name="index.css" crc="3805250155" ref="index"/>
+    <file name="nomq_index.css" crc="252239333" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-medium.woff" crc="3786760500"/>
@@ -55,14 +55,6 @@
   </folder>
   <folder name="images">
     <file name="a-master-new-favicon.ico" crc="4220636928" ref="index"/>
-    <file name="logo2020-header1800-40th.jpg" crc="223043563" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="spacer.jpg" crc="4145701943" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -94,7 +86,7 @@
     <file name="2020-home2-crop-u8600.jpg" crc="3764234761" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2020-home3-crop-u8603.jpg" crc="217834900" seo="true" ref="index">
+    <file name="2020-home3-crop-u8603.jpg" crc="4046927720" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="instagram-wht.png" crc="303704609" seo="true" ref="index">
@@ -245,18 +237,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
@@ -281,20 +261,99 @@
       <caption webpage="schedule" alt=""/>
       <caption webpage="schedule" alt=""/>
       <caption webpage="schedule" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
     </file>
     <file name="app-store.png" crc="77238246" seo="true" ref="index:tickets:2019-seminars:travel:schedule:wines:faq:about:wineries:seminars">
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="travel" alt=""/>
       <caption webpage="travel" alt=""/>
       <caption webpage="travel" alt=""/>
@@ -320,61 +379,6 @@
       <caption webpage="tickets" alt=""/>
       <caption webpage="tickets" alt=""/>
       <caption webpage="tickets" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
@@ -387,44 +391,97 @@
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
     </file>
     <file name="wsevents.png" crc="3899073119" seo="true" ref="index:tickets:2019-seminars:travel:schedule:wines:faq:about:wineries:seminars">
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="travel" alt=""/>
       <caption webpage="travel" alt=""/>
       <caption webpage="travel" alt=""/>
@@ -450,59 +507,6 @@
       <caption webpage="tickets" alt=""/>
       <caption webpage="tickets" alt=""/>
       <caption webpage="tickets" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
@@ -515,44 +519,99 @@
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
     </file>
     <file name="google-play.png" crc="3829834765" seo="true" ref="index:tickets:2019-seminars:travel:schedule:wines:faq:about:wineries:seminars">
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="travel" alt=""/>
       <caption webpage="travel" alt=""/>
       <caption webpage="travel" alt=""/>
@@ -578,61 +637,6 @@
       <caption webpage="tickets" alt=""/>
       <caption webpage="tickets" alt=""/>
       <caption webpage="tickets" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
@@ -645,35 +649,23 @@
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
     </file>
     <file name="2020-home2-crop-u86002.jpg" crc="277597342" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2020-home3-crop-u86032.jpg" crc="223820857" seo="true" ref="index">
+    <file name="2020-home3-crop-u86032.jpg" crc="4126729372" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="2020-home1360x360.jpg" crc="187317066" seo="true" ref="index">
@@ -712,9 +704,6 @@
     <file name="2020-home3-crop-u86036.jpg" crc="22880702" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo2020-header1800-40th899x445.jpg" crc="282117715" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="2020-home1302x302.jpg" crc="26710837" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -734,9 +723,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="collage1800-20899x446.jpg" crc="4255830884" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo2020-header1800-40th850x421.jpg" crc="4153397382" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="2020-home1286x286.jpg" crc="4268526597" seo="true" ref="index">
@@ -764,16 +750,13 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo2020-header1800-40th802x397.jpg" crc="434363473" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="2020-home1270x270.jpg" crc="536032856" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="2020-home2-crop-u86009.jpg" crc="4179579564" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2020-home3-crop-u86039.jpg" crc="3899077916" seo="true" ref="index">
+    <file name="2020-home3-crop-u86039.jpg" crc="4193478379" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="weekend-images20802x199.jpg" crc="4014491911" seo="true" ref="index">
@@ -788,16 +771,13 @@
     <file name="collage1800-20802x398.jpg" crc="451013901" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo2020-header1800-40th768x380.jpg" crc="283109838" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="2020-home1258x258.jpg" crc="481907567" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="2020-home2-crop-u860010.jpg" crc="24336116" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2020-home3-crop-u860310.jpg" crc="4098312007" seo="true" ref="index">
+    <file name="2020-home3-crop-u860310.jpg" crc="300706235" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="weekend-images20768x191.jpg" crc="3923080868" seo="true" ref="index">
@@ -812,16 +792,13 @@
     <file name="collage1800-20768x381.jpg" crc="182821828" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo2020-header1800-40th736x365.jpg" crc="4285306987" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="2020-home1248x248.jpg" crc="456424522" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="2020-home2-crop-u860011.jpg" crc="13597410" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2020-home3-crop-u860311.jpg" crc="4125906370" seo="true" ref="index">
+    <file name="2020-home3-crop-u860311.jpg" crc="165526106" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="weekend20-bullets634x250.jpg" crc="4238544559" seo="true" ref="index">
@@ -839,16 +816,13 @@
     <file name="collage1800-20736x365.jpg" crc="461630927" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo2020-header1800-40th705x349.jpg" crc="172862146" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="2020-home1237x237.jpg" crc="26227170" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="2020-home2-crop-u860012.jpg" crc="201034279" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2020-home3-crop-u860312.jpg" crc="494663917" seo="true" ref="index">
+    <file name="2020-home3-crop-u860312.jpg" crc="4076150098" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="weekend20-bullets609x240.jpg" crc="4236313191" seo="true" ref="index">
@@ -866,16 +840,13 @@
     <file name="collage1800-20705x350.jpg" crc="17336000" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo2020-header1800-40th667x330.jpg" crc="409467710" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="2020-home1224x224.jpg" crc="4031859938" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="2020-home2-crop-u860013.jpg" crc="3915501187" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2020-home3-crop-u860313.jpg" crc="53002369" seo="true" ref="index">
+    <file name="2020-home3-crop-u860313.jpg" crc="3841752234" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="weekend20-bullets593x234.jpg" crc="33889544" seo="true" ref="index">
@@ -893,16 +864,13 @@
     <file name="collage1800-20667x331.jpg" crc="4001742528" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo2020-header1800-40th631x313.jpg" crc="4197958007" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="2020-home1212x212.jpg" crc="4229548265" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="2020-home2-crop-u860014.jpg" crc="4043548" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2020-home3-crop-u860314.jpg" crc="54323371" seo="true" ref="index">
+    <file name="2020-home3-crop-u860314.jpg" crc="4181767574" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="weekend20-bullets580x229.jpg" crc="3903643403" seo="true" ref="index">
@@ -920,16 +888,13 @@
     <file name="collage1800-20631x313.jpg" crc="80249097" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo2020-header1800-40th568x281.jpg" crc="3909243180" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="2020-home1191x191.jpg" crc="521657038" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="2020-home2-crop-u860015.jpg" crc="490995226" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2020-home3-crop-u860315.jpg" crc="292140344" seo="true" ref="index">
+    <file name="2020-home3-crop-u860315.jpg" crc="199466399" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="weekend20-bullets505x200.jpg" crc="3990643238" seo="true" ref="index">
@@ -948,13 +913,10 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:tickets:2019-seminars:travel:schedule:wines:faq:about:wineries:seminars"/>
-    <file name="logo2020-header1800-40th480x238.jpg" crc="385359741" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="2020-home2-crop-u860016.jpg" crc="3932569449" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2020-home3-crop-u860316.jpg" crc="285436888" seo="true" ref="index">
+    <file name="2020-home3-crop-u860316.jpg" crc="92307297" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="weekend-bullets-stacks20.jpg" crc="253566175" seo="true" ref="index">
@@ -980,19 +942,13 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo2020-header1800-40th414x205.jpg" crc="210741548" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="2020-home2-crop-u860017.jpg" crc="80463273" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2020-home3-crop-u860317.jpg" crc="3794963806" seo="true" ref="index">
+    <file name="2020-home3-crop-u860317.jpg" crc="307076281" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="hotel-image-bar20414x92.jpg" crc="4157710096" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo2020-header1800-40th375x186.jpg" crc="3823100056" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="2020-home2-crop-u860018.jpg" crc="4202889555" seo="true" ref="index">
@@ -1002,9 +958,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="hotel-image-bar20375x84.jpg" crc="3967500636" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo2020-header1800-40th320x159.jpg" crc="4268094603" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="2020-home1320x320.jpg" crc="4067655873" seo="true" ref="index">
@@ -1041,15 +994,6 @@
       <caption webpage="schedule" alt=""/>
       <caption webpage="schedule" alt=""/>
       <caption webpage="schedule" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
@@ -1066,6 +1010,39 @@
       <caption webpage="tickets" alt=""/>
       <caption webpage="tickets" alt=""/>
       <caption webpage="tickets" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
@@ -1082,52 +1059,28 @@
       <caption webpage="wines" alt=""/>
       <caption webpage="wines" alt=""/>
       <caption webpage="wines" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
     </file>
     <file name="twitter.png" crc="4271290202" seo="true" ref="tickets:2019-seminars:travel:schedule:wines:faq:about:wineries:seminars">
       <caption webpage="schedule" alt=""/>
-      <caption webpage="travel" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="tickets" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="faq" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="wines" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="seminars" alt=""/>
     </file>
     <file name="facebook.png" crc="4012376423" seo="true" ref="tickets:2019-seminars:travel:schedule:wines:faq:about:wineries:seminars">
       <caption webpage="schedule" alt=""/>
-      <caption webpage="travel" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="tickets" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="faq" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="wines" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="seminars" alt=""/>
     </file>
     <file name="logo-header19-pages.png" crc="510396525" seo="true" ref="tickets">
       <caption webpage="tickets" alt=""/>
@@ -1187,40 +1140,40 @@
       <caption webpage="tickets" alt=""/>
       <caption webpage="tickets" alt=""/>
     </file>
-    <file name="twitter25x25.png" crc="4271290202" seo="true" ref="tickets:2019-seminars:faq">
-      <caption webpage="2019-seminars" alt=""/>
+    <file name="twitter25x25.png" crc="4271290202" seo="true" ref="tickets:2019-seminars">
       <caption webpage="faq" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
       <caption webpage="tickets" alt=""/>
     </file>
-    <file name="facebook25x25.png" crc="4012376423" seo="true" ref="tickets:2019-seminars:faq">
-      <caption webpage="2019-seminars" alt=""/>
+    <file name="facebook25x25.png" crc="4012376423" seo="true" ref="tickets:2019-seminars">
       <caption webpage="faq" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
       <caption webpage="tickets" alt=""/>
     </file>
     <file name="logo-header19-pages929x173.png" crc="510396525" seo="true" ref="tickets">
       <caption webpage="tickets" alt=""/>
     </file>
-    <file name="twitter24x24.png" crc="4271290202" seo="true" ref="tickets:2019-seminars:faq">
-      <caption webpage="2019-seminars" alt=""/>
+    <file name="twitter24x24.png" crc="4271290202" seo="true" ref="tickets:2019-seminars">
       <caption webpage="faq" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
       <caption webpage="tickets" alt=""/>
     </file>
-    <file name="facebook24x24.png" crc="4012376423" seo="true" ref="tickets:2019-seminars:faq">
-      <caption webpage="2019-seminars" alt=""/>
+    <file name="facebook24x24.png" crc="4012376423" seo="true" ref="tickets:2019-seminars">
       <caption webpage="faq" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
       <caption webpage="tickets" alt=""/>
     </file>
     <file name="logo-header19-pages906x169.png" crc="510396525" seo="true" ref="tickets">
       <caption webpage="tickets" alt=""/>
     </file>
-    <file name="twitter20x20.png" crc="3921369394" seo="true" ref="tickets:2019-seminars:faq">
-      <caption webpage="2019-seminars" alt=""/>
+    <file name="twitter20x20.png" crc="3921369394" seo="true" ref="tickets:2019-seminars">
       <caption webpage="faq" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
       <caption webpage="tickets" alt=""/>
     </file>
-    <file name="facebook20x20.png" crc="4012376423" seo="true" ref="tickets:2019-seminars:faq">
-      <caption webpage="2019-seminars" alt=""/>
+    <file name="facebook20x20.png" crc="4012376423" seo="true" ref="tickets:2019-seminars">
       <caption webpage="faq" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
       <caption webpage="tickets" alt=""/>
     </file>
     <file name="logo-header19-pages792x147.png" crc="510396525" seo="true" ref="tickets">
@@ -1250,14 +1203,14 @@
     <file name="gtpic3-tix254x219.jpg" crc="4105979708" seo="true" ref="tickets">
       <caption webpage="tickets" alt=""/>
     </file>
-    <file name="twitter18x18.png" crc="3885402198" seo="true" ref="tickets:2019-seminars:faq">
-      <caption webpage="2019-seminars" alt=""/>
+    <file name="twitter18x18.png" crc="3885402198" seo="true" ref="tickets:2019-seminars">
       <caption webpage="faq" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
       <caption webpage="tickets" alt=""/>
     </file>
-    <file name="facebook18x18.png" crc="4068670910" seo="true" ref="tickets:2019-seminars:faq">
-      <caption webpage="2019-seminars" alt=""/>
+    <file name="facebook18x18.png" crc="4068670910" seo="true" ref="tickets:2019-seminars">
       <caption webpage="faq" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
       <caption webpage="tickets" alt=""/>
     </file>
     <file name="logo-header19-pages657x122.png" crc="3769566882" seo="true" ref="tickets">
@@ -1291,14 +1244,14 @@
     <file name="gtpic3-tix217x187.jpg" crc="4287830358" seo="true" ref="tickets">
       <caption webpage="tickets" alt=""/>
     </file>
-    <file name="twitter17x17.png" crc="3933508655" seo="true" ref="tickets:2019-seminars:faq">
-      <caption webpage="2019-seminars" alt=""/>
+    <file name="twitter17x17.png" crc="3933508655" seo="true" ref="tickets:2019-seminars">
       <caption webpage="faq" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
       <caption webpage="tickets" alt=""/>
     </file>
-    <file name="facebook17x17.png" crc="3827393949" seo="true" ref="tickets:2019-seminars:faq">
-      <caption webpage="2019-seminars" alt=""/>
+    <file name="facebook17x17.png" crc="3827393949" seo="true" ref="tickets:2019-seminars">
       <caption webpage="faq" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
       <caption webpage="tickets" alt=""/>
     </file>
     <file name="logo-header19-pages637x119.png" crc="3930812198" seo="true" ref="tickets">
@@ -1332,14 +1285,14 @@
     <file name="gtpic3-tix208x180.jpg" crc="4220010549" seo="true" ref="tickets">
       <caption webpage="tickets" alt=""/>
     </file>
-    <file name="twitter16x16.png" crc="3844033145" seo="true" ref="tickets:2019-seminars:faq">
-      <caption webpage="2019-seminars" alt=""/>
+    <file name="twitter16x16.png" crc="3844033145" seo="true" ref="tickets:2019-seminars">
       <caption webpage="faq" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
       <caption webpage="tickets" alt=""/>
     </file>
-    <file name="facebook16x16.png" crc="118728729" seo="true" ref="tickets:2019-seminars:faq">
-      <caption webpage="2019-seminars" alt=""/>
+    <file name="facebook16x16.png" crc="118728729" seo="true" ref="tickets:2019-seminars">
       <caption webpage="faq" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
       <caption webpage="tickets" alt=""/>
     </file>
     <file name="logo-header19-pages601x112.png" crc="493076979" seo="true" ref="tickets">
@@ -1376,14 +1329,14 @@
     <file name="logo-header19-pages519x97.png" crc="28648700" seo="true" ref="tickets">
       <caption webpage="tickets" alt=""/>
     </file>
-    <file name="twitter14x14.png" crc="4086997605" seo="true" ref="tickets:2019-seminars:faq">
-      <caption webpage="2019-seminars" alt=""/>
+    <file name="twitter14x14.png" crc="4086997605" seo="true" ref="tickets:2019-seminars">
       <caption webpage="faq" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
       <caption webpage="tickets" alt=""/>
     </file>
-    <file name="facebook14x14.png" crc="4078478422" seo="true" ref="tickets:2019-seminars:faq">
-      <caption webpage="2019-seminars" alt=""/>
+    <file name="facebook14x14.png" crc="4078478422" seo="true" ref="tickets:2019-seminars">
       <caption webpage="faq" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
       <caption webpage="tickets" alt=""/>
     </file>
     <file name="weekend-tix-so239x331.jpg" crc="4238368076" seo="true" ref="tickets">
@@ -1534,16 +1487,16 @@
     <file name="gtpic3-tix91x78.jpg" crc="3758177289" seo="true" ref="tickets">
       <caption webpage="tickets" alt=""/>
     </file>
-    <file name="page-master-nav-favicon.ico" crc="4220636928" ref="2019-seminars:faq"/>
+    <file name="page-master-nav-favicon.ico" crc="4220636928" ref="2019-seminars"/>
     <file name="logo-header20-pages.png" crc="4148146684" seo="true" ref="2019-seminars:schedule:wines:faq:about:wineries:seminars:travel">
       <caption webpage="schedule" alt=""/>
-      <caption webpage="travel" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="travel" alt=""/>
+      <caption webpage="faq" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="wines" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="about" alt=""/>
     </file>
     <file name="1-2-crop-u16668.jpg" crc="481992813" seo="true" ref="2019-seminars">
       <caption webpage="2019-seminars" alt=""/>
@@ -1686,9 +1639,9 @@
     <file name="beach-boys.jpg" crc="3896359319" seo="true" ref="2019-seminars">
       <caption webpage="2019-seminars" alt=""/>
     </file>
-    <file name="logo-header20-pages929x173.png" crc="4148146684" seo="true" ref="2019-seminars:faq">
-      <caption webpage="2019-seminars" alt=""/>
+    <file name="logo-header20-pages929x173.png" crc="4148146684" seo="true" ref="2019-seminars">
       <caption webpage="faq" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
     </file>
     <file name="5-crop-u166622.jpg" crc="125212320" seo="true" ref="2019-seminars">
       <caption webpage="2019-seminars" alt=""/>
@@ -1714,9 +1667,9 @@
     <file name="beach-boys543x434.jpg" crc="77592469" seo="true" ref="2019-seminars">
       <caption webpage="2019-seminars" alt=""/>
     </file>
-    <file name="logo-header20-pages906x169.png" crc="4148146684" seo="true" ref="2019-seminars:faq">
-      <caption webpage="2019-seminars" alt=""/>
+    <file name="logo-header20-pages906x169.png" crc="4148146684" seo="true" ref="2019-seminars">
       <caption webpage="faq" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
     </file>
     <file name="5-crop-u166623.jpg" crc="271847863" seo="true" ref="2019-seminars">
       <caption webpage="2019-seminars" alt=""/>
@@ -1828,9 +1781,9 @@
     <file name="beach-boys519x416.jpg" crc="431430736" seo="true" ref="2019-seminars">
       <caption webpage="2019-seminars" alt=""/>
     </file>
-    <file name="logo-header20-pages792x147.png" crc="4148146684" seo="true" ref="2019-seminars:faq">
-      <caption webpage="2019-seminars" alt=""/>
+    <file name="logo-header20-pages792x147.png" crc="4148146684" seo="true" ref="2019-seminars">
       <caption webpage="faq" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
     </file>
     <file name="5-crop-u166624.jpg" crc="194007254" seo="true" ref="2019-seminars">
       <caption webpage="2019-seminars" alt=""/>
@@ -1943,9 +1896,9 @@
     <file name="beach-boys456x365.jpg" crc="4053726350" seo="true" ref="2019-seminars">
       <caption webpage="2019-seminars" alt=""/>
     </file>
-    <file name="logo-header20-pages657x122.png" crc="4254588632" seo="true" ref="2019-seminars:faq">
-      <caption webpage="2019-seminars" alt=""/>
+    <file name="logo-header20-pages657x122.png" crc="4254588632" seo="true" ref="2019-seminars">
       <caption webpage="faq" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
     </file>
     <file name="5-crop-u166625.jpg" crc="4206833582" seo="true" ref="2019-seminars">
       <caption webpage="2019-seminars" alt=""/>
@@ -2058,9 +2011,9 @@
     <file name="beach-boys390x312.jpg" crc="4197747303" seo="true" ref="2019-seminars">
       <caption webpage="2019-seminars" alt=""/>
     </file>
-    <file name="logo-header20-pages637x119.png" crc="19788705" seo="true" ref="2019-seminars:faq">
-      <caption webpage="2019-seminars" alt=""/>
+    <file name="logo-header20-pages637x119.png" crc="19788705" seo="true" ref="2019-seminars">
       <caption webpage="faq" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
     </file>
     <file name="5-crop-u166626.jpg" crc="350280025" seo="true" ref="2019-seminars">
       <caption webpage="2019-seminars" alt=""/>
@@ -2173,9 +2126,9 @@
     <file name="beach-boys373x299.jpg" crc="323865774" seo="true" ref="2019-seminars">
       <caption webpage="2019-seminars" alt=""/>
     </file>
-    <file name="logo-header20-pages601x112.png" crc="4009872677" seo="true" ref="2019-seminars:faq">
-      <caption webpage="2019-seminars" alt=""/>
+    <file name="logo-header20-pages601x112.png" crc="4009872677" seo="true" ref="2019-seminars">
       <caption webpage="faq" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
     </file>
     <file name="1-2.jpg" crc="3850663808" seo="true" ref="2019-seminars">
       <caption webpage="2019-seminars" alt=""/>
@@ -2285,9 +2238,9 @@
     <file name="beach-boys338x271.jpg" crc="4163749389" seo="true" ref="2019-seminars">
       <caption webpage="2019-seminars" alt=""/>
     </file>
-    <file name="logo-header20-pages519x97.png" crc="3976755133" seo="true" ref="2019-seminars:faq">
-      <caption webpage="2019-seminars" alt=""/>
+    <file name="logo-header20-pages519x97.png" crc="3976755133" seo="true" ref="2019-seminars">
       <caption webpage="faq" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
     </file>
     <file name="5-6351x230.jpg" crc="3808049197" seo="true" ref="2019-seminars">
       <caption webpage="2019-seminars" alt=""/>
@@ -2391,9 +2344,9 @@
     <file name="beach-boys288x231.jpg" crc="208195033" seo="true" ref="2019-seminars">
       <caption webpage="2019-seminars" alt=""/>
     </file>
-    <file name="logo-header20-pages429x80.png" crc="3915302982" seo="true" ref="2019-seminars:faq">
-      <caption webpage="2019-seminars" alt=""/>
+    <file name="logo-header20-pages429x80.png" crc="3915302982" seo="true" ref="2019-seminars">
       <caption webpage="faq" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
     </file>
     <file name="1-2296x193.jpg" crc="4158319022" seo="true" ref="2019-seminars">
       <caption webpage="2019-seminars" alt=""/>
@@ -2503,9 +2456,9 @@
     <file name="beach-boys340x272.jpg" crc="56133449" seo="true" ref="2019-seminars">
       <caption webpage="2019-seminars" alt=""/>
     </file>
-    <file name="logo-header20-pages375x70.png" crc="4289073008" seo="true" ref="2019-seminars:faq">
-      <caption webpage="2019-seminars" alt=""/>
+    <file name="logo-header20-pages375x70.png" crc="4289073008" seo="true" ref="2019-seminars">
       <caption webpage="faq" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
     </file>
     <file name="1-2255x167.jpg" crc="101426572" seo="true" ref="2019-seminars">
       <caption webpage="2019-seminars" alt=""/>
@@ -2615,9 +2568,9 @@
     <file name="beach-boys294x236.jpg" crc="4265967703" seo="true" ref="2019-seminars">
       <caption webpage="2019-seminars" alt=""/>
     </file>
-    <file name="logo-header20-pages348x65.png" crc="402491667" seo="true" ref="2019-seminars:faq">
-      <caption webpage="2019-seminars" alt=""/>
+    <file name="logo-header20-pages348x65.png" crc="402491667" seo="true" ref="2019-seminars">
       <caption webpage="faq" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
     </file>
     <file name="1-2231x151.jpg" crc="277858412" seo="true" ref="2019-seminars">
       <caption webpage="2019-seminars" alt=""/>
@@ -2727,9 +2680,9 @@
     <file name="beach-boys266x213.jpg" crc="426999695" seo="true" ref="2019-seminars">
       <caption webpage="2019-seminars" alt=""/>
     </file>
-    <file name="logo-header20-pages301x56.png" crc="94746985" seo="true" ref="2019-seminars:faq">
-      <caption webpage="2019-seminars" alt=""/>
+    <file name="logo-header20-pages301x56.png" crc="94746985" seo="true" ref="2019-seminars">
       <caption webpage="faq" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
     </file>
     <file name="1-2197x129.jpg" crc="370885039" seo="true" ref="2019-seminars">
       <caption webpage="2019-seminars" alt=""/>
@@ -2839,7 +2792,16 @@
     <file name="beach-boys225x181.jpg" crc="4134329908" seo="true" ref="2019-seminars">
       <caption webpage="2019-seminars" alt=""/>
     </file>
-    <file name="hotel.jpg" crc="35891927" seo="true" ref="travel">
+    <file name="hotel.jpg" crc="35891927" seo="true" ref="travel:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="travel" alt=""/>
       <caption webpage="travel" alt=""/>
       <caption webpage="travel" alt=""/>
@@ -2849,19 +2811,24 @@
       <caption webpage="travel" alt=""/>
       <caption webpage="travel" alt=""/>
     </file>
-    <file name="hotel360x254.jpg" crc="31768797" seo="true" ref="travel">
+    <file name="hotel360x254.jpg" crc="31768797" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="travel" alt=""/>
     </file>
-    <file name="hotel339x240.jpg" crc="3825210827" seo="true" ref="travel">
+    <file name="hotel339x240.jpg" crc="3825210827" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="travel" alt=""/>
     </file>
-    <file name="hotel293x207.jpg" crc="3802782510" seo="true" ref="travel">
+    <file name="hotel293x207.jpg" crc="3802782510" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="travel" alt=""/>
     </file>
-    <file name="hotel265x187.jpg" crc="53886342" seo="true" ref="travel">
+    <file name="hotel265x187.jpg" crc="53886342" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="travel" alt=""/>
     </file>
-    <file name="hotel226x160.jpg" crc="4057643220" seo="true" ref="travel">
+    <file name="hotel226x160.jpg" crc="4057643220" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="travel" alt=""/>
     </file>
     <file name="schedule-pics1.jpg" crc="4009797890" seo="true" ref="schedule">
@@ -3197,15 +3164,77 @@
     <file name="logo-header20-pages631x117.png" crc="158020234" seo="true" ref="travel">
       <caption webpage="travel" alt=""/>
     </file>
+    <file name="hotel363x256.jpg" crc="3989127898" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hotel347x245.jpg" crc="431958103" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hotel328x232.jpg" crc="411486348" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hotel310x219.jpg" crc="4098876918" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hotel297x210.jpg" crc="487183008" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2020-header1800-40th-r4.jpg" crc="4071921426" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2020-header1800-40th-r4899x445.jpg" crc="101854259" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2020-header1800-40th-r4850x421.jpg" crc="38086054" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2020-header1800-40th-r4802x397.jpg" crc="179022019" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2020-header1800-40th-r4768x380.jpg" crc="287396689" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2020-header1800-40th-r4736x365.jpg" crc="117893910" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2020-header1800-40th-r4705x349.jpg" crc="4205752574" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2020-header1800-40th-r4667x330.jpg" crc="501210337" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2020-header1800-40th-r4631x313.jpg" crc="236775792" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2020-header1800-40th-r4568x281.jpg" crc="4050394480" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2020-header1800-40th-r4480x238.jpg" crc="4037575263" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2020-header1800-40th-r4414x205.jpg" crc="3813546256" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2020-header1800-40th-r4375x186.jpg" crc="3991922462" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2020-header1800-40th-r4320x159.jpg" crc="91419037" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="408550630" seo="true" mt="1576868250213" redirect="true"/>
+  <file name="index.html" crc="4242787773" seo="true" mt="1579038547388" redirect="true"/>
   <file name="tickets.html" crc="30255460" seo="true" mt="1558124934017" redirect="true"/>
-  <file name="2019-seminars.html" crc="93918629" seo="true" mt="1576867578689" redirect="true"/>
-  <file name="travel.html" crc="3888494879" seo="true" mt="1576867578689" redirect="true"/>
-  <file name="schedule.html" crc="4004385993" seo="true" mt="1576867578689" redirect="true"/>
-  <file name="wines.html" crc="4093659395" seo="true" mt="1576867578689" redirect="true"/>
-  <file name="faq.html" crc="4073329179" seo="true" mt="1578951260154" redirect="true"/>
-  <file name="about.html" crc="4254299375" seo="true" mt="1576867578689" redirect="true"/>
-  <file name="wineries.html" crc="276269204" seo="true" mt="1576867578689" redirect="true"/>
-  <file name="seminars.html" crc="4056769991" seo="true" mt="1576867578689" redirect="true"/>
+  <file name="2019-seminars.html" crc="4256665154" seo="true" mt="1579019333939" redirect="true"/>
+  <file name="travel.html" crc="350303700" seo="true" mt="1579019333939" redirect="true"/>
+  <file name="schedule.html" crc="535955414" seo="true" mt="1579019333939" redirect="true"/>
+  <file name="wines.html" crc="3901029476" seo="true" mt="1579019333939" redirect="true"/>
+  <file name="faq.html" crc="505013271" seo="true" mt="1579019333939" redirect="true"/>
+  <file name="about.html" crc="325391290" seo="true" mt="1579019333939" redirect="true"/>
+  <file name="wineries.html" crc="3952997785" seo="true" mt="1579019333939" redirect="true"/>
+  <file name="seminars.html" crc="4031608019" seo="true" mt="1579019333939" redirect="true"/>
 </manifest>
