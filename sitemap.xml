@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://nywineexperience.com/index.html</loc>
-    <lastmod>2020-01-14</lastmod>
+    <lastmod>2020-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -387,36 +387,6 @@
       <image:loc>http://nywineexperience.com/images/hotel226x160.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nywineexperience.com/images/weekendeb20.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/weekendeb20338x230.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/weekendeb20329x224.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/weekendeb20323x221.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/weekendeb20276x189.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/weekendeb20265x181.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/weekendeb20251x171.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/weekendeb20268x183.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/weekendeb20239x163.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/weekendeb20289x197.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://nywineexperience.com/images/critics-choicetix20.jpg</image:loc>
     </image:image>
     <image:image>
@@ -502,6 +472,36 @@
     </image:image>
     <image:image>
       <image:loc>http://nywineexperience.com/images/logo2020-header1800-40th-r4320x159.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/weekend-onsale.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/weekend-onsale338x230.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/weekend-onsale329x224.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/weekend-onsale323x221.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/weekend-onsale276x189.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/weekend-onsale265x181.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/weekend-onsale251x171.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/weekend-onsale268x183.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/weekend-onsale239x163.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/weekend-onsale289x197.jpg</image:loc>
     </image:image>
   </url>
   <url>
