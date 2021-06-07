@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nywineexperience.com" resolutions="1x" timestamp="1622656719992">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nywineexperience.com" resolutions="1x" timestamp="1623088668421">
   <folder name="css">
     <file name="site_global.css" crc="390033707"/>
-    <file name="master_a-master-new.css" crc="3981626800" ref="index"/>
-    <file name="nomq_preview_master_a-master-new.css" crc="3892714564" ref="index"/>
-    <file name="index.css" crc="3797374720" ref="index"/>
-    <file name="nomq_index.css" crc="289514921" ref="index"/>
+    <file name="master_a-master-new.css" crc="113202483" ref="index"/>
+    <file name="nomq_preview_master_a-master-new.css" crc="4204716196" ref="index"/>
+    <file name="index.css" crc="3977255374" ref="index"/>
+    <file name="nomq_index.css" crc="4133355252" ref="index"/>
     <file name="master_page-master-nav.css" crc="3904882275" ref="seminars:about:faq"/>
     <file name="nomq_preview_master_page-master-nav.css" crc="4010944873" ref="seminars:about:faq"/>
     <file name="seminars.css" crc="3781739969" ref="seminars"/>
@@ -572,16 +572,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="weekend21.jpg" crc="4185207053" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="critics-choice21.jpg" crc="372498233" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -592,67 +582,34 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="weekend21375x417.jpg" crc="4009634746" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="critics-choice21375x417.jpg" crc="3934170380" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="weekend21355x394.jpg" crc="385276502" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="critics-choice21355x394.jpg" crc="4016822091" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="weekend21335x372.jpg" crc="4102595194" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="critics-choice21335x372.jpg" crc="4171202941" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="weekend21320x356.jpg" crc="384154925" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="critics-choice21320x356.jpg" crc="39490176" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="weekend21307x341.jpg" crc="436577065" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="critics-choice21307x341.jpg" crc="4259019694" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="weekend21294x327.jpg" crc="377148640" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="critics-choice21294x327.jpg" crc="3888053382" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="weekend21278x309.jpg" crc="3921763444" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="critics-choice21278x309.jpg" crc="89064081" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="weekend21263x293.jpg" crc="4010120983" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="critics-choice21263x293.jpg" crc="3888496389" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="weekend21349x388.jpg" crc="3954031107" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="critics-choice21349x388.jpg" crc="4286627149" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="weekend21308x342.jpg" crc="3884472546" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="critics-choice21308x342.jpg" crc="30492121" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="weekend21271x301.jpg" crc="3925972054" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="critics-choice21271x301.jpg" crc="4114317019" seo="true" ref="index">
@@ -1261,8 +1218,51 @@
     <file name="corinne160x150.jpg" crc="3911742603" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
+    <file name="weekend21.jpg" crc="4185207053" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="weekend21375x417.jpg" crc="4009634746" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="weekend21355x394.jpg" crc="385276502" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="weekend21335x372.jpg" crc="4102595194" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="weekend21320x356.jpg" crc="384154925" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="weekend21307x341.jpg" crc="436577065" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="weekend21294x327.jpg" crc="377148640" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="weekend21278x309.jpg" crc="3921763444" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="weekend21263x293.jpg" crc="4010120983" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="weekend21349x388.jpg" crc="3954031107" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="weekend21308x342.jpg" crc="3884472546" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="weekend21271x301.jpg" crc="3925972054" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3840336796" seo="true" mt="1622656700494" redirect="true"/>
+  <file name="index.html" crc="3976683980" seo="true" mt="1623088624374" redirect="true"/>
   <file name="seminars.html" crc="4105659494" seo="true" mt="1622636684923" redirect="true"/>
   <file name="faq.html" crc="4165987629" seo="true" mt="1622559373554" redirect="true"/>
   <file name="about.html" crc="250059281" seo="true" mt="1622559373554" redirect="true"/>
