@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nywineexperience.com" resolutions="1x" timestamp="1623684328269">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nywineexperience.com" resolutions="1x" timestamp="1623705488772">
   <folder name="css">
     <file name="site_global.css" crc="390033707"/>
-    <file name="master_a-master-new.css" crc="4128621083" ref="index"/>
-    <file name="nomq_preview_master_a-master-new.css" crc="96350925" ref="index"/>
-    <file name="index.css" crc="4090369305" ref="index"/>
+    <file name="master_a-master-new.css" crc="4213798215" ref="index"/>
+    <file name="nomq_preview_master_a-master-new.css" crc="446754604" ref="index"/>
+    <file name="index.css" crc="230669375" ref="index"/>
     <file name="nomq_index.css" crc="3807779798" ref="index"/>
-    <file name="master_page-master-nav.css" crc="17638592" ref="seminars:about:faq"/>
-    <file name="nomq_preview_master_page-master-nav.css" crc="4010944873" ref="seminars:about:faq"/>
-    <file name="seminars.css" crc="334143203" ref="seminars"/>
-    <file name="nomq_seminars.css" crc="487871474" ref="seminars"/>
+    <file name="master_page-master-nav.css" crc="321246870" ref="seminars:about:faq"/>
+    <file name="nomq_preview_master_page-master-nav.css" crc="3993107156" ref="seminars:about:faq"/>
+    <file name="seminars.css" crc="4048781038" ref="seminars"/>
+    <file name="nomq_seminars.css" crc="4096575702" ref="seminars"/>
     <file name="about.css" crc="3990388977" ref="about"/>
     <file name="nomq_about.css" crc="4086005997" ref="about"/>
     <file name="faq.css" crc="3917237020" ref="faq"/>
@@ -72,7 +72,7 @@
     <file name="2020-home2-crop-u8600.jpg" crc="3764234761" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2020-home3-crop-u8603.jpg" crc="4046927720" seo="true" ref="index">
+    <file name="2020-home3-crop-u8603.jpg" crc="217834900" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="instagram-wht.png" crc="303704609" seo="true" ref="index">
@@ -174,6 +174,18 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
@@ -198,18 +210,6 @@
       <caption webpage="schedule" alt=""/>
       <caption webpage="schedule" alt=""/>
       <caption webpage="schedule" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
       <caption webpage="2019-seminars" alt=""/>
       <caption webpage="2019-seminars" alt=""/>
       <caption webpage="2019-seminars" alt=""/>
@@ -226,7 +226,7 @@
     <file name="2020-home2-crop-u86002.jpg" crc="277597342" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2020-home3-crop-u86032.jpg" crc="4126729372" seo="true" ref="index">
+    <file name="2020-home3-crop-u86032.jpg" crc="223820857" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="2020-home1360x360.jpg" crc="187317066" seo="true" ref="index">
@@ -301,7 +301,7 @@
     <file name="2020-home2-crop-u86009.jpg" crc="4179579564" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2020-home3-crop-u86039.jpg" crc="4193478379" seo="true" ref="index">
+    <file name="2020-home3-crop-u86039.jpg" crc="3899077916" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="critics-choice-images20802x199.jpg" crc="481958485" seo="true" ref="index">
@@ -316,7 +316,7 @@
     <file name="2020-home2-crop-u860010.jpg" crc="24336116" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2020-home3-crop-u860310.jpg" crc="300706235" seo="true" ref="index">
+    <file name="2020-home3-crop-u860310.jpg" crc="4098312007" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="critics-choice-images20768x191.jpg" crc="24450729" seo="true" ref="index">
@@ -331,7 +331,7 @@
     <file name="2020-home2-crop-u860011.jpg" crc="13597410" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2020-home3-crop-u860311.jpg" crc="165526106" seo="true" ref="index">
+    <file name="2020-home3-crop-u860311.jpg" crc="4125906370" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="critics-choice-images20736x183.jpg" crc="373705032" seo="true" ref="index">
@@ -346,7 +346,7 @@
     <file name="2020-home2-crop-u860012.jpg" crc="201034279" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2020-home3-crop-u860312.jpg" crc="4076150098" seo="true" ref="index">
+    <file name="2020-home3-crop-u860312.jpg" crc="494663917" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="critics-choice-images20705x175.jpg" crc="484218676" seo="true" ref="index">
@@ -361,7 +361,7 @@
     <file name="2020-home2-crop-u860013.jpg" crc="3915501187" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2020-home3-crop-u860313.jpg" crc="3841752234" seo="true" ref="index">
+    <file name="2020-home3-crop-u860313.jpg" crc="53002369" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="critics-choice-images20667x166.jpg" crc="503156958" seo="true" ref="index">
@@ -376,7 +376,7 @@
     <file name="2020-home2-crop-u860014.jpg" crc="4043548" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2020-home3-crop-u860314.jpg" crc="4181767574" seo="true" ref="index">
+    <file name="2020-home3-crop-u860314.jpg" crc="54323371" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="critics-choice-images20631x157.jpg" crc="3810044384" seo="true" ref="index">
@@ -391,7 +391,7 @@
     <file name="2020-home2-crop-u860015.jpg" crc="490995226" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2020-home3-crop-u860315.jpg" crc="199466399" seo="true" ref="index">
+    <file name="2020-home3-crop-u860315.jpg" crc="292140344" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="critics-choice-images20568x141.jpg" crc="4021188130" seo="true" ref="index">
@@ -404,7 +404,7 @@
     <file name="2020-home2-crop-u860016.jpg" crc="3932569449" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2020-home3-crop-u860316.jpg" crc="92307297" seo="true" ref="index">
+    <file name="2020-home3-crop-u860316.jpg" crc="285436888" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="critics-choice-images-stacked20.jpg" crc="3875684432" seo="true" ref="index">
@@ -420,7 +420,7 @@
     <file name="2020-home2-crop-u860017.jpg" crc="80463273" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2020-home3-crop-u860317.jpg" crc="307076281" seo="true" ref="index">
+    <file name="2020-home3-crop-u860317.jpg" crc="3794963806" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="2020-home2-crop-u860018.jpg" crc="4202889555" seo="true" ref="index">
@@ -596,25 +596,17 @@
     </file>
     <file name="page-master-nav-favicon.ico" crc="4220636928" ref="seminars"/>
     <file name="logo-header2021-pages.png" crc="3778218362" seo="true" ref="seminars:faq:about">
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="faq" alt=""/>
       <caption webpage="faq" alt=""/>
       <caption webpage="faq" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="instagram.png" crc="519816155" seo="true" ref="seminars:faq:about">
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
@@ -631,16 +623,24 @@
       <caption webpage="faq" alt=""/>
       <caption webpage="faq" alt=""/>
       <caption webpage="faq" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="twitter.png" crc="4271290202" seo="true" ref="seminars:faq:about">
-      <caption webpage="about" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="faq" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="facebook.png" crc="4012376423" seo="true" ref="seminars:faq:about">
-      <caption webpage="about" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="faq" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="cristie-kerr.jpg" crc="128832531" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
@@ -883,9 +883,9 @@
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="logo-header2021-pages-crop-u69049.png" crc="3887006144" seo="true" ref="seminars:faq:about">
-      <caption webpage="about" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="faq" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="twitter24x24.png" crc="4271290202" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
@@ -1241,8 +1241,8 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="353877349" seo="true" mt="1623684277090" redirect="true"/>
-  <file name="seminars.html" crc="475500364" seo="true" mt="1623258381289" redirect="true"/>
+  <file name="index.html" crc="68676027" seo="true" mt="1623705448230" redirect="true"/>
+  <file name="seminars.html" crc="163715779" seo="true" mt="1623705304720" redirect="true"/>
   <file name="faq.html" crc="4165987629" seo="true" mt="1622559373554" redirect="true"/>
   <file name="about.html" crc="250059281" seo="true" mt="1622559373554" redirect="true"/>
 </manifest>
