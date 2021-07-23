@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nywineexperience.com" resolutions="1x" timestamp="1625166316527">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nywineexperience.com" resolutions="1x" timestamp="1627062899309">
   <folder name="css">
-    <file name="site_global.css" crc="390033707"/>
-    <file name="master_a-master-new.css" crc="3941894501" ref="index"/>
-    <file name="nomq_preview_master_a-master-new.css" crc="230904441" ref="index"/>
-    <file name="index.css" crc="3972660450" ref="index"/>
-    <file name="nomq_index.css" crc="65499542" ref="index"/>
+    <file name="site_global.css" crc="3794077883"/>
+    <file name="master_a-master-new.css" crc="522455401" ref="index"/>
+    <file name="nomq_preview_master_a-master-new.css" crc="219680688" ref="index"/>
+    <file name="index.css" crc="305745175" ref="index"/>
+    <file name="nomq_index.css" crc="3835068355" ref="index"/>
     <file name="master_page-master-nav.css" crc="117278318" ref="seminars:about:faq"/>
     <file name="nomq_preview_master_page-master-nav.css" crc="3993107156" ref="seminars:about:faq"/>
     <file name="seminars.css" crc="4229400502" ref="seminars"/>
@@ -174,18 +174,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
@@ -198,18 +186,6 @@
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
       <caption webpage="schedule" alt=""/>
       <caption webpage="schedule" alt=""/>
       <caption webpage="schedule" alt=""/>
@@ -222,6 +198,30 @@
       <caption webpage="schedule" alt=""/>
       <caption webpage="schedule" alt=""/>
       <caption webpage="schedule" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
     </file>
     <file name="2020-home2-crop-u86002.jpg" crc="277597342" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -502,53 +502,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo2021-header1800-40th.jpg" crc="3942734656" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo2021-header1800-40th899x445.jpg" crc="204374520" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo2021-header1800-40th850x421.jpg" crc="4245954187" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo2021-header1800-40th802x397.jpg" crc="424339346" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo2021-header1800-40th768x380.jpg" crc="450164406" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo2021-header1800-40th736x365.jpg" crc="3953565187" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo2021-header1800-40th705x349.jpg" crc="4225341060" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo2021-header1800-40th667x330.jpg" crc="410618077" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo2021-header1800-40th631x313.jpg" crc="324231628" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo2021-header1800-40th568x281.jpg" crc="24280650" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo2021-header1800-40th480x238.jpg" crc="4284132581" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo2021-header1800-40th414x205.jpg" crc="3930639568" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo2021-header1800-40th375x186.jpg" crc="162443537" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo2021-header1800-40th320x159.jpg" crc="4062327644" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="critics-choice21.jpg" crc="73456249" seo="true" ref="index">
@@ -1240,8 +1193,55 @@
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
     </file>
+    <file name="logo2021-header1800-40th-gt-tix.jpg" crc="4035783809" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2021-header1800-40th-gt-tix899x445.jpg" crc="4211695370" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2021-header1800-40th-gt-tix850x421.jpg" crc="4159804104" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2021-header1800-40th-gt-tix802x397.jpg" crc="3867670941" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2021-header1800-40th-gt-tix768x380.jpg" crc="3895191864" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2021-header1800-40th-gt-tix736x365.jpg" crc="3938116015" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2021-header1800-40th-gt-tix705x349.jpg" crc="235984716" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2021-header1800-40th-gt-tix667x330.jpg" crc="4246523318" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2021-header1800-40th-gt-tix631x313.jpg" crc="3835148477" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2021-header1800-40th-gt-tix568x281.jpg" crc="3826812092" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2021-header1800-40th-gt-tix480x238.jpg" crc="3881637462" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2021-header1800-40th-gt-tix414x205.jpg" crc="499285177" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2021-header1800-40th-gt-tix375x186.jpg" crc="368878725" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo2021-header1800-40th-gt-tix320x159.jpg" crc="4255585868" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="380240532" seo="true" mt="1624023369064" redirect="true"/>
+  <file name="index.html" crc="4250824362" seo="true" mt="1627062873880" redirect="true"/>
   <file name="seminars.html" crc="480066176" seo="true" mt="1625162264726" redirect="true"/>
   <file name="faq.html" crc="4165987629" seo="true" mt="1622559373554" redirect="true"/>
   <file name="about.html" crc="250059281" seo="true" mt="1622559373554" redirect="true"/>
