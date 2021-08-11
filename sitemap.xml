@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://nywineexperience.com/index.html</loc>
-    <lastmod>2021-07-23</lastmod>
+    <lastmod>2021-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -288,42 +288,6 @@
       <image:loc>http://nywineexperience.com/images/menu.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nywineexperience.com/images/critics-choice21.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/critics-choice21375x417.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/critics-choice21355x394.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/critics-choice21335x372.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/critics-choice21320x356.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/critics-choice21307x341.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/critics-choice21294x327.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/critics-choice21278x309.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/critics-choice21263x293.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/critics-choice21349x388.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/critics-choice21308x342.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/critics-choice21271x301.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://nywineexperience.com/images/weekend21.jpg</image:loc>
     </image:image>
     <image:image>
@@ -401,10 +365,46 @@
     <image:image>
       <image:loc>http://nywineexperience.com/images/logo2021-header1800-40th-gt-tix320x159.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/critics-choice21wines.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/critics-choice21wines375x417.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/critics-choice21wines355x394.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/critics-choice21wines335x372.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/critics-choice21wines320x356.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/critics-choice21wines307x341.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/critics-choice21wines294x327.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/critics-choice21wines278x309.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/critics-choice21wines263x293.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/critics-choice21wines349x388.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/critics-choice21wines308x342.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/critics-choice21wines271x301.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nywineexperience.com/seminars.html</loc>
-    <lastmod>2021-07-01</lastmod>
+    <lastmod>2021-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -448,9 +448,6 @@
     </image:image>
     <image:image>
       <image:loc>http://nywineexperience.com/images/corinne.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/jose-andres.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nywineexperience.com/images/emeril.jpg</image:loc>
@@ -599,10 +596,13 @@
     <image:image>
       <image:loc>http://nywineexperience.com/images/gaja-family1.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/michael-lomanaco.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nywineexperience.com/faq.html</loc>
-    <lastmod>2021-06-01</lastmod>
+    <lastmod>2021-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -623,7 +623,7 @@
   </url>
   <url>
     <loc>http://nywineexperience.com/about.html</loc>
-    <lastmod>2021-06-01</lastmod>
+    <lastmod>2021-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -793,14 +793,38 @@
     </image:image>
   </url>
   <url>
-    <loc>http://nywineexperience.com/assets/nywe18-floorplan.pdf</loc>
-    <lastmod>2018-09-18</lastmod>
+    <loc>http://nywineexperience.com/wineries.html</loc>
+    <lastmod>2021-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/top.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/logo-header2021-pages.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/instagram.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/twitter.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/logo-header2021-pages-crop-u69049.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nywineexperience.com/assets/nywe19_floorplan.pdf</loc>
     <lastmod>2019-09-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://nywineexperience.com/assets/nywe18-floorplan.pdf</loc>
+    <lastmod>2018-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
