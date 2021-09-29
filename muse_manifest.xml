@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nywineexperience.com" resolutions="1x" timestamp="1632853643770">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nywineexperience.com" resolutions="1x" timestamp="1632928332425">
   <folder name="css">
-    <file name="site_global.css" crc="3906109028"/>
-    <file name="master_a-master-new.css" crc="216751059" ref="index"/>
-    <file name="nomq_preview_master_a-master-new.css" crc="4160143037" ref="index"/>
-    <file name="index.css" crc="500411752" ref="index"/>
+    <file name="site_global.css" crc="3881523326"/>
+    <file name="master_a-master-new.css" crc="3585465" ref="index"/>
+    <file name="nomq_preview_master_a-master-new.css" crc="268923289" ref="index"/>
+    <file name="index.css" crc="391265316" ref="index"/>
     <file name="nomq_index.css" crc="3942024611" ref="index"/>
     <file name="master_page-master-nav.css" crc="4080517111" ref="seminars:about:faq:wineries"/>
     <file name="nomq_preview_master_page-master-nav.css" crc="4040879577" ref="seminars:about:faq:wineries"/>
@@ -176,18 +176,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
@@ -200,18 +188,18 @@
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
+      <caption webpage="schedule" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
@@ -224,6 +212,18 @@
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
+      <caption webpage="2019-seminars" alt=""/>
     </file>
     <file name="2020-home2-crop-u86002.jpg" crc="277597342" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -1300,7 +1300,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="350903688" seo="true" mt="1631111668750" redirect="true"/>
+  <file name="index.html" crc="360898618" seo="true" mt="1632928316082" redirect="true"/>
   <file name="seminars.html" crc="468241430" seo="true" mt="1629938117340" redirect="true"/>
   <file name="faq.html" crc="358442483" seo="true" mt="1629402106708" redirect="true"/>
   <file name="about.html" crc="4021759198" seo="true" mt="1629402106708" redirect="true"/>
