@@ -1,28 +1,26 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nywineexperience.com" resolutions="1x" timestamp="1640031616880">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nywineexperience.com" resolutions="1x" timestamp="1645824984650">
   <folder name="css">
     <file name="site_global.css" crc="3906109028"/>
-    <file name="master_a-master-new.css" crc="4134393335" ref="index"/>
-    <file name="nomq_preview_master_a-master-new.css" crc="4163449763" ref="index"/>
-    <file name="index.css" crc="294764087" ref="index"/>
-    <file name="nomq_index.css" crc="3873016362" ref="index"/>
-    <file name="master_page-master-nav.css" crc="4003031706" ref="seminars:wineries:wines"/>
-    <file name="nomq_preview_master_page-master-nav.css" crc="462587950" ref="seminars:wineries:wines"/>
-    <file name="seminars.css" crc="250335601" ref="seminars"/>
-    <file name="nomq_seminars.css" crc="154077895" ref="seminars"/>
-    <file name="wineries.css" crc="3961341852" ref="wineries"/>
-    <file name="nomq_wineries.css" crc="417428815" ref="wineries"/>
-    <file name="wines.css" crc="418947582" ref="wines"/>
-    <file name="nomq_wines.css" crc="3924587893" ref="wines"/>
+    <file name="master_page-master-nav.css" crc="409667161" ref="wineries:seminars:wines"/>
+    <file name="nomq_preview_master_page-master-nav.css" crc="3923366576" ref="wineries:seminars:wines"/>
+    <file name="master_a-master-new.css" crc="4116124916" ref="index"/>
+    <file name="nomq_preview_master_a-master-new.css" crc="3771935650" ref="index"/>
+    <file name="wineries.css" crc="3863706451" ref="wineries"/>
+    <file name="nomq_wineries.css" crc="4260011116" ref="wineries"/>
+    <file name="seminars.css" crc="237285923" ref="seminars"/>
+    <file name="nomq_seminars.css" crc="431271663" ref="seminars"/>
+    <file name="wines.css" crc="41635379" ref="wines"/>
+    <file name="nomq_wines.css" crc="3905177654" ref="wines"/>
+    <file name="index.css" crc="456255315" ref="index"/>
+    <file name="nomq_index.css" crc="164701560" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-medium.woff" crc="3786760500"/>
     <file name="worksans-medium.eot" crc="4180403735"/>
-    <file name="worksans-regular.woff" crc="283533100"/>
-    <file name="worksans-regular.eot" crc="480645326"/>
     <file name="worksans-bold.woff" crc="180089418"/>
     <file name="worksans-bold.eot" crc="4098374513"/>
-    <file name="worksans-semibold.woff" crc="305149025"/>
-    <file name="worksans-semibold.eot" crc="120615377"/>
+    <file name="worksans-regular.woff" crc="283533100"/>
+    <file name="worksans-regular.eot" crc="480645326"/>
   </folder>
   <folder name="assets">
     <file name="nywe18-floorplan.pdf" crc="37617516" seo="true" mt="1537299229000"/>
@@ -31,29 +29,35 @@
     <file name="nywe21_safety.pdf" crc="4056462799" seo="true" mt="1634310570000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:seminars:wineries:wines"/>
-    <file name="museutils.js" crc="340535759" ref="index:seminars:wineries:wines"/>
-    <file name="whatinput.js" crc="86476730" ref="index:seminars:wineries:wines"/>
-    <file name="museconfig.js" crc="310584261" ref="index:seminars:wineries:wines"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:seminars:wineries:wines"/>
-    <file name="webpro.js" crc="4059564322" ref="index:seminars:wineries:wines"/>
-    <file name="musewpdisclosure.js" crc="3883500470" ref="index:seminars:wineries:wines"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index:seminars:wineries:wines"/>
-    <file name="require.js" crc="7928878" ref="index:seminars:wineries:wines"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:seminars:wines:wineries"/>
+    <file name="museutils.js" crc="340535759" ref="index:seminars:wines:wineries"/>
+    <file name="whatinput.js" crc="86476730" ref="index:seminars:wines:wineries"/>
+    <file name="museconfig.js" crc="310584261" ref="index:seminars:wines:wineries"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:seminars:wines:wineries"/>
+    <file name="webpro.js" crc="4059564322" ref="index:seminars:wines:wineries"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:seminars:wines:wineries"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:seminars:wines:wineries"/>
+    <file name="require.js" crc="7928878" ref="index:seminars:wines:wineries"/>
   </folder>
   <folder name="images">
     <file name="a-master-new-favicon.ico" crc="4220636928" ref="index"/>
-    <file name="spacer.jpg" crc="4145701943" seo="true" ref="index">
+    <file name="newlogo2022-header1800.jpg" crc="12433181" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="critics-choice-images22a.jpg" crc="126123254" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hotel.jpg" crc="35891927" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -64,62 +68,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="instagram-wht.png" crc="303704609" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="twitter-wht.png" crc="257207536" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="facebook-wht.png" crc="448365257" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="collage1800-2022.jpg" crc="4190036741" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -147,30 +96,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
-      <caption webpage="schedule" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
@@ -183,158 +108,162 @@
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
       <caption webpage="wineries" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="2019-seminars" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="index:seminars:wineries:wines"/>
-    <file name="hotel.jpg" crc="35891927" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-      <caption webpage="travel" alt=""/>
-    </file>
-    <file name="hotel360x254.jpg" crc="31768797" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="travel" alt=""/>
-    </file>
-    <file name="hotel339x240.jpg" crc="3825210827" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="travel" alt=""/>
-    </file>
-    <file name="hotel293x207.jpg" crc="3802782510" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="travel" alt=""/>
-    </file>
-    <file name="hotel265x187.jpg" crc="53886342" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="travel" alt=""/>
-    </file>
-    <file name="hotel226x160.jpg" crc="4057643220" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="travel" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
     </file>
     <file name="hotel363x256.jpg" crc="3989127898" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newlogo2022-header1800899x445.jpg" crc="4282955992" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="critics-choice-images22a899x223.jpg" crc="4255586918" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="hotel347x245.jpg" crc="431958103" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="collage1800-2022899x446.jpg" crc="3824064181" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newlogo2022-header1800850x421.jpg" crc="456965758" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="critics-choice-images22a851x211.jpg" crc="449997321" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="hotel328x232.jpg" crc="411486348" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage1800-2022850x421.jpg" crc="3943265013" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newlogo2022-header1800802x397.jpg" crc="3882783907" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="critics-choice-images22a802x199.jpg" crc="3967161164" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="hotel310x219.jpg" crc="4098876918" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="collage1800-2022802x398.jpg" crc="153616785" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newlogo2022-header1800768x380.jpg" crc="4244437318" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="critics-choice-images22a768x191.jpg" crc="317390254" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="hotel297x210.jpg" crc="487183008" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="collage1800-2022768x381.jpg" crc="3989050856" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newlogo2022-header1800736x365.jpg" crc="58232063" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="critics-choice-images22a736x183.jpg" crc="121681776" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage1800-2022736x365.jpg" crc="3879953881" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newlogo2022-header1800705x349.jpg" crc="4107225584" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="critics-choice-images22a705x175.jpg" crc="281838601" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage1800-2022705x350.jpg" crc="438920417" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newlogo2022-header1800667x330.jpg" crc="4136812525" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="critics-choice-images22a667x166.jpg" crc="4006940746" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage1800-2022667x331.jpg" crc="4223262754" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newlogo2022-header1800631x313.jpg" crc="4081082844" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="critics-choice-images22a631x157.jpg" crc="415813875" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage1800-2022631x313.jpg" crc="3850557207" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newlogo2022-header1800568x281.jpg" crc="97032268" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="critics-choice-images22a568x141.jpg" crc="4045472683" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hotel360x254.jpg" crc="31768797" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collage1800-2022568x282.jpg" crc="3926956350" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:seminars:wines:wineries"/>
     <file name="menu.png" crc="109270169" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="newlogo2022-header1800480x238.jpg" crc="289964167" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hotel339x240.jpg" crc="3825210827" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collagemobile-2022.jpg" crc="3939421618" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newlogo2022-header1800414x205.jpg" crc="388117278" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hotel293x207.jpg" crc="3802782510" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newlogo2022-header1800375x186.jpg" crc="457472581" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hotel265x187.jpg" crc="53886342" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newlogo2022-header1800320x159.jpg" crc="3989981272" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hotel226x160.jpg" crc="4057643220" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="collagemobile-2022320x825.jpg" crc="4017682066" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="page-master-nav-favicon.ico" crc="4220636928" ref="seminars"/>
-    <file name="instagram.png" crc="519816155" seo="true" ref="seminars:wineries:wines">
+    <file name="logo-header2022-pagesb.png" crc="250114170" seo="true" ref="seminars:wines:wineries">
       <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="agenda" alt=""/>
       <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-    </file>
-    <file name="twitter.png" crc="4271290202" seo="true" ref="seminars:wineries:wines">
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="faq" alt=""/>
-    </file>
-    <file name="facebook.png" crc="4012376423" seo="true" ref="seminars:wineries:wines">
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="faq" alt=""/>
     </file>
     <file name="cristie-kerr.jpg" crc="128832531" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
@@ -406,6 +335,20 @@
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
     </file>
+    <file name="gaja-family1.jpg" crc="4221927452" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+    </file>
     <file name="harlans.jpg" crc="440055509" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
@@ -440,6 +383,20 @@
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="corinne.jpg" crc="191284721" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="michael-lomanaco.jpg" crc="206044294" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
@@ -542,67 +499,11 @@
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="twitter25x25.png" crc="4271290202" seo="true" ref="seminars">
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="faq" alt=""/>
-    </file>
-    <file name="facebook25x25.png" crc="4012376423" seo="true" ref="seminars">
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="faq" alt=""/>
-    </file>
-    <file name="twitter24x24.png" crc="4271290202" seo="true" ref="seminars">
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="faq" alt=""/>
-    </file>
-    <file name="facebook24x24.png" crc="4012376423" seo="true" ref="seminars">
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="faq" alt=""/>
-    </file>
-    <file name="twitter20x20.png" crc="3921369394" seo="true" ref="seminars">
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="faq" alt=""/>
-    </file>
-    <file name="facebook20x20.png" crc="4012376423" seo="true" ref="seminars">
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="faq" alt=""/>
-    </file>
     <file name="gallo360x335.jpg" crc="527756461" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="corinne360x335.jpg" crc="3957836809" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
-    </file>
-    <file name="twitter18x18.png" crc="3885402198" seo="true" ref="seminars">
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="faq" alt=""/>
-    </file>
-    <file name="facebook18x18.png" crc="4068670910" seo="true" ref="seminars">
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="faq" alt=""/>
     </file>
     <file name="gallo308x286.jpg" crc="104713603" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
@@ -610,59 +511,17 @@
     <file name="corinne308x286.jpg" crc="4017265616" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="twitter17x17.png" crc="3933508655" seo="true" ref="seminars">
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="faq" alt=""/>
-    </file>
-    <file name="facebook17x17.png" crc="3827393949" seo="true" ref="seminars">
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="faq" alt=""/>
-    </file>
     <file name="gallo295x275.jpg" crc="3949640499" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="corinne295x275.jpg" crc="4010359196" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="twitter16x16.png" crc="3844033145" seo="true" ref="seminars">
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="faq" alt=""/>
-    </file>
-    <file name="facebook16x16.png" crc="118728729" seo="true" ref="seminars">
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="faq" alt=""/>
-    </file>
     <file name="gallo267x249.jpg" crc="4119157549" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="corinne267x249.jpg" crc="236305006" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
-    </file>
-    <file name="twitter14x14.png" crc="4086997605" seo="true" ref="seminars">
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="faq" alt=""/>
-    </file>
-    <file name="facebook14x14.png" crc="4078478422" seo="true" ref="seminars">
-      <caption webpage="agenda" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="faq" alt=""/>
     </file>
     <file name="gallo228x212.jpg" crc="191609920" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
@@ -694,483 +553,317 @@
     <file name="corinne160x150.jpg" crc="3911742603" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="gaja-family1.jpg" crc="4221927452" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-    </file>
-    <file name="michael-lomanaco.jpg" crc="206044294" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-    </file>
-    <file name="2021-home1.jpg" crc="4020987540" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2021-home2-crop-u8600.jpg" crc="3780021559" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2021-home3-crop-u8603.jpg" crc="4230295432" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="weekend22.png" crc="330070381" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="critics-choice22.png" crc="3951205895" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="critics-choice-images22.jpg" crc="3875579045" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="collage1800-2022.jpg" crc="4190036741" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2021-home2-crop-u86002.jpg" crc="3895454452" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2021-home3-crop-u86032.jpg" crc="478153944" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="weekend22469x521.png" crc="330070381" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="critics-choice22469x521.png" crc="3951205895" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2021-home1360x360.jpg" crc="4263906829" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2021-home2-crop-u86003.jpg" crc="393200768" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2021-home3-crop-u86033.jpg" crc="270861126" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="weekend22446x496.png" crc="330070381" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="critics-choice22446x496.png" crc="3951205895" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2021-home1344x344.jpg" crc="90177686" seo="true" ref="index">
+    <file name="2022-home1b.jpg" crc="3926544806" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="2021-home2-crop-u86004.jpg" crc="4188614178" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2021-home3-crop-u86034.jpg" crc="109322480" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="weekend22427x475.png" crc="330070381" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="critics-choice22427x475.png" crc="3951205895" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2021-home1335x335.jpg" crc="4148265607" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2021-home2-crop-u86005.jpg" crc="525072078" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2021-home3-crop-u86035.jpg" crc="501135476" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="weekend22416x462.png" crc="330070381" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="critics-choice22416x462.png" crc="3951205895" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2021-home1316x316.jpg" crc="3911911455" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2021-home2-crop-u86006.jpg" crc="344027768" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2021-home3-crop-u86036.jpg" crc="3906769466" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="weekend22392x435.png" crc="330070381" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="critics-choice22392x435.png" crc="3951205895" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2021-home1302x302.jpg" crc="168295647" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2021-home2-crop-u86007.jpg" crc="3803052972" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2021-home3-crop-u86037.jpg" crc="4062825619" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="weekend22375x417.png" crc="330070381" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="critics-choice22375x417.png" crc="3951205895" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="critics-choice-images22899x223.jpg" crc="3881396612" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="collage1800-2022899x446.jpg" crc="3824064181" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="2021-home1286x286.jpg" crc="3882410332" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home2-crop-u86008.jpg" crc="3801193240" seo="true" ref="index">
+    <file name="2022-home2b-crop-u8600.jpg" crc="4183559027" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home3-crop-u86038.jpg" crc="369667370" seo="true" ref="index">
+    <file name="2022-home3b-crop-u8603.jpg" crc="528211241" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="weekend22355x394.png" crc="330070381" seo="true" ref="index">
+    <file name="weekend-package22b.png" crc="468884749" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="critics-choice22355x394.png" crc="3951205895" seo="true" ref="index">
+    <file name="critics-choice22b.png" crc="204993760" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="critics-choice-images22851x211.jpg" crc="89379414" seo="true" ref="index">
+    <file name="2022-home2b-crop-u86002.jpg" crc="362409874" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage1800-2022850x421.jpg" crc="3943265013" seo="true" ref="index">
+    <file name="2022-home3b-crop-u86032.jpg" crc="3951068607" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home1270x270.jpg" crc="501677023" seo="true" ref="index">
+    <file name="weekend-package22b469x521.png" crc="468884749" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home2-crop-u86009.jpg" crc="4077444255" seo="true" ref="index">
+    <file name="critics-choice22b469x521.png" crc="204993760" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home3-crop-u86039.jpg" crc="21140880" seo="true" ref="index">
+    <file name="2022-home1b360x228.jpg" crc="367133954" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="weekend22335x372.png" crc="330070381" seo="true" ref="index">
+    <file name="2022-home2b-crop-u86003.jpg" crc="3785470120" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="critics-choice22335x372.png" crc="3951205895" seo="true" ref="index">
+    <file name="2022-home3b-crop-u86033.jpg" crc="174824064" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="critics-choice-images22802x199.jpg" crc="4294109728" seo="true" ref="index">
+    <file name="weekend-package22b446x496.png" crc="468884749" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage1800-2022802x398.jpg" crc="153616785" seo="true" ref="index">
+    <file name="critics-choice22b446x496.png" crc="204993760" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home1258x258.jpg" crc="4092874833" seo="true" ref="index">
+    <file name="2022-home1b344x218.jpg" crc="3899666006" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home2-crop-u860010.jpg" crc="4266453119" seo="true" ref="index">
+    <file name="2022-home2b-crop-u86004.jpg" crc="496676736" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home3-crop-u860310.jpg" crc="345206949" seo="true" ref="index">
+    <file name="2022-home3b-crop-u86034.jpg" crc="87525164" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="weekend22320x356.png" crc="330070381" seo="true" ref="index">
+    <file name="weekend-package22b427x475.png" crc="468884749" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="critics-choice22320x356.png" crc="3951205895" seo="true" ref="index">
+    <file name="critics-choice22b427x475.png" crc="204993760" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="critics-choice-images22768x191.jpg" crc="3909707669" seo="true" ref="index">
+    <file name="critics-choice22b416x462.png" crc="204993760" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage1800-2022768x381.jpg" crc="3989050856" seo="true" ref="index">
+    <file name="weekend-package22b416x462.png" crc="468884749" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home1248x248.jpg" crc="361090770" seo="true" ref="index">
+    <file name="2022-home1b335x212.jpg" crc="211812005" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home2-crop-u860011.jpg" crc="164467520" seo="true" ref="index">
+    <file name="2022-home2b-crop-u86005.jpg" crc="3760632134" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home3-crop-u860311.jpg" crc="4096178756" seo="true" ref="index">
+    <file name="2022-home3b-crop-u86035.jpg" crc="4192983839" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="weekend22307x341.png" crc="330070381" seo="true" ref="index">
+    <file name="critics-choice22b392x435.png" crc="204993760" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="critics-choice22307x341.png" crc="3951205895" seo="true" ref="index">
+    <file name="weekend-package22b392x435.png" crc="468884749" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="critics-choice-images22736x183.jpg" crc="420356916" seo="true" ref="index">
+    <file name="2022-home1b316x200.jpg" crc="413141679" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage1800-2022736x365.jpg" crc="3879953881" seo="true" ref="index">
+    <file name="2022-home2b-crop-u86006.jpg" crc="4088531576" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home1237x237.jpg" crc="416973676" seo="true" ref="index">
+    <file name="2022-home3b-crop-u86036.jpg" crc="369726457" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home2-crop-u860012.jpg" crc="315461595" seo="true" ref="index">
+    <file name="critics-choice22b375x417.png" crc="204993760" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home3-crop-u860312.jpg" crc="500193837" seo="true" ref="index">
+    <file name="weekend-package22b375x417.png" crc="4067940513" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="weekend22294x327.png" crc="330070381" seo="true" ref="index">
+    <file name="2022-home1b302x192.jpg" crc="3873124109" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="critics-choice22294x327.png" crc="4123774809" seo="true" ref="index">
+    <file name="2022-home2b-crop-u86007.jpg" crc="4238567800" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="critics-choice-images22705x175.jpg" crc="4130602273" seo="true" ref="index">
+    <file name="2022-home3b-crop-u86037.jpg" crc="150764378" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage1800-2022705x350.jpg" crc="438920417" seo="true" ref="index">
+    <file name="2022-home1b286x181.jpg" crc="3875839912" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home1224x224.jpg" crc="4202424041" seo="true" ref="index">
+    <file name="2022-home2b-crop-u86008.jpg" crc="4101139993" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home2-crop-u860013.jpg" crc="358982650" seo="true" ref="index">
+    <file name="2022-home3b-crop-u86038.jpg" crc="3808945720" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home3-crop-u860313.jpg" crc="202675677" seo="true" ref="index">
+    <file name="weekend-package22b355x394.png" crc="258540622" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="weekend22278x309.png" crc="77637720" seo="true" ref="index">
+    <file name="critics-choice22b355x394.png" crc="368026469" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="critics-choice22278x309.png" crc="3800251974" seo="true" ref="index">
+    <file name="critics-choice22b335x372.png" crc="3916922292" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="critics-choice-images22667x166.jpg" crc="14133747" seo="true" ref="index">
+    <file name="weekend-package22b335x372.png" crc="284398202" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage1800-2022667x331.jpg" crc="4223262754" seo="true" ref="index">
+    <file name="2022-home1b270x171.jpg" crc="3882762315" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home1212x212.jpg" crc="355821316" seo="true" ref="index">
+    <file name="2022-home2b-crop-u86009.jpg" crc="4189140706" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home2-crop-u860014.jpg" crc="533338759" seo="true" ref="index">
+    <file name="2022-home3b-crop-u86039.jpg" crc="444350841" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home3-crop-u860314.jpg" crc="38667877" seo="true" ref="index">
+    <file name="critics-choice22b320x356.png" crc="344956383" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="weekend22263x293.png" crc="253790379" seo="true" ref="index">
+    <file name="weekend-package22b320x356.png" crc="245970582" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="critics-choice22263x293.png" crc="3791852761" seo="true" ref="index">
+    <file name="2022-home1b258x164.jpg" crc="4170278550" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="critics-choice-images22631x157.jpg" crc="3868281498" seo="true" ref="index">
+    <file name="2022-home2b-crop-u860010.jpg" crc="75999288" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage1800-2022631x313.jpg" crc="3850557207" seo="true" ref="index">
+    <file name="2022-home3b-crop-u860310.jpg" crc="4223009182" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home1191x191.jpg" crc="3842774472" seo="true" ref="index">
+    <file name="critics-choice22b307x341.png" crc="4095152334" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home2-crop-u860015.jpg" crc="6199239" seo="true" ref="index">
+    <file name="weekend-package22b307x341.png" crc="360378168" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home3-crop-u860315.jpg" crc="4022629732" seo="true" ref="index">
+    <file name="2022-home1b248x157.jpg" crc="54605172" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="critics-choice22490x544.png" crc="3951205895" seo="true" ref="index">
+    <file name="2022-home2b-crop-u860011.jpg" crc="505119109" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="weekend22490x545.png" crc="330070381" seo="true" ref="index">
+    <file name="2022-home3b-crop-u860311.jpg" crc="112133301" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="critics-choice-images22568x141.jpg" crc="3997247363" seo="true" ref="index">
+    <file name="2022-home1b237x150.jpg" crc="4008516471" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collage1800-2022568x282.jpg" crc="3926956350" seo="true" ref="index">
+    <file name="2022-home2b-crop-u860012.jpg" crc="4275213652" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home2-crop-u860016.jpg" crc="4267451457" seo="true" ref="index">
+    <file name="2022-home3b-crop-u860312.jpg" crc="3886389294" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home3-crop-u860316.jpg" crc="4043527987" seo="true" ref="index">
+    <file name="weekend-package22b294x327.png" crc="442807026" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="critics-choice22406x451.png" crc="3951205895" seo="true" ref="index">
+    <file name="critics-choice22b294x327.png" crc="3816626856" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="weekend22406x451.png" crc="330070381" seo="true" ref="index">
+    <file name="critics-choice22b278x309.png" crc="4057922389" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="critics-choice-images-stacked22.jpg" crc="3773433345" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="weekend-package22b278x309.png" crc="3951703426" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collagemobile-2022.jpg" crc="3939421618" seo="true" ref="index">
+    <file name="2022-home1b224x142.jpg" crc="4264147319" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home2-crop-u860017.jpg" crc="433218137" seo="true" ref="index">
+    <file name="2022-home2b-crop-u860013.jpg" crc="362975546" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home3-crop-u860317.jpg" crc="3995799015" seo="true" ref="index">
+    <file name="2022-home3b-crop-u860313.jpg" crc="3993782856" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="critics-choice22349x388.png" crc="3951205895" seo="true" ref="index">
+    <file name="critics-choice22b263x293.png" crc="486065890" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="weekend22349x388.png" crc="330070381" seo="true" ref="index">
+    <file name="weekend-package22b263x293.png" crc="68841624" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home2-crop-u860018.jpg" crc="261142466" seo="true" ref="index">
+    <file name="2022-home1b212x135.jpg" crc="183925312" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home3.jpg" crc="3883849311" seo="true" ref="index">
+    <file name="2022-home2b-crop-u860014.jpg" crc="4087085310" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="critics-choice22308x342.png" crc="3951205895" seo="true" ref="index">
+    <file name="2022-home3b-crop-u860314.jpg" crc="3810016737" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="weekend22308x342.png" crc="330070381" seo="true" ref="index">
+    <file name="2022-home1b191x121.jpg" crc="11694238" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home1320x320.jpg" crc="460776859" seo="true" ref="index">
+    <file name="2022-home2b-crop-u860015.jpg" crc="454105153" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home2-crop-u860019.jpg" crc="500272871" seo="true" ref="index">
+    <file name="2022-home3b-crop-u860315.jpg" crc="34970813" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2021-home3-crop-u860318.jpg" crc="3916161851" seo="true" ref="index">
+    <file name="critics-choice22b490x544.png" crc="204993760" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="critics-choice22271x301.png" crc="4055390212" seo="true" ref="index">
+    <file name="weekend-package22b490x545.png" crc="468884749" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="weekend22271x301.png" crc="3872631966" seo="true" ref="index">
+    <file name="critics-choice22b406x451.png" crc="204993760" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="critics-choice-images-stacked22320x657.jpg" crc="4152867088" seo="true" ref="index">
+    <file name="weekend-package22b406x451.png" crc="468884749" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="collagemobile-2022320x825.jpg" crc="4017682066" seo="true" ref="index">
+    <file name="2022-home2b-crop-u860016.jpg" crc="4066324076" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo2022-header1800.jpg" crc="22816223" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="2022-home3b-crop-u860316.jpg" crc="4034553877" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo2022-header1800899x445.jpg" crc="190935687" seo="true" ref="index">
+    <file name="critics-choice22b349x388.png" crc="4247359578" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo2022-header1800850x421.jpg" crc="66265114" seo="true" ref="index">
+    <file name="weekend-package22b349x388.png" crc="329339670" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo2022-header1800802x397.jpg" crc="93597753" seo="true" ref="index">
+    <file name="2022-home2b-crop-u860017.jpg" crc="204509860" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo2022-header1800768x380.jpg" crc="4123936728" seo="true" ref="index">
+    <file name="2022-home3b-crop-u860317.jpg" crc="4021951852" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo2022-header1800736x365.jpg" crc="303981370" seo="true" ref="index">
+    <file name="critics-choice22b308x342.png" crc="4095152334" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo2022-header1800705x349.jpg" crc="3966490917" seo="true" ref="index">
+    <file name="weekend-package22b308x342.png" crc="360378168" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo2022-header1800667x330.jpg" crc="3934291965" seo="true" ref="index">
+    <file name="2022-home2b-crop-u860018.jpg" crc="4117496210" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo2022-header1800631x313.jpg" crc="4167492932" seo="true" ref="index">
+    <file name="2022-home3b.jpg" crc="289872307" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo2022-header1800568x281.jpg" crc="4140628386" seo="true" ref="index">
+    <file name="critics-choice22b271x301.png" crc="3960884795" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo2022-header1800480x238.jpg" crc="382199753" seo="true" ref="index">
+    <file name="weekend-package22b271x301.png" crc="3975235917" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo2022-header1800414x205.jpg" crc="371494080" seo="true" ref="index">
+    <file name="2022-home1b320x203.jpg" crc="3859671036" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo2022-header1800375x186.jpg" crc="4045466519" seo="true" ref="index">
+    <file name="2022-home2b-crop-u860019.jpg" crc="3788028868" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo2022-header1800320x159.jpg" crc="3858451541" seo="true" ref="index">
+    <file name="2022-home3b-crop-u860318.jpg" crc="297039977" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo-header2022-pages-r1.png" crc="4263603352" seo="true" ref="seminars:wines:wineries">
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
+    <file name="logo-header2022-pagesb1068x416.png" crc="250114170" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="logo-header2022-pages-r1682x266.png" crc="41670707" seo="true" ref="seminars">
+    <file name="logo-header2022-pagesb1025x399.png" crc="250114170" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="logo-header2022-pages-r1634x247.png" crc="4110604665" seo="true" ref="seminars">
+    <file name="logo-header2022-pagesb901x351.png" crc="429011988" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="logo-header2022-pages-r1573x223.png" crc="4171290860" seo="true" ref="seminars">
+    <file name="logo-header2022-pagesb764x297.png" crc="244389005" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="logo-header2022-pages-r1490x191.png" crc="514730658" seo="true" ref="seminars">
+    <file name="logo-header2022-pagesb732x285.png" crc="44022173" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="logo-header2022-pages-r1440x171.png" crc="367081917" seo="true" ref="seminars">
+    <file name="logo-header2022-pagesb665x259.png" crc="141850447" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="logo-header2022-pages-r1371x144.png" crc="84335397" seo="true" ref="seminars">
+    <file name="logo-header2022-pagesb565x220.png" crc="4079825956" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="logo-header2022-pages-r1347x135.png" crc="3091533" seo="true" ref="seminars">
+    <file name="logo-header2022-pagesb625x243.png" crc="313883667" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="logo-header2022-pages-r1274x107.png" crc="3793105819" seo="true" ref="seminars">
+    <file name="logo-header2022-pagesb556x216.png" crc="243045861" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="sign-up.png" crc="3867274703" seo="true" ref="index">
+    <file name="logo-header2022-pagesb510x198.png" crc="4263663476" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="logo-header2022-pagesb449x175.png" crc="4125934895" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="room-block.png" crc="3801030489" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -1191,30 +884,17 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="coverage.png" crc="4024253636" seo="true" ref="index">
+    <file name="critics-choice-images-stacked22a.jpg" crc="120410201" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    </file>
+    <file name="critics-choice-images-stacked22a320x657.jpg" crc="3881442156" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4194751411" seo="true" mt="1640031520160" redirect="true"/>
-  <file name="seminars.html" crc="198485760" seo="true" mt="1639688379769" redirect="true"/>
-  <file name="wineries.html" crc="3806109834" seo="true" mt="1639688379769" redirect="true"/>
-  <file name="wines.html" crc="227043832" seo="true" mt="1639688379769" redirect="true"/>
+  <file name="index.html" crc="4012020807" seo="true" mt="1645824958617" redirect="true"/>
+  <file name="seminars.html" crc="138967083" seo="true" mt="1645812774704" redirect="true"/>
+  <file name="wines.html" crc="332288254" seo="true" mt="1645814429722" redirect="true"/>
+  <file name="wineries.html" crc="22392227" seo="true" mt="1645814436562" redirect="true"/>
 </manifest>
