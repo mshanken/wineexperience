@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://nywineexperience.com/index.html</loc>
-    <lastmod>2023-01-31</lastmod>
+    <lastmod>2023-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -462,12 +462,6 @@
       <image:loc>http://nywineexperience.com/images/eventpic4b-crop-u876298.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nywineexperience.com/images/weekend-ticket-option-mobile.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/weekend-ticket-option-mobile321x533.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://nywineexperience.com/images/eventpic1-crop-u86223.jpg</image:loc>
     </image:image>
     <image:image>
@@ -581,10 +575,16 @@
     <image:image>
       <image:loc>http://nywineexperience.com/images/nywe23-ticket-options-mobile320x533.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/nywe23-ticket-options-mobile2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/nywe23-ticket-options-mobile321x533.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nywineexperience.com/faq.html</loc>
-    <lastmod>2023-01-25</lastmod>
+    <lastmod>2023-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
