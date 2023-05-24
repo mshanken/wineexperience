@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nywineexperience.com" resolutions="1x" timestamp="1684678290358">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nywineexperience.com" resolutions="1x" timestamp="1684956967875">
   <folder name="css">
     <file name="site_global.css" crc="3906109028"/>
     <file name="master_a-master-new.css" crc="194593849" ref="index:faq"/>
@@ -7,9 +7,9 @@
     <file name="nomq_faq.css" crc="23906133" ref="faq"/>
     <file name="index.css" crc="3984937203" ref="index"/>
     <file name="nomq_index.css" crc="283698172" ref="index"/>
-    <file name="seminars.css" crc="3900428865" ref="seminars"/>
+    <file name="seminars.css" crc="429100688" ref="seminars"/>
     <file name="nomq_seminars.css" crc="406750500" ref="seminars"/>
-    <file name="master_seminars.css" crc="4104489966" ref="seminars"/>
+    <file name="master_seminars.css" crc="444936156" ref="seminars"/>
     <file name="nomq_preview_master_seminars.css" crc="3830014102" ref="seminars"/>
   </folder>
   <folder name="fonts">
@@ -331,6 +331,21 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
@@ -361,21 +376,6 @@
       <caption webpage="agenda" alt=""/>
       <caption webpage="agenda" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:faq:seminars"/>
     <file name="menu.png" crc="109270169" seo="true" ref="index:faq:seminars">
@@ -797,12 +797,12 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
       <caption webpage="faq" alt=""/>
       <caption webpage="faq" alt=""/>
       <caption webpage="faq" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
     </file>
     <file name="wine-glasses-50-crop-u91592.jpg" crc="3898610638" seo="true" ref="index:faq">
       <caption webpage="index" alt=""/>
@@ -1077,10 +1077,6 @@
     <file name="nywe23-ticket-options-mobile321x533.jpg" crc="435779119" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sarah-jessica-parker.jpg" crc="132259157" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-    </file>
     <file name="gavin-newsom.jpg" crc="460024258" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
@@ -1136,9 +1132,6 @@
     <file name="chefs.jpg" crc="441916334" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="sarah-jessica-parker460x385.jpg" crc="3831140068" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
     <file name="gavin-newsom460x385.jpg" crc="4085580718" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
@@ -1176,9 +1169,6 @@
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="matt-courtney411x344.jpg" crc="186977621" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
-    <file name="sarah-jessica-parker411x344.jpg" crc="353973299" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="gavin-newsom411x344.jpg" crc="3882130540" seo="true" ref="seminars">
@@ -1220,9 +1210,6 @@
     <file name="matt-courtney367x307.jpg" crc="336725878" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="sarah-jessica-parker329x275.jpg" crc="3841344924" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
     <file name="gavin-newsom329x275.jpg" crc="146969235" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
@@ -1260,9 +1247,6 @@
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="matt-courtney293x246.jpg" crc="4122521424" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
-    <file name="sarah-jessica-parker293x246.jpg" crc="348459796" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="gavin-newsom293x246.jpg" crc="3794917198" seo="true" ref="seminars">
@@ -1340,9 +1324,6 @@
     <file name="matt-courtney250x210.jpg" crc="472407958" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="sarah-jessica-parker246x206.jpg" crc="4028029229" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
     <file name="gavin-newsom246x206.jpg" crc="311033164" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
@@ -1380,9 +1361,6 @@
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="matt-courtney220x184.jpg" crc="146985790" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
-    <file name="sarah-jessica-parker233x195.jpg" crc="4185678582" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="gavin-newsom233x195.jpg" crc="230469967" seo="true" ref="seminars">
@@ -1424,9 +1402,6 @@
     <file name="matt-courtney208x174.jpg" crc="278345512" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="sarah-jessica-parker220x184.jpg" crc="4265307970" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
     <file name="gavin-newsom220x184.jpg" crc="4174829121" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
@@ -1464,9 +1439,6 @@
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="matt-courtney196x165.jpg" crc="371404339" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
-    <file name="sarah-jessica-parker210x176.jpg" crc="4022320533" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="gavin-newsom210x176.jpg" crc="517778748" seo="true" ref="seminars">
@@ -1508,9 +1480,6 @@
     <file name="matt-courtney188x158.jpg" crc="4017974809" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="sarah-jessica-parker202x169.jpg" crc="52290379" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
     <file name="gavin-newsom202x169.jpg" crc="258177293" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
@@ -1550,9 +1519,6 @@
     <file name="matt-courtney180x151.jpg" crc="52705487" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="sarah-jessica-parker183x153.jpg" crc="3805697023" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
     <file name="gavin-newsom183x153.jpg" crc="514540616" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
@@ -1590,9 +1556,6 @@
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="matt-courtney163x137.jpg" crc="193338899" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
-    <file name="sarah-jessica-parker156x131.jpg" crc="224531493" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="gavin-newsom156x131.jpg" crc="271152204" seo="true" ref="seminars">
@@ -1863,10 +1826,6 @@
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="top10-9.jpg" crc="442070104" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-    </file>
     <file name="seminar_fade1680x870.jpg" crc="3816971197" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
@@ -1877,9 +1836,6 @@
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="top10-8411x344.jpg" crc="13156095" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
-    <file name="top10-9411x344.jpg" crc="3995667139" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="seminar_fade1500x777.jpg" crc="220978461" seo="true" ref="seminars">
@@ -1894,9 +1850,6 @@
     <file name="top10-8367x307.jpg" crc="522882309" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="top10-9367x307.jpg" crc="122734691" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
     <file name="seminar_fade1200x622.jpg" crc="24239707" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
@@ -1909,9 +1862,6 @@
     <file name="top10-8293x246.jpg" crc="4213685687" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="top10-9293x246.jpg" crc="4201837447" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
     <file name="seminar_fade1070x554.jpg" crc="110961336" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
@@ -1922,9 +1872,6 @@
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="top10-8262x219.jpg" crc="480488867" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
-    <file name="top10-9262x219.jpg" crc="3765085653" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="top10-1250x210.jpg" crc="3784151865" seo="true" ref="seminars">
@@ -1948,9 +1895,6 @@
     <file name="top10-8220x184.jpg" crc="3981633519" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="top10-9220x184.jpg" crc="468070583" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
     <file name="seminar_fade850x440.jpg" crc="3867748696" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
@@ -1961,9 +1905,6 @@
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="top10-8208x174.jpg" crc="509496348" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
-    <file name="top10-9208x174.jpg" crc="389533915" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="seminar_fade802x416.jpg" crc="3969044735" seo="true" ref="seminars">
@@ -1978,9 +1919,6 @@
     <file name="top10-8196x165.jpg" crc="215545935" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="top10-9196x165.jpg" crc="78995622" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
     <file name="seminar_fade768x398.jpg" crc="3972383554" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
@@ -1991,9 +1929,6 @@
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="top10-8188x158.jpg" crc="4088045777" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
-    <file name="top10-9188x158.jpg" crc="232393674" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="seminar_fade736x381.jpg" crc="4247789778" seo="true" ref="seminars">
@@ -2008,9 +1943,6 @@
     <file name="top10-8180x151.jpg" crc="3915323562" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="top10-9180x151.jpg" crc="94111096" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
     <file name="seminar_fade667x346.jpg" crc="3894986174" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
@@ -2023,9 +1955,6 @@
     <file name="top10-8163x137.jpg" crc="131646622" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="top10-9163x137.jpg" crc="532412297" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
     <file name="seminar_fade568x294.jpg" crc="3867088068" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
@@ -2036,9 +1965,6 @@
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="top10-8139x117.jpg" crc="4180034152" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
-    <file name="top10-9139x117.jpg" crc="255354549" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="seminar_fade480x249.jpg" crc="4202126946" seo="true" ref="seminars">
@@ -2103,9 +2029,6 @@
     <file name="vitalie-taittinger251x210.jpg" crc="166695970" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="sarah-jessica-parker281x235.jpg" crc="4161503251" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
     <file name="chefs-crop-u1039425.jpg" crc="479264516" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
@@ -2113,9 +2036,6 @@
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="top10-5r1250x210.jpg" crc="3827344466" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
-    <file name="top10-9251x210.jpg" crc="536868821" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="chefs-crop-u1039426.jpg" crc="245471331" seo="true" ref="seminars">
@@ -2193,9 +2113,6 @@
     <file name="adrian-bridge400x336.jpg" crc="3871242841" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="sarah-jessica-parker400x336.jpg" crc="4175426169" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
     <file name="gavin-newsom400x336.jpg" crc="193259163" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
@@ -2245,9 +2162,6 @@
     <file name="top10-8400x336.jpg" crc="73373629" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="top10-9400x336.jpg" crc="501240692" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
     <file name="vitalie-taittinger345x290.jpg" crc="4047218145" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
@@ -2270,9 +2184,6 @@
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="adrian-bridge345x290.jpg" crc="175687941" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
-    <file name="sarah-jessica-parker345x290.jpg" crc="164366661" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="gavin-newsom345x290.jpg" crc="428595155" seo="true" ref="seminars">
@@ -2324,9 +2235,6 @@
     <file name="top10-8345x290.jpg" crc="4262012045" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="top10-9345x290.jpg" crc="402523253" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
     <file name="vitalie-taittinger313x262.jpg" crc="4042609132" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
@@ -2349,9 +2257,6 @@
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="adrian-bridge313x262.jpg" crc="4056781600" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
-    <file name="sarah-jessica-parker313x262.jpg" crc="3842603138" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="gavin-newsom313x262.jpg" crc="4289042053" seo="true" ref="seminars">
@@ -2403,9 +2308,6 @@
     <file name="top10-8313x262.jpg" crc="302228864" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="top10-9313x262.jpg" crc="4230852175" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
     <file name="vitalie-taittinger267x224.jpg" crc="44631185" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
@@ -2428,9 +2330,6 @@
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="adrian-bridge267x224.jpg" crc="3907904908" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
-    <file name="sarah-jessica-parker267x224.jpg" crc="68404621" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="gavin-newsom267x224.jpg" crc="4209148909" seo="true" ref="seminars">
@@ -2477,9 +2376,6 @@
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="top10-8267x224.jpg" crc="3856524063" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-    </file>
-    <file name="top10-9267x224.jpg" crc="523159559" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
     <file name="chefs778x331.jpg" crc="533973071" seo="true" ref="seminars">
@@ -2811,8 +2707,112 @@
     <file name="grand-tastings-ticket-option-mobile3320x533.jpg" crc="4188747856" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="sarah-jessica-parker-r1.jpg" crc="266180075" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="top10-9r1.jpg" crc="142865317" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="sarah-jessica-parker-r1460x385.jpg" crc="4125517548" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="top10-9r1411x344.jpg" crc="222395151" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="sarah-jessica-parker-r1411x344.jpg" crc="369402842" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="top10-9r1367x307.jpg" crc="306836138" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="sarah-jessica-parker-r1329x275.jpg" crc="3972635758" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="top10-9r1293x246.jpg" crc="432307010" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="sarah-jessica-parker-r1293x246.jpg" crc="413324755" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="top10-9r1262x219.jpg" crc="364467706" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="sarah-jessica-parker-r1281x235.jpg" crc="498683838" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="top10-9r1251x210.jpg" crc="4097506272" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="sarah-jessica-parker-r1246x206.jpg" crc="296996127" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="top10-9r1220x184.jpg" crc="3781493992" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="sarah-jessica-parker-r1233x195.jpg" crc="317546972" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="top10-9r1208x174.jpg" crc="237653863" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="sarah-jessica-parker-r1220x184.jpg" crc="3966450088" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="top10-9r1196x165.jpg" crc="3823241832" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="sarah-jessica-parker-r1210x176.jpg" crc="4030274824" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="top10-9r1188x158.jpg" crc="4067245355" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="sarah-jessica-parker-r1202x169.jpg" crc="402145451" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="top10-9r1180x151.jpg" crc="55258354" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="sarah-jessica-parker-r1183x153.jpg" crc="485850163" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="top10-9r1163x137.jpg" crc="3978836486" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="sarah-jessica-parker-r1156x131.jpg" crc="458897469" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="top10-9r1139x117.jpg" crc="150764057" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="sarah-jessica-parker-r1400x336.jpg" crc="4037777087" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="top10-9r1400x336.jpg" crc="3851743338" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="sarah-jessica-parker-r1345x290.jpg" crc="3788224295" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="top10-9r1345x290.jpg" crc="62910525" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="sarah-jessica-parker-r1313x262.jpg" crc="101622115" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="top10-9r1313x262.jpg" crc="27493966" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="sarah-jessica-parker-r1267x224.jpg" crc="113563972" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
+    <file name="top10-9r1267x224.jpg" crc="4243258875" seo="true" ref="seminars">
+      <caption webpage="seminars" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="460529016" seo="true" mt="1684509457090" redirect="true"/>
   <file name="faq.html" crc="41173707" seo="true" mt="1683726944478" redirect="true"/>
-  <file name="seminars.html" crc="417343819" seo="true" mt="1684678237603" redirect="true"/>
+  <file name="seminars.html" crc="354016392" seo="true" mt="1684956647936" redirect="true"/>
 </manifest>
