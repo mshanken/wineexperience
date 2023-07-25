@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://nywineexperience.com/index.html</loc>
-    <lastmod>2023-07-24</lastmod>
+    <lastmod>2023-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -674,7 +674,7 @@
   </url>
   <url>
     <loc>http://nywineexperience.com/faq.html</loc>
-    <lastmod>2023-07-24</lastmod>
+    <lastmod>2023-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -710,7 +710,7 @@
   </url>
   <url>
     <loc>http://nywineexperience.com/agenda.html</loc>
-    <lastmod>2023-07-24</lastmod>
+    <lastmod>2023-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -746,7 +746,7 @@
   </url>
   <url>
     <loc>http://nywineexperience.com/seminars.html</loc>
-    <lastmod>2023-07-24</lastmod>
+    <lastmod>2023-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2411,7 +2411,7 @@
   </url>
   <url>
     <loc>http://nywineexperience.com/wineries.html</loc>
-    <lastmod>2023-07-24</lastmod>
+    <lastmod>2023-07-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2467,6 +2467,18 @@
     </image:image>
     <image:image>
       <image:loc>http://nywineexperience.com/images/nywe23-logo-mobile320x308.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/wine-glasses-50.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/nywe23-logo2560.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/wine-glasses-50-crop-u91592.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/sign-up-crop-u92210.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nywineexperience.com/images/sign-up155x154.png</image:loc>
