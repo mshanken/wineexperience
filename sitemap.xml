@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://nywineexperience.com/index.html</loc>
-    <lastmod>2023-08-03</lastmod>
+    <lastmod>2023-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -674,7 +674,7 @@
   </url>
   <url>
     <loc>http://nywineexperience.com/faq.html</loc>
-    <lastmod>2023-08-03</lastmod>
+    <lastmod>2023-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -709,8 +709,83 @@
     </image:image>
   </url>
   <url>
+    <loc>http://nywineexperience.com/wineries.html</loc>
+    <lastmod>2023-08-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/instagram-wht.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/twitter-wht.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/facebook-wht.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/top.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/menu.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/nywe23-logo-mobile.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/nywe23-logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/wine-glasses-50.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/nywe23-logo2560.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/wine-glasses-50-crop-u91592.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/sign-up-crop-u92210.png</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://nywineexperience.com/agenda.html</loc>
-    <lastmod>2023-08-03</lastmod>
+    <lastmod>2023-08-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/instagram-wht.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/twitter-wht.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/facebook-wht.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/menu.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/nywe23-logo-mobile.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/nywe23-logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/wine-glasses-50.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/nywe23-logo2560.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/wine-glasses-50-crop-u91592.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/sign-up-crop-u92210.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://nywineexperience.com/wines.html</loc>
+    <lastmod>2023-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -821,22 +896,10 @@
     <image:image>
       <image:loc>http://nywineexperience.com/images/sign-up60x60.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/nywe23-logo-mobile430x414.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up75x74.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/nywe23-logo-mobile390x375.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up69x68.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://nywineexperience.com/seminars.html</loc>
-    <lastmod>2023-08-24</lastmod>
+    <lastmod>2023-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -859,51 +922,6 @@
     </image:image>
     <image:image>
       <image:loc>http://nywineexperience.com/images/nywe23-logo2560.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up155x154.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up124x123.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up111x110.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up106x105.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up93x93.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up88x88.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up83x83.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up80x79.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up77x76.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up95x94.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up79x78.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up83x82.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up73x73.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up64x63.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up60x60.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nywineexperience.com/images/gavin-newsom.jpg</image:loc>
@@ -2545,47 +2563,14 @@
     </image:image>
   </url>
   <url>
-    <loc>http://nywineexperience.com/wineries.html</loc>
-    <lastmod>2023-08-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/instagram-wht.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/twitter-wht.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/facebook-wht.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/top.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/menu.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/nywe23-logo-mobile.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/nywe23-logo.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/wine-glasses-50.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/nywe23-logo2560.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/wine-glasses-50-crop-u91592.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up-crop-u92210.png</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://nywineexperience.com/assets/nywe21_safety.pdf</loc>
     <lastmod>2021-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://nywineexperience.com/assets/ws-nywe-wine-list-23.pdf</loc>
+    <lastmod>2023-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
