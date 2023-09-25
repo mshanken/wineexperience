@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://nywineexperience.com/index.html</loc>
-    <lastmod>2023-09-11</lastmod>
+    <lastmod>2023-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -671,7 +671,7 @@
   </url>
   <url>
     <loc>http://nywineexperience.com/faq.html</loc>
-    <lastmod>2023-09-11</lastmod>
+    <lastmod>2023-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -707,7 +707,7 @@
   </url>
   <url>
     <loc>http://nywineexperience.com/wineries.html</loc>
-    <lastmod>2023-09-11</lastmod>
+    <lastmod>2023-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -746,7 +746,7 @@
   </url>
   <url>
     <loc>http://nywineexperience.com/agenda.html</loc>
-    <lastmod>2023-09-11</lastmod>
+    <lastmod>2023-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -782,7 +782,7 @@
   </url>
   <url>
     <loc>http://nywineexperience.com/wines.html</loc>
-    <lastmod>2023-09-11</lastmod>
+    <lastmod>2023-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -818,7 +818,7 @@
   </url>
   <url>
     <loc>http://nywineexperience.com/seminars.html</loc>
-    <lastmod>2023-09-05</lastmod>
+    <lastmod>2023-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -841,6 +841,51 @@
     </image:image>
     <image:image>
       <image:loc>http://nywineexperience.com/images/nywe23-logo2560.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/sign-up155x154.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/sign-up124x123.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/sign-up111x110.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/sign-up106x105.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/sign-up93x93.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/sign-up88x88.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/sign-up83x83.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/sign-up80x79.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/sign-up77x76.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/sign-up95x94.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/sign-up79x78.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/sign-up83x82.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/sign-up73x73.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/sign-up64x63.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/sign-up60x60.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nywineexperience.com/images/gavin-newsom.jpg</image:loc>
@@ -1554,9 +1599,6 @@
       <image:loc>http://nywineexperience.com/images/top10-2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nywineexperience.com/images/top10-8.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://nywineexperience.com/images/seminar_fade1680x870.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1564,9 +1606,6 @@
     </image:image>
     <image:image>
       <image:loc>http://nywineexperience.com/images/top10-2411x344.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/top10-8411x344.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nywineexperience.com/images/seminar_fade1500x777.jpg</image:loc>
@@ -1578,9 +1617,6 @@
       <image:loc>http://nywineexperience.com/images/top10-2367x307.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nywineexperience.com/images/top10-8367x307.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://nywineexperience.com/images/seminar_fade1200x622.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1588,9 +1624,6 @@
     </image:image>
     <image:image>
       <image:loc>http://nywineexperience.com/images/top10-2293x246.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/top10-8293x246.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nywineexperience.com/images/seminar_fade1070x554.jpg</image:loc>
@@ -1602,16 +1635,10 @@
       <image:loc>http://nywineexperience.com/images/top10-2262x219.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nywineexperience.com/images/top10-8262x219.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://nywineexperience.com/images/top10-1250x210.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nywineexperience.com/images/top10-2250x210.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/top10-8250x210.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nywineexperience.com/images/seminar_fade899x466.jpg</image:loc>
@@ -1623,9 +1650,6 @@
       <image:loc>http://nywineexperience.com/images/top10-2220x184.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nywineexperience.com/images/top10-8220x184.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://nywineexperience.com/images/seminar_fade850x440.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1633,9 +1657,6 @@
     </image:image>
     <image:image>
       <image:loc>http://nywineexperience.com/images/top10-2208x174.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/top10-8208x174.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nywineexperience.com/images/seminar_fade802x416.jpg</image:loc>
@@ -1647,9 +1668,6 @@
       <image:loc>http://nywineexperience.com/images/top10-2196x165.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nywineexperience.com/images/top10-8196x165.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://nywineexperience.com/images/seminar_fade768x398.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1657,9 +1675,6 @@
     </image:image>
     <image:image>
       <image:loc>http://nywineexperience.com/images/top10-2188x158.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/top10-8188x158.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nywineexperience.com/images/seminar_fade736x381.jpg</image:loc>
@@ -1671,9 +1686,6 @@
       <image:loc>http://nywineexperience.com/images/top10-2180x151.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nywineexperience.com/images/top10-8180x151.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://nywineexperience.com/images/seminar_fade667x346.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1683,9 +1695,6 @@
       <image:loc>http://nywineexperience.com/images/top10-2163x137.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nywineexperience.com/images/top10-8163x137.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://nywineexperience.com/images/seminar_fade568x294.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1693,9 +1702,6 @@
     </image:image>
     <image:image>
       <image:loc>http://nywineexperience.com/images/top10-2139x117.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/top10-8139x117.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nywineexperience.com/images/seminar_fade480x249.jpg</image:loc>
@@ -1887,9 +1893,6 @@
       <image:loc>http://nywineexperience.com/images/top10-5r1400x336.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nywineexperience.com/images/top10-8400x336.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://nywineexperience.com/images/vitalie-taittinger345x290.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1957,9 +1960,6 @@
     </image:image>
     <image:image>
       <image:loc>http://nywineexperience.com/images/top10-5r1345x290.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/top10-8345x290.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nywineexperience.com/images/vitalie-taittinger313x262.jpg</image:loc>
@@ -2031,9 +2031,6 @@
       <image:loc>http://nywineexperience.com/images/top10-5r1313x262.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nywineexperience.com/images/top10-8313x262.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://nywineexperience.com/images/vitalie-taittinger267x224.jpg</image:loc>
     </image:image>
     <image:image>
@@ -2098,9 +2095,6 @@
     </image:image>
     <image:image>
       <image:loc>http://nywineexperience.com/images/top10-5r1267x224.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/top10-8267x224.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nywineexperience.com/images/chefs778x331.jpg</image:loc>
@@ -2479,6 +2473,57 @@
     </image:image>
     <image:image>
       <image:loc>http://nywineexperience.com/images/join-waitlist-w.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/top10-8r2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/top10-8r2411x344.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/top10-8r2367x307.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/top10-8r2293x246.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/top10-8r2262x219.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/top10-8r2250x210.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/top10-8r2220x184.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/top10-8r2208x174.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/top10-8r2196x165.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/top10-8r2188x158.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/top10-8r2180x151.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/top10-8r2163x137.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/top10-8r2139x117.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/top10-8r2400x336.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/top10-8r2345x290.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/top10-8r2313x262.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/top10-8r2267x224.jpg</image:loc>
     </image:image>
   </url>
   <url>
