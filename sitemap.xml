@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://nywineexperience.com/index.html</loc>
-    <lastmod>2023-10-05</lastmod>
+    <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -668,10 +668,46 @@
     <image:image>
       <image:loc>http://nywineexperience.com/images/nywe23-ticket-sowkend-mobile321x533.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/mobile_app.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/mobile_app_icon.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/mobile_app_apple.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/mobile_app_google.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/mobile_app324x234.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/mobile_app269x195.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/mobile_app258x186.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/mobile_app238x172.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/mobile_app203x147.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/mobile_app246x178.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/mobile_app337x244.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nywineexperience.com/images/mobile_app270x195.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nywineexperience.com/wineries.html</loc>
-    <lastmod>2023-10-04</lastmod>
+    <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -710,7 +746,7 @@
   </url>
   <url>
     <loc>http://nywineexperience.com/agenda.html</loc>
-    <lastmod>2023-10-04</lastmod>
+    <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -746,7 +782,7 @@
   </url>
   <url>
     <loc>http://nywineexperience.com/wines.html</loc>
-    <lastmod>2023-10-04</lastmod>
+    <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -782,7 +818,7 @@
   </url>
   <url>
     <loc>http://nywineexperience.com/faq.html</loc>
-    <lastmod>2023-10-04</lastmod>
+    <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -818,7 +854,7 @@
   </url>
   <url>
     <loc>http://nywineexperience.com/seminars.html</loc>
-    <lastmod>2023-10-10</lastmod>
+    <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -841,51 +877,6 @@
     </image:image>
     <image:image>
       <image:loc>http://nywineexperience.com/images/nywe23-logo2560.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up155x154.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up124x123.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up111x110.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up106x105.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up93x93.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up88x88.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up83x83.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up80x79.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up77x76.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up95x94.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up79x78.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up83x82.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up73x73.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up64x63.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nywineexperience.com/images/sign-up60x60.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nywineexperience.com/images/gavin-newsom.jpg</image:loc>
