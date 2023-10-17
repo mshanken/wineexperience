@@ -1,6 +1,6 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nywineexperience.com" resolutions="1x" timestamp="1697119093181">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nywineexperience.com" resolutions="1x" timestamp="1697561932081">
   <folder name="css">
-    <file name="site_global.css" crc="3881523326"/>
+    <file name="site_global.css" crc="3906109028"/>
     <file name="master_a-master-new.css" crc="495075320" ref="index:faq:agenda:wineries:wines"/>
     <file name="nomq_preview_master_a-master-new.css" crc="373881621" ref="index:faq:agenda:wineries:wines"/>
     <file name="faq.css" crc="3996476777" ref="faq"/>
@@ -34,7 +34,7 @@
     <file name="nywe21_floorplan.pdf" crc="20530380" seo="true" mt="1633995024000"/>
     <file name="nywe21_safety.pdf" crc="4056462799" seo="true" mt="1634310570000"/>
     <file name="ws-nywe-wine-list-23.pdf" crc="4117820999" seo="true" mt="1693252132000"/>
-    <file name="nywe23_mapletter.pdf" crc="86485339" seo="true" mt="1696343610000"/>
+    <file name="nywe23_mapletter.pdf" crc="115069137" seo="true" mt="1697559769000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:faq:seminars:agenda:wineries:wines"/>
