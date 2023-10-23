@@ -1,22 +1,22 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nywineexperience.com" resolutions="1x" timestamp="1697561932081">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nywineexperience.com" resolutions="1x" timestamp="1698084391364">
   <folder name="css">
     <file name="site_global.css" crc="3906109028"/>
-    <file name="master_a-master-new.css" crc="495075320" ref="index:faq:agenda:wineries:wines"/>
-    <file name="nomq_preview_master_a-master-new.css" crc="373881621" ref="index:faq:agenda:wineries:wines"/>
-    <file name="faq.css" crc="3996476777" ref="faq"/>
-    <file name="nomq_faq.css" crc="310880658" ref="faq"/>
-    <file name="index.css" crc="3920573305" ref="index"/>
-    <file name="nomq_index.css" crc="4251917556" ref="index"/>
-    <file name="seminars.css" crc="4114021164" ref="seminars"/>
-    <file name="nomq_seminars.css" crc="487804371" ref="seminars"/>
-    <file name="master_seminars.css" crc="414271792" ref="seminars"/>
-    <file name="nomq_preview_master_seminars.css" crc="3774666100" ref="seminars"/>
-    <file name="agenda.css" crc="266327318" ref="agenda"/>
-    <file name="nomq_agenda.css" crc="4213068346" ref="agenda"/>
-    <file name="wineries.css" crc="3910857990" ref="wineries"/>
-    <file name="nomq_wineries.css" crc="399040042" ref="wineries"/>
-    <file name="wines.css" crc="290879524" ref="wines"/>
-    <file name="nomq_wines.css" crc="427672694" ref="wines"/>
+    <file name="master_a-master-new.css" crc="306582245" ref="index:faq:agenda:wineries:wines"/>
+    <file name="nomq_preview_master_a-master-new.css" crc="455235134" ref="index:faq:agenda:wineries:wines"/>
+    <file name="faq.css" crc="404249262" ref="faq"/>
+    <file name="nomq_faq.css" crc="4214817742" ref="faq"/>
+    <file name="index.css" crc="234233492" ref="index"/>
+    <file name="nomq_index.css" crc="3780338437" ref="index"/>
+    <file name="seminars.css" crc="3763890499" ref="seminars"/>
+    <file name="nomq_seminars.css" crc="431942255" ref="seminars"/>
+    <file name="master_seminars.css" crc="148900602" ref="seminars"/>
+    <file name="nomq_preview_master_seminars.css" crc="3943803237" ref="seminars"/>
+    <file name="agenda.css" crc="43225623" ref="agenda"/>
+    <file name="nomq_agenda.css" crc="228058822" ref="agenda"/>
+    <file name="wineries.css" crc="436015858" ref="wineries"/>
+    <file name="nomq_wineries.css" crc="197526905" ref="wineries"/>
+    <file name="wines.css" crc="3967544652" ref="wines"/>
+    <file name="nomq_wines.css" crc="341758846" ref="wines"/>
   </folder>
   <folder name="fonts">
     <file name="worksans-regular.woff" crc="283533100"/>
@@ -94,60 +94,6 @@
       <caption webpage="agenda" alt=""/>
       <caption webpage="agenda" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
       <caption webpage="wines" alt=""/>
       <caption webpage="wines" alt=""/>
       <caption webpage="wines" alt=""/>
@@ -165,6 +111,60 @@
       <caption webpage="wines" alt=""/>
       <caption webpage="wines" alt=""/>
       <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
     </file>
     <file name="twitter-wht.png" crc="96752590" seo="true" ref="index:faq:seminars:agenda:wineries:wines">
       <caption webpage="index" alt=""/>
@@ -210,60 +210,6 @@
       <caption webpage="agenda" alt=""/>
       <caption webpage="agenda" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
       <caption webpage="wines" alt=""/>
       <caption webpage="wines" alt=""/>
       <caption webpage="wines" alt=""/>
@@ -281,6 +227,60 @@
       <caption webpage="wines" alt=""/>
       <caption webpage="wines" alt=""/>
       <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
     </file>
     <file name="facebook-wht.png" crc="88082561" seo="true" ref="index:faq:seminars:agenda:wineries:wines">
       <caption webpage="index" alt=""/>
@@ -326,60 +326,6 @@
       <caption webpage="agenda" alt=""/>
       <caption webpage="agenda" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
       <caption webpage="wines" alt=""/>
       <caption webpage="wines" alt=""/>
       <caption webpage="wines" alt=""/>
@@ -397,6 +343,60 @@
       <caption webpage="wines" alt=""/>
       <caption webpage="wines" alt=""/>
       <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
     </file>
     <file name="hotel.jpg" crc="38760255" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -489,6 +489,14 @@
       <caption webpage="agenda" alt=""/>
       <caption webpage="agenda" alt=""/>
       <caption webpage="agenda" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
       <caption webpage="faq" alt=""/>
       <caption webpage="faq" alt=""/>
       <caption webpage="faq" alt=""/>
@@ -497,14 +505,6 @@
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
-      <caption webpage="wines" alt=""/>
     </file>
     <file name="wave.png" crc="4259276063" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
@@ -582,79 +582,79 @@
     <file name="eventpic3-crop-u86032.jpg" crc="533654995" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eventpic2-crop-u86003.jpg" crc="3805402413" seo="true" ref="index">
+    <file name="eventpic2-crop-u86003.jpg" crc="66958031" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="eventpic3-crop-u86033.jpg" crc="38787199" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eventpic2-crop-u86004.jpg" crc="217145414" seo="true" ref="index">
+    <file name="eventpic2-crop-u86004.jpg" crc="299226693" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="eventpic3-crop-u86034.jpg" crc="3786694151" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eventpic2-crop-u86005.jpg" crc="514159164" seo="true" ref="index">
+    <file name="eventpic2-crop-u86005.jpg" crc="4055177177" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="eventpic3-crop-u86035.jpg" crc="58957173" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eventpic2-crop-u86006.jpg" crc="464424477" seo="true" ref="index">
+    <file name="eventpic2-crop-u86006.jpg" crc="335980465" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="eventpic3-crop-u86036.jpg" crc="4243508078" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eventpic2-crop-u86007.jpg" crc="4161541173" seo="true" ref="index">
+    <file name="eventpic2-crop-u86007.jpg" crc="1431461" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="eventpic3-crop-u86037.jpg" crc="290757578" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eventpic2-crop-u86008.jpg" crc="4175606498" seo="true" ref="index">
+    <file name="eventpic2-crop-u86008.jpg" crc="4104638779" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="eventpic3-crop-u86038.jpg" crc="4183877614" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eventpic2-crop-u86009.jpg" crc="4135564548" seo="true" ref="index">
+    <file name="eventpic2-crop-u86009.jpg" crc="481418131" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="eventpic3-crop-u86039.jpg" crc="4024273523" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eventpic2-crop-u860010.jpg" crc="306643612" seo="true" ref="index">
+    <file name="eventpic2-crop-u860010.jpg" crc="4272533698" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="eventpic3-crop-u860310.jpg" crc="3881924351" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eventpic2-crop-u860011.jpg" crc="3685373" seo="true" ref="index">
+    <file name="eventpic2-crop-u860011.jpg" crc="3979016556" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="eventpic3-crop-u860311.jpg" crc="4215056303" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eventpic2-crop-u860012.jpg" crc="4280297110" seo="true" ref="index">
+    <file name="eventpic2-crop-u860012.jpg" crc="3944708715" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="eventpic3-crop-u860312.jpg" crc="367824363" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eventpic2-crop-u860013.jpg" crc="4017712413" seo="true" ref="index">
+    <file name="eventpic2-crop-u860013.jpg" crc="27914181" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="eventpic3-crop-u860313.jpg" crc="137898649" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eventpic2-crop-u860014.jpg" crc="144779244" seo="true" ref="index">
+    <file name="eventpic2-crop-u860014.jpg" crc="456511470" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="eventpic3-crop-u860314.jpg" crc="4071140483" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eventpic2-crop-u860015.jpg" crc="417603323" seo="true" ref="index">
+    <file name="eventpic2-crop-u860015.jpg" crc="7139168" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="eventpic1-crop-u86222.jpg" crc="3829238401" seo="true" ref="index">
@@ -837,14 +837,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
       <caption webpage="wines" alt=""/>
       <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="nywe23-logo.jpg" crc="393719297" seo="true" ref="index:faq:agenda:wineries:wines">
       <caption webpage="index" alt=""/>
@@ -853,115 +853,115 @@
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
       <caption webpage="wines" alt=""/>
       <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="nywe23-logo1070x658.jpg" crc="4194196909" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
       <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="nywe23-logo1024x630.jpg" crc="184664665" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
       <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="nywe23-logo899x553.jpg" crc="80624609" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
       <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="nywe23-logo850x523.jpg" crc="4194996128" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
       <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="nywe23-logo802x493.jpg" crc="489636787" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
       <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="nywe23-logo768x472.jpg" crc="252402437" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
       <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="nywe23-logo736x453.jpg" crc="210355119" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
       <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="nywe23-logo-mobile480x462.jpg" crc="4082981011" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
       <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="nywe23-logo-mobile414x398.jpg" crc="93308423" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
       <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="nywe23-logo-mobile375x361.jpg" crc="331609175" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
       <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="nywe23-logo-mobile320x308.jpg" crc="4017466429" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
       <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="wine-glasses-50.jpg" crc="3968903542" seo="true" ref="index:faq:agenda:wineries:wines">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
       <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="nywe23-logo2560.png" crc="197739711" seo="true" ref="index:faq:seminars:agenda:wineries:wines">
       <caption webpage="index" alt=""/>
@@ -970,25 +970,25 @@
       <caption webpage="agenda" alt=""/>
       <caption webpage="agenda" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
       <caption webpage="wines" alt=""/>
       <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
+      <caption webpage="seminars" alt=""/>
     </file>
     <file name="wine-glasses-50-crop-u91592.jpg" crc="3898610638" seo="true" ref="index:faq:agenda:wineries:wines">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
       <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
     <file name="sign-up-crop-u92210.png" crc="388085906" seo="true" ref="index:faq:agenda:wineries:wines">
       <caption webpage="index" alt=""/>
@@ -998,161 +998,161 @@
       <caption webpage="agenda" alt=""/>
       <caption webpage="agenda" alt=""/>
       <caption webpage="agenda" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
-      <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wineries" alt=""/>
       <caption webpage="wines" alt=""/>
       <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="wineries" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
+      <caption webpage="faq" alt=""/>
     </file>
-    <file name="sign-up155x154.png" crc="4125433147" seo="true" ref="index">
+    <file name="sign-up155x154.png" crc="4125433147" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
       <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wines" alt=""/>
     </file>
-    <file name="sign-up124x123.png" crc="4010550713" seo="true" ref="index">
+    <file name="sign-up124x123.png" crc="4010550713" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
       <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wines" alt=""/>
     </file>
     <file name="hotel-crop-u88076.jpg" crc="4161590920" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sign-up111x110.png" crc="4144866539" seo="true" ref="index">
+    <file name="sign-up111x110.png" crc="4144866539" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
       <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wines" alt=""/>
     </file>
     <file name="hotel395x532.jpg" crc="421883736" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sign-up106x105.png" crc="411339891" seo="true" ref="index">
+    <file name="sign-up106x105.png" crc="411339891" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
       <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wines" alt=""/>
     </file>
     <file name="hotel375x506.jpg" crc="180092833" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sign-up93x93.png" crc="4145983279" seo="true" ref="index">
+    <file name="sign-up93x93.png" crc="4145983279" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
       <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wines" alt=""/>
     </file>
     <file name="hotel335x451.jpg" crc="513774822" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sign-up88x88.png" crc="124465375" seo="true" ref="index">
+    <file name="sign-up88x88.png" crc="124465375" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
       <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wines" alt=""/>
     </file>
     <file name="hotel318x428.jpg" crc="4251759433" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sign-up83x83.png" crc="3801062349" seo="true" ref="index">
+    <file name="sign-up83x83.png" crc="3801062349" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
       <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wines" alt=""/>
     </file>
     <file name="hotel300x404.jpg" crc="433357357" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sign-up80x79.png" crc="334289549" seo="true" ref="index">
+    <file name="sign-up80x79.png" crc="334289549" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
       <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wines" alt=""/>
     </file>
     <file name="hotel-crop-u880762.jpg" crc="4281316873" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sign-up77x76.png" crc="3891982299" seo="true" ref="index">
+    <file name="sign-up77x76.png" crc="3891982299" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
       <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wines" alt=""/>
     </file>
     <file name="hotel-crop-u880763.jpg" crc="3864353501" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sign-up95x94.png" crc="3897006355" seo="true" ref="index">
+    <file name="sign-up95x94.png" crc="3897006355" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
       <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wines" alt=""/>
     </file>
-    <file name="sign-up79x78.png" crc="334289549" seo="true" ref="index">
+    <file name="sign-up79x78.png" crc="334289549" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
       <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wines" alt=""/>
     </file>
-    <file name="sign-up83x82.png" crc="3801062349" seo="true" ref="index">
+    <file name="sign-up83x82.png" crc="3801062349" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
       <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wines" alt=""/>
     </file>
-    <file name="sign-up73x73.png" crc="231998404" seo="true" ref="index">
+    <file name="sign-up73x73.png" crc="231998404" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
       <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wines" alt=""/>
     </file>
-    <file name="sign-up64x63.png" crc="54946266" seo="true" ref="index">
+    <file name="sign-up64x63.png" crc="54946266" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
       <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wines" alt=""/>
     </file>
-    <file name="sign-up60x60.png" crc="310865388" seo="true" ref="index">
+    <file name="sign-up60x60.png" crc="310865388" seo="true" ref="index:seminars">
       <caption webpage="index" alt=""/>
       <caption webpage="agenda" alt=""/>
+      <caption webpage="wines" alt=""/>
+      <caption webpage="wineries" alt=""/>
       <caption webpage="faq" alt=""/>
       <caption webpage="seminars" alt=""/>
-      <caption webpage="wineries" alt=""/>
-      <caption webpage="wines" alt=""/>
     </file>
     <file name="eventpic4b-crop-u87629.jpg" crc="3941624950" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -1265,7 +1265,7 @@
     <file name="eventpic1-crop-u86228.jpg" crc="4000659766" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eventpic2-crop-u860017.jpg" crc="71735551" seo="true" ref="index">
+    <file name="eventpic2-crop-u860017.jpg" crc="4003828428" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="eventpic3-crop-u860318.jpg" crc="55829824" seo="true" ref="index">
@@ -1274,7 +1274,7 @@
     <file name="eventpic1-crop-u86229.jpg" crc="352104638" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eventpic2-crop-u860018.jpg" crc="304726649" seo="true" ref="index">
+    <file name="eventpic2-crop-u860018.jpg" crc="4065974786" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="eventpic3-crop-u860319.jpg" crc="4156646626" seo="true" ref="index">
@@ -2773,7 +2773,7 @@
     <file name="eventpic1390x294.jpg" crc="252918386" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eventpic2-crop-u860019.jpg" crc="3806823079" seo="true" ref="index">
+    <file name="eventpic2-crop-u860019.jpg" crc="3809841346" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="eventpic3-crop-u860320.jpg" crc="59757474" seo="true" ref="index">
@@ -2791,63 +2791,13 @@
     <file name="hotel319x430.jpg" crc="220655458" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eventpic2-crop-u860020.jpg" crc="325758446" seo="true" ref="index">
+    <file name="eventpic2-crop-u860020.jpg" crc="4236026014" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="eventpic3-crop-u860321.jpg" crc="3846102419" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eventpic2-crop-u860021.jpg" crc="446348226" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="thursday400-ga1.jpg" crc="4107972342" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="friday400-ga1.jpg" crc="153983688" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="eventpic2-crop-u860021.jpg" crc="503235700" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="top10-9r2.jpg" crc="3956430098" seo="true" ref="seminars">
@@ -2902,7 +2852,7 @@
     <file name="top10-9r2267x224.jpg" crc="4291808401" seo="true" ref="seminars">
       <caption webpage="seminars" alt=""/>
     </file>
-    <file name="nywe23-ticket-options-so.jpg" crc="74167455" seo="true" ref="index">
+    <file name="nywe23-ticket-options-so.jpg" crc="37915650" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -2910,84 +2860,44 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="nywe23-ticket-options-so1200x1274.jpg" crc="74167455" seo="true" ref="index">
+    <file name="nywe23-ticket-options-so1200x1274.jpg" crc="3952784917" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="nywe23-ticket-options-so1070x1136.jpg" crc="31499149" seo="true" ref="index">
+    <file name="nywe23-ticket-options-so1070x1136.jpg" crc="159648827" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="nywe23-ticket-options-so1024x1087.jpg" crc="271670684" seo="true" ref="index">
+    <file name="nywe23-ticket-options-so1024x1087.jpg" crc="4015114046" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="nywe23-ticket-options-so899x955.jpg" crc="4074074430" seo="true" ref="index">
+    <file name="nywe23-ticket-options-so899x955.jpg" crc="4276317685" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="nywe23-ticket-options-so850x903.jpg" crc="4206527276" seo="true" ref="index">
+    <file name="nywe23-ticket-options-so850x903.jpg" crc="4040060958" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="nywe23-ticket-options-so802x852.jpg" crc="4174225590" seo="true" ref="index">
+    <file name="nywe23-ticket-options-so802x852.jpg" crc="3920052789" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="nywe23-ticket-options-so768x816.jpg" crc="4201282590" seo="true" ref="index">
+    <file name="nywe23-ticket-options-so768x816.jpg" crc="506640888" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="nywe23-ticket-options-so736x782.jpg" crc="3880531614" seo="true" ref="index">
+    <file name="nywe23-ticket-options-so736x782.jpg" crc="145855000" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="nywe23-ticket-options-so667x708.jpg" crc="3907142279" seo="true" ref="index">
+    <file name="nywe23-ticket-options-so667x708.jpg" crc="20351357" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="nywe23-ticket-options-so568x603.jpg" crc="4018681368" seo="true" ref="index">
+    <file name="nywe23-ticket-options-so568x603.jpg" crc="12466623" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="nywe23-ticket-options-mobile-so.jpg" crc="4150262827" seo="true" ref="index">
+    <file name="nywe23-ticket-options-mobile-so.jpg" crc="4094176526" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="join-waitlist-r.jpg" crc="4091294112" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-    </file>
-    <file name="join-waitlist-w.jpg" crc="319083907" seo="true" ref="seminars">
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-      <caption webpage="seminars" alt=""/>
-    </file>
-    <file name="nywe23-ticket-options-mobile-so320x533.jpg" crc="4111906435" seo="true" ref="index">
+    <file name="nywe23-ticket-options-mobile-so320x533.jpg" crc="286160062" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="nywe23-logo-mobile538x518.jpg" crc="249747344" seo="true" ref="index">
@@ -3008,7 +2918,7 @@
     <file name="eventpic3181x136.jpg" crc="532454557" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="nywe23-ticket-options-so538x571.jpg" crc="49598370" seo="true" ref="index">
+    <file name="nywe23-ticket-options-so538x571.jpg" crc="417835698" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="hotel194x261.jpg" crc="4157046164" seo="true" ref="index">
@@ -3329,10 +3239,10 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3935842284" seo="true" mt="1697118934665" redirect="true"/>
-  <file name="faq.html" crc="316266518" seo="true" mt="1697118934665" redirect="true"/>
-  <file name="seminars.html" crc="160978223" seo="true" mt="1697118990885" redirect="true"/>
-  <file name="agenda.html" crc="4215322831" seo="true" mt="1697118934665" redirect="true"/>
-  <file name="wineries.html" crc="3834444840" seo="true" mt="1697118934665" redirect="true"/>
-  <file name="wines.html" crc="4079215510" seo="true" mt="1697118934665" redirect="true"/>
+  <file name="index.html" crc="4039219921" seo="true" mt="1698082627793" redirect="true"/>
+  <file name="faq.html" crc="3863219440" seo="true" mt="1698082205231" redirect="true"/>
+  <file name="seminars.html" crc="4006102778" seo="true" mt="1698084235616" redirect="true"/>
+  <file name="agenda.html" crc="3776598751" seo="true" mt="1698082205231" redirect="true"/>
+  <file name="wineries.html" crc="294777582" seo="true" mt="1698082205231" redirect="true"/>
+  <file name="wines.html" crc="533167685" seo="true" mt="1698082205231" redirect="true"/>
 </manifest>
